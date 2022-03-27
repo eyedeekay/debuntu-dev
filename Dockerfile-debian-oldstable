@@ -1,0 +1,11 @@
+FROM debian:oldstable
+ENV DEBIAN_FRONTEND noninteractive
+COPY build-i2p.i2p.sh /java/build-i2p.i2p.sh
+RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get install -y debhelper ant debconf default-jdk gettext libgmp-dev po-debconf fakeroot \
+        build-essential quilt dh-apparmor libservice-wrapper-java libjson-simple-java \
+        devscripts libjetty9-java libtomcat9-java libtaglibs-standard-jstlel-java libgetopt-java \
+        git bash-completion && mkdir -p /java/i2p.i2p && chmod -R a+rwx /java/ && chown -R 1000:1000 /java/ 
+WORKDIR /java/
+CMD /java/build-i2p.i2p.sh
