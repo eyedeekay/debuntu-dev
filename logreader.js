@@ -6,7 +6,7 @@ window.addEventListener("load", function() {
     // get the text of the li and download the contents, relative to the current directory
     for (var i = 0; i < lis.length; i++) {
         var li = lis[i];
-        console.log(li.textContent);
+        console.log("log dammit", li.textContent);
         // create a new div with id==text of the li
         var div = document.createElement("div");
         div.id = li.textContent;
