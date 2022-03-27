@@ -33,9 +33,12 @@ window.addEventListener("load", function() {
             for (var i = 0; i < divs.length; i++) {
                 divs[i].style.display = "none";
             }
-            // show the div with the id of the li
-            document.getElementById(this.textContent).style.display = "block";
-            // scroll to the div
+            // show the first div inside of the li
+            var div = li.getElementsByTagName("div");
+            for (var i = 0; i < div.length; i++) {
+                div[i].style.display = "block";
+            }
+
             window.scrollTo(0, this.offsetTop);
         });
     }
