@@ -9,22 +9,24 @@ window.addEventListener("load", function() {
         // create a new div with id==text of the li
         var div = document.createElement("div");
         div.id = li.textContent;
-        // create a preformatted code section inside of the div
-        var pre = document.createElement("pre");
+
         // request the file contents by doing an xhr
         var xhr = new XMLHttpRequest();
         xhr.open("GET", li.textContent, false);
         xhr.send();
         // put the contents of the file into the preformatted code section when a response is recieved
         xhr.onreadystatechange = function() {
-                if (xhr.readyState == 4) {
-                    pre.textContent = xhr.responseText;
-                }
+            if (xhr.readyState == 4) {
+                // create a preformatted code section inside of the div
+                var pre = document.createElement("pre");
+                pre.textContent = xhr.responseText;
+                // add the preformatted code section to the div
+                div.appendChild(pre);
+                // add the div to the body
+                document.body.appendChild(div);
             }
-            // add the preformatted code section to the div
-        div.appendChild(pre);
-        // add the div to the body
-        document.body.appendChild(div);
+        }
+
         //li.appendChild(div);
         // add a click event to the li
         li.addEventListener("click", function() {
