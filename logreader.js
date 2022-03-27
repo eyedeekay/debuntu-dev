@@ -16,6 +16,7 @@ window.addEventListener("load", function() {
                         div.id = li.textContent;
                         // create a preformatted code section inside of the div
                         response.text().then(function(text) {
+                            console.log("text", text);
                             var pre = document.createElement("pre");
                             pre.textContent = text;
                             div.appendChild(pre);
