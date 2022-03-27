@@ -296,7 +296,7 @@ index:
 	@echo '<body>' | tee -a index.html
 	pandoc README.md | tee -a index.html
 	@echo '<ol>' | tee -a index.html
-	find . -maxdepth 1 -name '*.log' -exec echo "<li><a href=#{}>{}</li>" \; | sort | tee -a index.html
+	find . -maxdepth 1 -name '*.log' -exec echo "<li><a href={}>{}</li>" \; | sort | tee -a index.html
 	@echo '</ol>' | tee -a index.html
 	@echo '	<!-- page content -->'  | tee -a index.html
 	@echo '</body>' | tee -a index.html
