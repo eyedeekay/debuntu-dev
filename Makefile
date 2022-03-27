@@ -229,7 +229,7 @@ endpoint-ubuntu-latest:
 	sleep 2s
 
 endpoint-ubuntu-rolling:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-rolling" -d $(DESC); true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-rolling" -n "I2P Dev Builds for: ubuntu-rolling" -d $(DESC); true
 	sleep 2s
 
 endpoint-ubuntu-devel:
