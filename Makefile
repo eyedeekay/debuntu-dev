@@ -209,73 +209,78 @@ clean-Dockerfile-debian-unstable:
 	docker rmi "$(IMAGE_NAME):debian-unstable"; true
 	rm -f Dockerfile-debian-unstable
 
+DESC="`cat README.md`"
+
+desc:
+	echo $(DESC)
+
 daily-release:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t $(DATE) -n "I2P Dev Builds from: $(DATE)" -d `cat README.md`; true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t $(DATE) -n "I2P Dev Builds from: $(DATE)" -d $(DESC); true
 	sleep 2s
 
 upload-dailies:
-	find . -maxdepth 1 -name '*$(DATE)*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t $(DATE) -n \$$deb -f \$$deb" \;
-	#gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t $(DATE) -n \$$deb -f \$$deb
+	find . -maxdepth 1 -name '*$(DATE)*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t $(DATE) -n \$$deb -f \$$deb" \;
+	#gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t $(DATE) -n \$$deb -f \$$deb
 
 endpoints: endpoint-ubuntu-latest endpoint-ubuntu-rolling endpoint-ubuntu-devel endpoint-debian-oldstable endpoint-debian-stable endpoint-debian-testing endpoint-debian-unstable
 
 endpoint-ubuntu-latest:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-latest" -d `cat README.md`; true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-latest" -d $(DESC); true
 	sleep 2s
 
 endpoint-ubuntu-rolling:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-rolling" -d `cat README.md`; true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-rolling" -d $(DESC); true
 	sleep 2s
 
-#endpoint-ubuntu-devel:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-devel" -d `cat README.md`; true
+endpoint-ubuntu-devel:
+#	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-devel" -d $(DESC); true
 	sleep 2s
 
 endpoint-debian-oldstable:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-oldstable" -n "I2P Dev Builds for: debian-oldstable" -d `cat README.md`; true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-oldstable" -n "I2P Dev Builds for: debian-oldstable" -d $(DESC); true
 	sleep 2s
 
 endpoint-debian-stable:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-stable" -n "I2P Dev Builds for: debian-stable" -d `cat README.md`; true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-stable" -n "I2P Dev Builds for: debian-stable" -d $(DESC); true
 	sleep 2s
 
 endpoint-debian-testing:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-testing" -n "I2P Dev Builds for: debian-testing" -d `cat README.md`; true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-testing" -n "I2P Dev Builds for: debian-testing" -d $(DESC); true
 	sleep 2s
 
 endpoint-debian-unstable:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-unstable" -n "I2P Dev Builds for: debian-unstable" -d `cat README.md`; true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-unstable" -n "I2P Dev Builds for: debian-unstable" -d $(DESC); true
 	sleep 2s
 
 upload-all: upload-ubuntu-latest upload-ubuntu-rolling upload-ubuntu-devel upload-debian-oldstable upload-debian-stable upload-debian-testing upload-debian-unstable
 
 upload-ubuntu-latest:
 	gothub upload -R -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -f docker-ubuntu-latest.log -n docker-ubuntu-latest-$(TIME).log -l "Build log for ubuntu-latest: $(TIME)"
-	find . -maxdepth 1 -name '*ubuntu-latest*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t ubuntu-latest -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name '*ubuntu-latest*.deb' -exec bash -c "export deb={} && export debsum=\"\`sha256sum \$$deb\`\"; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\" -t ubuntu-latest -n \$$deb -f \$$deb" \;
 
 upload-ubuntu-rolling:
 	gothub upload -R -u eyedeekay -r debuntu-dev -t "ubuntu-rolling" -f docker-ubuntu-rolling.log -n docker-ubuntu-rolling-$(TIME).log -l "Build log for ubuntu-rolling: $(TIME)"
-	find . -maxdepth 1 -name '*ubuntu-rolling*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t ubuntu-rolling -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name '*ubuntu-rolling*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t ubuntu-rolling -n \$$deb -f \$$deb" \;
 
 upload-ubuntu-devel:
 	gothub upload -R -u eyedeekay -r debuntu-dev -t "ubuntu-devel" -f docker-ubuntu-devel.log -n docker-ubuntu-devel-$(TIME).log -l "Build log for ubuntu-devel: $(TIME)"
-	find . -maxdepth 1 -name '*ubuntu-devel*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t ubuntu-devel -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name '*ubuntu-devel*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t ubuntu-devel -n \$$deb -f \$$deb" \;
 
 upload-debian-oldstable:
 	gothub upload -R -u eyedeekay -r debuntu-dev -t "debian-oldstable" -f docker-debian-oldstable.log -n docker-debian-oldstable-$(TIME).log -l "Build log for debian-oldstable: $(TIME)"
-	find . -maxdepth 1 -name '*debian-unstable*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t debian-oldstable -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name '*debian-unstable*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t debian-oldstable -n \$$deb -f \$$deb" \;
 
 upload-debian-stable:
 	gothub upload -R -u eyedeekay -r debuntu-dev -t "debian-stable" -f docker-debian-stable.log -n docker-debian-stable-$(TIME).log -l "Build log for debian-stable: $(TIME)"
-	find . -maxdepth 1 -name '*debian-stable*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t debian-stable -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name '*debian-stable*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t debian-stable -n \$$deb -f \$$deb" \;
 
 upload-debian-testing:
 	gothub upload -R -u eyedeekay -r debuntu-dev -t "debian-testing" -f docker-debian-testing.log -n docker-debian-testing-$(TIME).log -l "Build log for debian-testing: $(TIME)"
-	find . -maxdepth 1 -name '*debian-testing*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t debian-testing -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name '*debian-testing*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t debian-testing -n \$$deb -f \$$deb" \;
 
 upload-debian-unstable:
 	gothub upload -R -u eyedeekay -r debuntu-dev -t "debian-unstable" -f docker-debian-unstable.log -n docker-debian-unstable-$(TIME).log -l "Build log for debian-unstable: $(TIME)"
-	find . -maxdepth 1 -name '*debian-unstable*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t debian-unstable -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name '*debian-unstable*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t debian-unstable -n \$$deb -f \$$deb" \;
 
 github-mad: all daily-release upload-dailies endpoints upload-all
 
