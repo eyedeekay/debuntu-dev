@@ -16,4 +16,7 @@ Microsoft can afford it, run:
 
 `make github-mad`
 
-to upload your dev packages to github when you're done.
+to upload your dev packages to github when you're done. If you want to use my builds,
+you can grab them at the github releases page.
+
+Logs are uploaded with each build. They can be viewed below.

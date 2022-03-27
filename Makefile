@@ -278,3 +278,19 @@ upload-debian-unstable:
 	find . -maxdepth 1 -name '*debian-unstable*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \$$debsum -t debian-unstable -n \$$deb -f \$$deb" \;
 
 github-mad: all daily-release upload-dailies endpoints upload-all
+
+index:
+	@echo '<!DOCTYPE html>' | tee index.html
+	@echo '<html lang="en">' | tee -a index.html
+	@echo '<head>' | tee -a index.html
+	@echo '	<meta charset="utf-8">' | tee -a index.html
+	@echo '	<title>I2P Dev Builds</title>' | tee -a index.html
+	@echo '	<link rel="stylesheet" href="style.css">' | tee -a index.html
+	@echo '	<script src="logreader.js"></script>' | tee -a index.html
+	@echo '</head>' | tee -a index.html
+	@echo '<body>' | tee -a index.html
+	pandoc README.md | tee -a index.html
+	find . -maxdepth 1 -name '*.log' -exec echo "<ol><li><a href=#{}>{}</li></ol>" \; | sort | tee -a index.html
+	@echo '	<!-- page content -->'  | tee -a index.html
+	@echo '</body>' | tee -a index.html
+	@echo '</html>' | tee -a index.html
