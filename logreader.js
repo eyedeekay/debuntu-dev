@@ -21,7 +21,7 @@ window.addEventListener("load", function() {
                     pre.textContent = text;
                     div.appendChild(pre);
                     // append the div to the body
-                    document.body.appendChild(div);
+                    li.body.appendChild(div);
                 }).catch(function(err) { console.log(err) });
                 // hide the div
                 div.style.display = "none";
@@ -37,20 +37,6 @@ window.addEventListener("load", function() {
             document.getElementById(this.textContent).style.display = "block";
             // scroll to the div
             window.scrollTo(0, this.offsetTop);
-        });
-        // add exactly the same event to the a
-        var a = li.querySelector("a");
-        a.addEventListener("click", function(e) {
-            e.preventDefault();
-            // hide all divs
-            var divs = document.querySelectorAll("div");
-            for (var i = 0; i < divs.length; i++) {
-                divs[i].style.display = "none";
-            }
-            // show the div with the id of the li
-            document.getElementById(this.textContent).style.display = "block";
-            // scroll to the div
-            window.scrollTo(0, this.offsetParent.offsetTop);
         });
     }
 });
