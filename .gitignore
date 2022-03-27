@@ -1,2 +1,4 @@
 *.deb
 i2p.i2p-*/
+*.log
+log
