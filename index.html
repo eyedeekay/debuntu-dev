@@ -9,6 +9,7 @@
 <body>
 <h1 id="debuntu-dev">debuntu-dev</h1>
 <p>Containerized script to produce a dev build of I2P for all supported architectures. I use a lot of Debian based systems and coordinating updates between them is sometimes an issue.</p>
+<p>These are built on an as-needed basis. The process is essentially designed to be fire and forget, and if things fail, the right response is to upload the log so we can see why. Not all packages will be available at all times but stable, oldstable, LTS, and usually testing will work.</p>
 <p>To use it, install Docker, add yourself to the docker group, restart your shell and run</p>
 <p><code>make</code>.</p>
 <p>Then wait. It will generate containers, update them, installl dependencies, and build I2P a total of 7 times.</p>

@@ -3,6 +3,11 @@ Containerized script to produce a dev build of I2P for all supported architectur
 I use a lot of Debian based systems and coordinating updates between them is
 sometimes an issue.
 
+These are built on an as-needed basis. The process is essentially designed to be
+fire and forget, and if things fail, the right response is to upload the log so
+we can see why. Not all packages will be available at all times but stable,
+oldstable, LTS, and usually testing will work.
+
 To use it, install Docker, add yourself to the docker group, restart your shell and
 run
 
