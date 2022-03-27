@@ -10,6 +10,7 @@ window.addEventListener("load", function() {
         // request the file contents by doing a fetch
         fetch(li.textContent)
             .then(function(response) {
+                console.log("response", response);
                 // create a new div with id==text of the li
                 var div = document.createElement("div");
                 div.id = li.textContent;
