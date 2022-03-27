@@ -1,0 +1,1187 @@
+Cloning into 'i2p.i2p'...
+warning: redirecting to https://i2pgit.org/i2p-hackers/i2p.i2p.git/
+remote: Enumerating objects: 4870, done.[K
+remote: Counting objects:   0% (1/4870)[Kremote: Counting objects:   1% (49/4870)[Kremote: Counting objects:   2% (98/4870)[Kremote: Counting objects:   3% (147/4870)[Kremote: Counting objects:   4% (195/4870)[Kremote: Counting objects:   5% (244/4870)[Kremote: Counting objects:   6% (293/4870)[Kremote: Counting objects:   7% (341/4870)[Kremote: Counting objects:   8% (390/4870)[Kremote: Counting objects:   9% (439/4870)[Kremote: Counting objects:  10% (487/4870)[Kremote: Counting objects:  11% (536/4870)[Kremote: Counting objects:  12% (585/4870)[Kremote: Counting objects:  13% (634/4870)[Kremote: Counting objects:  14% (682/4870)[Kremote: Counting objects:  15% (731/4870)[Kremote: Counting objects:  16% (780/4870)[Kremote: Counting objects:  17% (828/4870)[Kremote: Counting objects:  18% (877/4870)[Kremote: Counting objects:  19% (926/4870)[Kremote: Counting objects:  20% (974/4870)[Kremote: Counting objects:  21% (1023/4870)[Kremote: Counting objects:  22% (1072/4870)[Kremote: Counting objects:  23% (1121/4870)[Kremote: Counting objects:  24% (1169/4870)[Kremote: Counting objects:  25% (1218/4870)[Kremote: Counting objects:  26% (1267/4870)[Kremote: Counting objects:  27% (1315/4870)[Kremote: Counting objects:  28% (1364/4870)[Kremote: Counting objects:  29% (1413/4870)[Kremote: Counting objects:  30% (1461/4870)[Kremote: Counting objects:  31% (1510/4870)[Kremote: Counting objects:  32% (1559/4870)[Kremote: Counting objects:  33% (1608/4870)[Kremote: Counting objects:  34% (1656/4870)[Kremote: Counting objects:  35% (1705/4870)[Kremote: Counting objects:  36% (1754/4870)[Kremote: Counting objects:  37% (1802/4870)[Kremote: Counting objects:  38% (1851/4870)[Kremote: Counting objects:  39% (1900/4870)[Kremote: Counting objects:  40% (1948/4870)[Kremote: Counting objects:  41% (1997/4870)[Kremote: Counting objects:  42% (2046/4870)[Kremote: Counting objects:  43% (2095/4870)[Kremote: Counting objects:  44% (2143/4870)[Kremote: Counting objects:  45% (2192/4870)[Kremote: Counting objects:  46% (2241/4870)[Kremote: Counting objects:  47% (2289/4870)[Kremote: Counting objects:  48% (2338/4870)[Kremote: Counting objects:  49% (2387/4870)[Kremote: Counting objects:  50% (2435/4870)[Kremote: Counting objects:  51% (2484/4870)[Kremote: Counting objects:  52% (2533/4870)[Kremote: Counting objects:  53% (2582/4870)[Kremote: Counting objects:  54% (2630/4870)[Kremote: Counting objects:  55% (2679/4870)[Kremote: Counting objects:  56% (2728/4870)[Kremote: Counting objects:  57% (2776/4870)[Kremote: Counting objects:  58% (2825/4870)[Kremote: Counting objects:  59% (2874/4870)[Kremote: Counting objects:  60% (2922/4870)[Kremote: Counting objects:  61% (2971/4870)[Kremote: Counting objects:  62% (3020/4870)[Kremote: Counting objects:  63% (3069/4870)[Kremote: Counting objects:  64% (3117/4870)[Kremote: Counting objects:  65% (3166/4870)[Kremote: Counting objects:  66% (3215/4870)[Kremote: Counting objects:  67% (3263/4870)[Kremote: Counting objects:  68% (3312/4870)[Kremote: Counting objects:  69% (3361/4870)[Kremote: Counting objects:  70% (3409/4870)[Kremote: Counting objects:  71% (3458/4870)[Kremote: Counting objects:  72% (3507/4870)[Kremote: Counting objects:  73% (3556/4870)[Kremote: Counting objects:  74% (3604/4870)[Kremote: Counting objects:  75% (3653/4870)[Kremote: Counting objects:  76% (3702/4870)[Kremote: Counting objects:  77% (3750/4870)[Kremote: Counting objects:  78% (3799/4870)[Kremote: Counting objects:  79% (3848/4870)[Kremote: Counting objects:  80% (3896/4870)[Kremote: Counting objects:  81% (3945/4870)[Kremote: Counting objects:  82% (3994/4870)[Kremote: Counting objects:  83% (4043/4870)[Kremote: Counting objects:  84% (4091/4870)[Kremote: Counting objects:  85% (4140/4870)[Kremote: Counting objects:  86% (4189/4870)[Kremote: Counting objects:  87% (4237/4870)[Kremote: Counting objects:  88% (4286/4870)[Kremote: Counting objects:  89% (4335/4870)[Kremote: Counting objects:  90% (4383/4870)[Kremote: Counting objects:  91% (4432/4870)[Kremote: Counting objects:  92% (4481/4870)[Kremote: Counting objects:  93% (4530/4870)[Kremote: Counting objects:  94% (4578/4870)[Kremote: Counting objects:  95% (4627/4870)[Kremote: Counting objects:  96% (4676/4870)[Kremote: Counting objects:  97% (4724/4870)[Kremote: Counting objects:  98% (4773/4870)[Kremote: Counting objects:  99% (4822/4870)[Kremote: Counting objects: 100% (4870/4870)[Kremote: Counting objects: 100% (4870/4870), done.[K
+remote: Compressing objects:   0% (1/3352)[Kremote: Compressing objects:   1% (34/3352)[Kremote: Compressing objects:   2% (68/3352)[Kremote: Compressing objects:   3% (101/3352)[Kremote: Compressing objects:   4% (135/3352)[Kremote: Compressing objects:   5% (168/3352)[Kremote: Compressing objects:   6% (202/3352)[Kremote: Compressing objects:   7% (235/3352)[Kremote: Compressing objects:   8% (269/3352)[Kremote: Compressing objects:   9% (302/3352)[Kremote: Compressing objects:  10% (336/3352)[Kremote: Compressing objects:  11% (369/3352)[Kremote: Compressing objects:  12% (403/3352)[Kremote: Compressing objects:  13% (436/3352)[Kremote: Compressing objects:  14% (470/3352)[Kremote: Compressing objects:  15% (503/3352)[Kremote: Compressing objects:  16% (537/3352)[Kremote: Compressing objects:  17% (570/3352)[Kremote: Compressing objects:  18% (604/3352)[Kremote: Compressing objects:  19% (637/3352)[Kremote: Compressing objects:  20% (671/3352)[Kremote: Compressing objects:  21% (704/3352)[Kremote: Compressing objects:  22% (738/3352)[Kremote: Compressing objects:  23% (771/3352)[Kremote: Compressing objects:  24% (805/3352)[Kremote: Compressing objects:  25% (838/3352)[Kremote: Compressing objects:  26% (872/3352)[Kremote: Compressing objects:  27% (906/3352)[Kremote: Compressing objects:  28% (939/3352)[Kremote: Compressing objects:  29% (973/3352)[Kremote: Compressing objects:  30% (1006/3352)[Kremote: Compressing objects:  31% (1040/3352)[Kremote: Compressing objects:  32% (1073/3352)[Kremote: Compressing objects:  33% (1107/3352)[Kremote: Compressing objects:  34% (1140/3352)[Kremote: Compressing objects:  35% (1174/3352)[Kremote: Compressing objects:  36% (1207/3352)[Kremote: Compressing objects:  37% (1241/3352)[Kremote: Compressing objects:  38% (1274/3352)[Kremote: Compressing objects:  39% (1308/3352)[Kremote: Compressing objects:  40% (1341/3352)[Kremote: Compressing objects:  41% (1375/3352)[Kremote: Compressing objects:  42% (1408/3352)[Kremote: Compressing objects:  43% (1442/3352)[Kremote: Compressing objects:  44% (1475/3352)[Kremote: Compressing objects:  45% (1509/3352)[Kremote: Compressing objects:  46% (1542/3352)[Kremote: Compressing objects:  47% (1576/3352)[Kremote: Compressing objects:  48% (1609/3352)[Kremote: Compressing objects:  49% (1643/3352)[Kremote: Compressing objects:  50% (1676/3352)[Kremote: Compressing objects:  51% (1710/3352)[Kremote: Compressing objects:  52% (1744/3352)[Kremote: Compressing objects:  53% (1777/3352)[Kremote: Compressing objects:  53% (1806/3352)[Kremote: Compressing objects:  54% (1811/3352)[Kremote: Compressing objects:  55% (1844/3352)[Kremote: Compressing objects:  56% (1878/3352)[Kremote: Compressing objects:  57% (1911/3352)[Kremote: Compressing objects:  58% (1945/3352)[Kremote: Compressing objects:  59% (1978/3352)[Kremote: Compressing objects:  60% (2012/3352)[Kremote: Compressing objects:  61% (2045/3352)[Kremote: Compressing objects:  62% (2079/3352)[Kremote: Compressing objects:  63% (2112/3352)[Kremote: Compressing objects:  64% (2146/3352)[Kremote: Compressing objects:  65% (2179/3352)[Kremote: Compressing objects:  66% (2213/3352)[Kremote: Compressing objects:  67% (2246/3352)[Kremote: Compressing objects:  68% (2280/3352)[Kremote: Compressing objects:  69% (2313/3352)[Kremote: Compressing objects:  70% (2347/3352)[Kremote: Compressing objects:  71% (2380/3352)[Kremote: Compressing objects:  72% (2414/3352)[Kremote: Compressing objects:  73% (2447/3352)[Kremote: Compressing objects:  74% (2481/3352)[Kremote: Compressing objects:  75% (2514/3352)[Kremote: Compressing objects:  76% (2548/3352)[Kremote: Compressing objects:  77% (2582/3352)[Kremote: Compressing objects:  78% (2615/3352)[Kremote: Compressing objects:  79% (2649/3352)[Kremote: Compressing objects:  80% (2682/3352)[Kremote: Compressing objects:  81% (2716/3352)[Kremote: Compressing objects:  82% (2749/3352)[Kremote: Compressing objects:  83% (2783/3352)[Kremote: Compressing objects:  84% (2816/3352)[Kremote: Compressing objects:  85% (2850/3352)[Kremote: Compressing objects:  86% (2883/3352)[Kremote: Compressing objects:  87% (2917/3352)[Kremote: Compressing objects:  88% (2950/3352)[Kremote: Compressing objects:  89% (2984/3352)[Kremote: Compressing objects:  90% (3017/3352)[Kremote: Compressing objects:  91% (3051/3352)[Kremote: Compressing objects:  92% (3084/3352)[Kremote: Compressing objects:  93% (3118/3352)[Kremote: Compressing objects:  94% (3151/3352)[Kremote: Compressing objects:  95% (3185/3352)[Kremote: Compressing objects:  96% (3218/3352)[Kremote: Compressing objects:  97% (3252/3352)[Kremote: Compressing objects:  98% (3285/3352)[Kremote: Compressing objects:  99% (3319/3352)[Kremote: Compressing objects: 100% (3352/3352)[Kremote: Compressing objects: 100% (3352/3352), done.[K
+Receiving objects:   0% (1/4870)Receiving objects:   1% (49/4870)Receiving objects:   2% (98/4870)Receiving objects:   3% (147/4870)Receiving objects:   4% (195/4870)Receiving objects:   5% (244/4870)Receiving objects:   6% (293/4870)Receiving objects:   7% (341/4870)Receiving objects:   8% (390/4870)Receiving objects:   9% (439/4870)Receiving objects:  10% (487/4870)Receiving objects:  11% (536/4870)Receiving objects:  12% (585/4870)Receiving objects:  13% (634/4870)Receiving objects:  14% (682/4870)Receiving objects:  15% (731/4870)Receiving objects:  16% (780/4870)Receiving objects:  17% (828/4870)Receiving objects:  18% (877/4870)Receiving objects:  19% (926/4870)Receiving objects:  20% (974/4870)Receiving objects:  21% (1023/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  22% (1072/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  23% (1121/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  24% (1169/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  25% (1218/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  26% (1267/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  27% (1315/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  28% (1364/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  29% (1413/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  30% (1461/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  31% (1510/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  32% (1559/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  33% (1608/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  34% (1656/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  35% (1705/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  36% (1754/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  37% (1802/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  38% (1851/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  38% (1884/4870), 2.81 MiB | 5.59 MiB/sReceiving objects:  39% (1900/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  40% (1948/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  41% (1997/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  42% (2046/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  43% (2095/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  44% (2143/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  45% (2192/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  46% (2241/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  47% (2289/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  48% (2338/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  49% (2387/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  50% (2435/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  51% (2484/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  52% (2533/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  53% (2582/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  54% (2630/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  55% (2679/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  56% (2728/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  57% (2776/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  58% (2825/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  59% (2874/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  60% (2922/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  61% (2971/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  62% (3020/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  63% (3069/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  64% (3117/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  65% (3166/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  66% (3215/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  67% (3263/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  68% (3312/4870), 7.32 MiB | 7.30 MiB/sReceiving objects:  69% (3361/4870), 14.17 MiB | 9.43 MiB/sReceiving objects:  70% (3409/4870), 14.17 MiB | 9.43 MiB/sReceiving objects:  70% (3437/4870), 19.91 MiB | 9.95 MiB/sReceiving objects:  71% (3458/4870), 19.91 MiB | 9.95 MiB/sReceiving objects:  72% (3507/4870), 19.91 MiB | 9.95 MiB/sReceiving objects:  73% (3556/4870), 19.91 MiB | 9.95 MiB/sReceiving objects:  74% (3604/4870), 25.56 MiB | 10.22 MiB/sReceiving objects:  75% (3653/4870), 25.56 MiB | 10.22 MiB/sReceiving objects:  75% (3656/4870), 25.56 MiB | 10.22 MiB/sReceiving objects:  76% (3702/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  77% (3750/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  78% (3799/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  79% (3848/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  80% (3896/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  81% (3945/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  82% (3994/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  83% (4043/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  84% (4091/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  85% (4140/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  86% (4189/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  87% (4237/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  88% (4286/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  89% (4335/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  90% (4383/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  91% (4432/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  92% (4481/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  93% (4530/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  94% (4578/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  95% (4627/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  96% (4676/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  97% (4724/4870), 30.46 MiB | 10.14 MiB/sReceiving objects:  98% (4773/4870), 30.46 MiB | 10.14 MiB/sremote: Total 4870 (delta 1545), reused 3268 (delta 1252), pack-reused 0[K
+Receiving objects:  99% (4822/4870), 30.46 MiB | 10.14 MiB/sReceiving objects: 100% (4870/4870), 30.46 MiB | 10.14 MiB/sReceiving objects: 100% (4870/4870), 32.36 MiB | 9.62 MiB/s, done.
+Resolving deltas:   0% (0/1545)Resolving deltas:   1% (16/1545)Resolving deltas:   2% (32/1545)Resolving deltas:   3% (47/1545)Resolving deltas:   4% (62/1545)Resolving deltas:   5% (78/1545)Resolving deltas:   6% (93/1545)Resolving deltas:   7% (109/1545)Resolving deltas:   8% (124/1545)Resolving deltas:   9% (140/1545)Resolving deltas:  10% (155/1545)Resolving deltas:  11% (170/1545)Resolving deltas:  12% (186/1545)Resolving deltas:  13% (201/1545)Resolving deltas:  14% (217/1545)Resolving deltas:  15% (232/1545)Resolving deltas:  16% (248/1545)Resolving deltas:  17% (263/1545)Resolving deltas:  18% (279/1545)Resolving deltas:  19% (294/1545)Resolving deltas:  20% (309/1545)Resolving deltas:  21% (325/1545)Resolving deltas:  22% (340/1545)Resolving deltas:  23% (356/1545)Resolving deltas:  24% (371/1545)Resolving deltas:  25% (387/1545)Resolving deltas:  26% (402/1545)Resolving deltas:  27% (418/1545)Resolving deltas:  28% (433/1545)Resolving deltas:  29% (449/1545)Resolving deltas:  30% (464/1545)Resolving deltas:  31% (479/1545)Resolving deltas:  32% (495/1545)Resolving deltas:  33% (510/1545)Resolving deltas:  34% (526/1545)Resolving deltas:  35% (541/1545)Resolving deltas:  36% (557/1545)Resolving deltas:  37% (572/1545)Resolving deltas:  38% (588/1545)Resolving deltas:  39% (603/1545)Resolving deltas:  40% (618/1545)Resolving deltas:  41% (634/1545)Resolving deltas:  42% (649/1545)Resolving deltas:  43% (665/1545)Resolving deltas:  44% (680/1545)Resolving deltas:  45% (696/1545)Resolving deltas:  46% (711/1545)Resolving deltas:  47% (727/1545)Resolving deltas:  48% (742/1545)Resolving deltas:  49% (758/1545)Resolving deltas:  50% (773/1545)Resolving deltas:  51% (788/1545)Resolving deltas:  52% (804/1545)Resolving deltas:  53% (819/1545)Resolving deltas:  54% (835/1545)Resolving deltas:  55% (850/1545)Resolving deltas:  56% (866/1545)Resolving deltas:  57% (881/1545)Resolving deltas:  58% (897/1545)Resolving deltas:  59% (912/1545)Resolving deltas:  60% (927/1545)Resolving deltas:  61% (943/1545)Resolving deltas:  62% (958/1545)Resolving deltas:  63% (974/1545)Resolving deltas:  64% (989/1545)Resolving deltas:  65% (1005/1545)Resolving deltas:  66% (1020/1545)Resolving deltas:  67% (1036/1545)Resolving deltas:  68% (1051/1545)Resolving deltas:  69% (1067/1545)Resolving deltas:  70% (1082/1545)Resolving deltas:  71% (1097/1545)Resolving deltas:  72% (1113/1545)Resolving deltas:  73% (1128/1545)Resolving deltas:  74% (1144/1545)Resolving deltas:  75% (1159/1545)Resolving deltas:  76% (1175/1545)Resolving deltas:  77% (1190/1545)Resolving deltas:  78% (1206/1545)Resolving deltas:  79% (1221/1545)Resolving deltas:  80% (1236/1545)Resolving deltas:  81% (1252/1545)Resolving deltas:  82% (1267/1545)Resolving deltas:  83% (1283/1545)Resolving deltas:  84% (1298/1545)Resolving deltas:  85% (1314/1545)Resolving deltas:  86% (1329/1545)Resolving deltas:  87% (1345/1545)Resolving deltas:  88% (1360/1545)Resolving deltas:  89% (1376/1545)Resolving deltas:  90% (1391/1545)Resolving deltas:  91% (1406/1545)Resolving deltas:  92% (1422/1545)Resolving deltas:  93% (1437/1545)Resolving deltas:  94% (1453/1545)Resolving deltas:  95% (1468/1545)Resolving deltas:  96% (1484/1545)Resolving deltas:  97% (1499/1545)Resolving deltas:  98% (1515/1545)Resolving deltas:  99% (1530/1545)Resolving deltas: 100% (1545/1545)Resolving deltas: 100% (1545/1545), done.
+Updating files:  99% (4311/4353)Updating files: 100% (4353/4353)Updating files: 100% (4353/4353), done.
+Buildfile: /java/i2p.i2p/build.xml
+
+checkForGit:
+
+getGitRev:
+
+getReleaseNumber:
+     [echo] Release number: 1.7.0
+     [echo] API version:    0.9.53
+
+getBuildNumber:
+     [echo] Build number is 11
+
+setBuildTimestamp:
+
+disableManifestClasspath:
+
+buildProperties:
+     [echo] JDK: Debian 11.0.14 (OpenJDK Runtime Environment 11.0.14+9-post-Debian-1)
+     [echo] Building version 1.7.0-11 (revision b1852c127bc50c8a53c9ab9f9e63b68814b12d4f)
+
+trimRev:
+     [echo] Short version is: b1852c12
+
+getExtendedVersion:
+
+checkForVCS:
+
+failIfNoVCS:
+
+debian-tarball:
+
+checkForGit:
+
+checkForVCS:
+
+failIfNoVCS:
+
+checkoutFromGit:
+     [echo] Checking out fresh copy into ../i2p-1.7.0-11-b1852c12
+     [exec] Cloning into '../i2p-1.7.0-11-b1852c12'...
+     [exec] warning: source repository is shallow, ignoring --local
+     [exec] warning: --local is ignored
+     [exec] Updating files:  72% (3165/4353)
+     [exec] Updating files:  73% (3178/4353)Updating files:  74% (3222/4353)Updating files:  75% (3265/4353)Updating files:  76% (3309/4353)Updating files:  77% (3352/4353)Updating files:  78% (3396/4353)Updating files:  79% (3439/4353)Updating files:  80% (3483/4353)Updating files:  81% (3526/4353)Updating files:  82% (3570/4353)Updating files:  83% (3613/4353)Updating files:  84% (3657/4353)Updating files:  85% (3701/4353)Updating files:  86% (3744/4353)Updating files:  87% (3788/4353)Updating files:  88% (3831/4353)Updating files:  89% (3875/4353)Updating files:  90% (3918/4353)Updating files:  91% (3962/4353)Updating files:  92% (4005/4353)Updating files:  93% (4049/4353)Updating files:  94% (4092/4353)Updating files:  95% (4136/4353)Updating files:  96% (4179/4353)Updating files:  97% (4223/4353)Updating files:  98% (4266/4353)Updating files:  99% (4310/4353)Updating files: 100% (4353/4353)Updating files: 100% (4353/4353), done.
+
+checkoutFromVCS:
+      [tar] Building tar: /java/i2p_1.7.0-11-b1852c12.orig.tar.bz2
+
+BUILD SUCCESSFUL
+Total time: 19 seconds
+Buildfile: /java/i2p.i2p/build.xml
+
+checkForGit:
+
+getGitRev:
+
+getReleaseNumber:
+     [echo] Release number: 1.7.0
+     [echo] API version:    0.9.53
+
+getBuildNumber:
+     [echo] Build number is 11
+
+setBuildTimestamp:
+
+disableManifestClasspath:
+
+buildProperties:
+     [echo] JDK: Debian 11.0.14 (OpenJDK Runtime Environment 11.0.14+9-post-Debian-1)
+     [echo] Building version 1.7.0-11 (revision b1852c127bc50c8a53c9ab9f9e63b68814b12d4f)
+
+trimRev:
+     [echo] Short version is: b1852c12
+
+getExtendedVersion:
+
+debian-clean:
+     [exec]  *** Creating debian/copyright*** 
+     [exec] dh clean --with systemd,bash-completion,quilt
+     [exec]    debian/rules override_dh_auto_clean
+     [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] make[1]: [debian/rules:59: override_dh_auto_clean] Error 1 (ignored)
+     [exec] [ -r /java/i2p.i2p/debian/routerversion.java.bak ] && mv -f /java/i2p.i2p/debian/routerversion.java.bak /java/i2p.i2p/router/java/src/net/i2p/router/RouterVersion.java
+     [exec] dh_auto_clean
+     [exec] 	ant clean
+     [exec] Buildfile: /java/i2p.i2p/build.xml
+     [exec] 
+     [exec] deletepkg-temp:
+     [exec] 
+     [exec] pkgclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] BUILD SUCCESSFUL
+     [exec] Total time: 0 seconds
+     [exec] ant distclean
+     [exec] Buildfile: /java/i2p.i2p/build.xml
+     [exec] 
+     [exec] deletepkg-temp:
+     [exec] 
+     [exec] pkgclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] clean:
+     [exec] 
+     [exec] distclean:
+     [exec] 
+     [exec] BUILD SUCCESSFUL
+     [exec] Total time: 0 seconds
+     [exec] find /java/i2p.i2p/core \( -name '*\.so' -o -name '*\.o' \) -exec rm -f {} \;
+     [exec] rm -rf /java/i2p.i2p/core/c/jcpuid/lib/
+     [exec] rm -f /java/i2p.i2p/installer/lib/wrapper/all/wrapper.jar
+     [exec] rm -rf /java/i2p.i2p/debian/python-i2p
+     [exec] rm -f /java/i2p.i2p/override.properties
+     [exec] rm -f /java/i2p.i2p/apps/susidns/src/lib/standard.jar
+     [exec] rm -f /java/i2p.i2p/apps/susidns/src/lib/jstl.jar
+     [exec] rm -f /java/i2p.i2p/apps/susidns/src/lib/jstlel.jar
+     [exec] debconf-updatepo
+     [exec] find . -type f -name \*.java.json-simple \
+     [exec]   -exec sh -c 'file={} && mv $file ${file%.json-simple}' \; -print
+     [exec] make[1]: Leaving directory '/java/i2p.i2p'
+     [exec]    dh_quilt_unpatch
+     [exec] No patch removed
+     [exec]    dh_clean
+
+debchange:
+     [echo] Debian version is 1.7.0-11-b1852c12-1
+     [exec] dch warning: neither DEBEMAIL nor EMAIL environment variable is set
+     [exec] dch warning: building email address from username and FQDN
+     [exec] dch: Did you see those 2 warnings?  Press RETURN to continue...
+
+debian-binary:
+     [exec] dh patch --with systemd,bash-completion,quilt
+     [exec]    dh_quilt_patch
+     [exec] Applying patch 0001-path-substitution.patch
+     [exec] patching file installer/resources/eepget
+     [exec] patching file installer/resources/i2prouter
+     [exec] patching file installer/resources/runplain.sh
+     [exec] patching file installer/resources/wrapper.config
+     [exec] patching file installer/resources/locale/po/messages_de.po
+     [exec] patching file installer/resources/locale/po/messages_en.po
+     [exec] patching file installer/resources/locale/po/messages_it.po
+     [exec] patching file installer/resources/locale/po/messages_zh.po
+     [exec] patching file installer/resources/locale/po/messages_tr.po
+     [exec] patching file installer/resources/locale/po/messages_es.po
+     [exec] patching file installer/resources/locale/po/messages_pt.po
+     [exec] patching file installer/resources/locale/po/messages_fr.po
+     [exec] patching file installer/resources/locale/po/messages_ru.po
+     [exec] patching file installer/resources/locale/po/messages_sv.po
+     [exec] patching file installer/resources/locale/po/messages_ro.po
+     [exec] patching file installer/resources/locale/po/messages_pt_BR.po
+     [exec] patching file installer/resources/locale/po/messages_pl.po
+     [exec] patching file installer/resources/locale/po/messages_ja.po
+     [exec] patching file installer/resources/locale/po/messages_sk.po
+     [exec] 
+     [exec] Applying patch 0002-jetty-compatibility.patch
+     [exec] patching file apps/jetty/java/src/net/i2p/jetty/JettyXmlConfigurationParser.java
+     [exec] patching file apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java
+     [exec] patching file apps/routerconsole/java/src/net/i2p/router/web/RouterConsoleRunner.java
+     [exec] patching file apps/routerconsole/java/src/net/i2p/router/web/LocaleWebAppHandler.java
+     [exec] 
+     [exec] Applying patch 0003-json-simple-3.patch
+     [exec] patching file apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Error.java
+     [exec] patching file apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Message.java
+     [exec] patching file apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Notification.java
+     [exec] patching file apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Parser.java
+     [exec] patching file apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Request.java
+     [exec] patching file apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Response.java
+     [exec] patching file apps/i2pcontrol/java/net/i2p/i2pcontrol/SocketController.java
+     [exec] patching file apps/routerconsole/java/src/com/vuze/plugins/mlab/MLabRunner.java
+     [exec] patching file apps/routerconsole/java/src/edu/internet2/ndt/JSONUtils.java
+     [exec] 
+     [exec] Now at patch 0003-json-simple-3.patch
+     [exec] # build jbigi
+     [exec] cd /java/i2p.i2p/core/c/jbigi && ./build_jbigi.sh dynamic
+     [exec] TARGET=linux
+     [exec] Building a jbigi lib that is dynamically linked to GMP
+     [exec] Compiling C code...
+     [exec] Compile: "gcc -c -fPIC -Wall  -I. -I./jbigi/include -I/usr/lib/jvm/default-java/include -I/usr/lib/jvm/default-java/include/linux -I/usr/local/include ./jbigi/src/jbigi.c"
+     [exec] Link: "gcc -shared -Wl,-soname,libjbigi.so -I. -I./jbigi/include -I/usr/lib/jvm/default-java/include -I/usr/lib/jvm/default-java/include/linux -I/usr/local/include -o libjbigi.so jbigi.o -lgmp  -L.libs -L/usr/local/lib"
+     [exec] CC variable not set, defaulting to gcc
+     [exec] # build jcpuid
+     [exec] cd /java/i2p.i2p/core/c/jcpuid && ./build.sh
+     [exec] Building linux .sos
+     [exec] CC_PREFIX:
+     [exec] TARGET:Linux
+     [exec] HOST:linux
+     [exec] ARCH:x86_64
+     [exec] CFLAGS: -fPIC -Wall
+     [exec] LDFLAGS: -shared -Wl,-soname,libjcpuid.so
+     [exec] 
+     [exec] Compiling C code...
+     [exec] Built ./../jbigi/libjcpuid.so
+     [exec] dh binary-arch --with systemd,bash-completion,quilt
+     [exec]    debian/rules build-arch
+     [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] # build jbigi
+     [exec] cd /java/i2p.i2p/core/c/jbigi && ./build_jbigi.sh dynamic
+     [exec] TARGET=linux
+     [exec] Building a jbigi lib that is dynamically linked to GMP
+     [exec] Compiling C code...
+     [exec] Compile: "gcc -c -fPIC -Wall -g -O2 -ffile-prefix-map=/java/i2p.i2p=. -fstack-protector-strong -Wformat -Werror=format-security -I. -I./jbigi/include -I/usr/lib/jvm/default-java/include -I/usr/lib/jvm/default-java/include/linux -I/usr/local/include ./jbigi/src/jbigi.c"
+     [exec] Link: "gcc -shared -Wl,-soname,libjbigi.so -I. -I./jbigi/include -I/usr/lib/jvm/default-java/include -I/usr/lib/jvm/default-java/include/linux -I/usr/local/include -o libjbigi.so jbigi.o -lgmp  -L.libs -L/usr/local/lib"
+     [exec] CC variable not set, defaulting to gcc
+     [exec] # build jcpuid
+     [exec] cd /java/i2p.i2p/core/c/jcpuid && ./build.sh
+     [exec] Building linux .sos
+     [exec] CC_PREFIX:
+     [exec] TARGET:Linux
+     [exec] HOST:linux
+     [exec] ARCH:x86_64
+     [exec] CFLAGS:-g -O2 -ffile-prefix-map=/java/i2p.i2p=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC -Wall
+     [exec] LDFLAGS:-Wl,-z,relro -shared -Wl,-soname,libjcpuid.so
+     [exec] 
+     [exec] Compiling C code...
+     [exec] Built ./../jbigi/libjcpuid.so
+     [exec] make[1]: Leaving directory '/java/i2p.i2p'
+     [exec]    dh_testroot -a
+     [exec]    dh_prep -a
+     [exec]    dh_auto_install -a
+     [exec]    debian/rules override_dh_install
+     [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] dh_install: warning: Please use dh_missing --list-missing/--fail-missing instead
+     [exec] dh_install: warning: This feature will be removed in compat 12.
+     [exec] dh_install --list-missing
+     [exec] dh_apparmor --profile-name=system_i2p -pi2p
+     [exec] dh_apparmor --profile-name=usr.bin.i2prouter -pi2p
+     [exec] dh_apparmor: warning: All requested packages have been excluded (e.g. via a Build-Profile or due to architecture restrictions).
+     [exec] dh_apparmor: warning: All requested packages have been excluded (e.g. via a Build-Profile or due to architecture restrictions).
+     [exec] make[1]: Leaving directory '/java/i2p.i2p'
+     [exec]    debian/rules override_dh_installdocs
+     [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] dh_installdocs -pi2p --link-doc=i2p-router
+     [exec] dh_installdocs: warning: All requested packages have been excluded (e.g. via a Build-Profile or due to architecture restrictions).
+     [exec] dh_installdocs --remaining-packages
+     [exec] make[1]: Leaving directory '/java/i2p.i2p'
+     [exec]    debian/rules override_dh_installchangelogs
+     [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] dh_installchangelogs history.txt
+     [exec] make[1]: Leaving directory '/java/i2p.i2p'
+     [exec]    dh_installexamples -a
+     [exec]    dh_installman -a
+     [exec]    debian/rules override_dh_systemd_enable
+     [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] # We purposely do not set I2P to start at boot.
+     [exec] # This matches the behavior of the initscript
+     [exec] # and the setting RUN_DAEMON=false in /etc/default/i2p
+     [exec] make[1]: Leaving directory '/java/i2p.i2p'
+     [exec]    dh_perl -a
+     [exec]    dh_link -a
+     [exec]    dh_strip_nondeterminism -a
+     [exec]    debian/rules override_dh_compress
+     [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] dh_compress -X.xsl -X.xml
+     [exec] make[1]: Leaving directory '/java/i2p.i2p'
+     [exec]    dh_fixperms -a
+     [exec]    dh_missing -a
+     [exec]    dh_strip -a
+     [exec]    dh_makeshlibs -a
+     [exec]    debian/rules override_dh_shlibdeps
+     [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] dh_shlibdeps -llibjbigi-jni debian/libjbigi-jni/usr/lib/jni/*.so
+     [exec] make[1]: Leaving directory '/java/i2p.i2p'
+     [exec]    dh_installdeb -a
+     [exec]    dh_gencontrol -a
+     [exec]    dh_md5sums -a
+     [exec]    dh_builddeb -a
+     [exec] dpkg-deb: building package 'libjbigi-jni' in '../libjbigi-jni_1.7.0-11-b1852c12-1_amd64.deb'.
+     [exec] dpkg-deb: building package 'libjbigi-jni-dbgsym' in '../libjbigi-jni-dbgsym_1.7.0-11-b1852c12-1_amd64.deb'.
+     [exec] dh_prep
+     [exec] mkdir -p /java/i2p.i2p/installer/lib/wrapper/all
+     [exec] ln -sf /usr/share/java/wrapper.jar /java/i2p.i2p/installer/lib/wrapper/all/wrapper.jar
+     [exec] if [ ! -e /java/i2p.i2p/debian/routerversion.java.bak ]; then \
+     [exec] 	cp /java/i2p.i2p/router/java/src/net/i2p/router/RouterVersion.java /java/i2p.i2p/debian/routerversion.java.bak; \
+     [exec] fi
+     [exec] sed -e "s/\(.*EXTRA\ =\ \)[^ ]*\"\(.*\)\"/\1\"-$EXTRAPREFIX$DEBIANVERSION\"/" < /java/i2p.i2p/router/java/src/net/i2p/router/RouterVersion.java > /java/i2p.i2p/router/java/src/net/i2p/router/RouterVersion.java.tmp
+     [exec] mv -f /java/i2p.i2p/router/java/src/net/i2p/router/RouterVersion.java.tmp /java/i2p.i2p/router/java/src/net/i2p/router/RouterVersion.java
+     [exec] mkdir -p /java/i2p.i2p/apps/jetty/jettylib
+     [exec] ln -sf /usr/share/java/jetty9-continuation.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-continuation.jar
+     [exec] ln -sf /usr/share/java/jetty9-deploy.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-deploy.jar
+     [exec] ln -sf /usr/share/java/jetty9-http.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-http.jar
+     [exec] ln -sf /usr/share/java/jetty9-io.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-io.jar
+     [exec] ln -sf /usr/share/java/jetty9-rewrite.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-rewrite-handler.jar
+     [exec] ln -sf /usr/share/java/jetty9-security.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-security.jar
+     [exec] ln -sf /usr/share/java/jetty9-servlet.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-servlet.jar
+     [exec] ln -sf /usr/share/java/jetty9-servlets.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-servlets.jar
+     [exec] ln -sf /usr/share/java/jetty9-start.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-start.jar
+     [exec] ln -sf /usr/share/java/jetty9-util.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-util.jar
+     [exec] ln -sf /usr/share/java/jetty9-webapp.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-webapp.jar
+     [exec] ln -sf /usr/share/java/jetty9-xml.jar /java/i2p.i2p/apps/jetty/jettylib/jetty-xml.jar
+     [exec] ln -sf /usr/share/java/jetty9-server.jar /java/i2p.i2p/apps/jetty/jettylib/org.mortbay.jetty.jar
+     [exec] ln -sf /usr/share/java/jetty9-jmx.jar /java/i2p.i2p/apps/jetty/jettylib/org.mortbay.jmx.jar
+     [exec] ln -sf /usr/share/java/servlet-api-3.1.jar /java/i2p.i2p/apps/jetty/jettylib/javax.servlet.jar
+     [exec] ln -sf /usr/share/java/jsp-api-2.3.jar /java/i2p.i2p/apps/jetty/jettylib/jsp-api.jar
+     [exec] mkdir -p /java/i2p.i2p/apps/jetty/jettylib
+     [exec] ln -sf /usr/share/java/tomcat9-api.jar /java/i2p.i2p/apps/jetty/jettylib/tomcat-api.jar
+     [exec] ln -sf /usr/share/java/tomcat9-coyote.jar /java/i2p.i2p/apps/jetty/jettylib/tomcat-coyote.jar
+     [exec] ln -sf /usr/share/java/tomcat9-el-api.jar /java/i2p.i2p/apps/jetty/jettylib/commons-el.jar
+     [exec] ln -sf /usr/share/java/tomcat9-jasper.jar /java/i2p.i2p/apps/jetty/jettylib/jasper-runtime.jar
+     [exec] ln -sf /usr/share/java/tomcat9-jasper-el.jar /java/i2p.i2p/apps/jetty/jettylib/jasper-el.jar
+     [exec] ln -sf /usr/share/java/tomcat9-juli.jar /java/i2p.i2p/apps/jetty/jettylib/commons-logging.jar
+     [exec] ln -sf /usr/share/java/tomcat9-util.jar /java/i2p.i2p/apps/jetty/jettylib/tomcat-util.jar
+     [exec] ln -sf /usr/share/java/tomcat9-util-scan.jar /java/i2p.i2p/apps/jetty/jettylib/tomcat-util-scan.jar
+     [exec] ln -sf /usr/share/java/taglibs-standard-spec.jar /java/i2p.i2p/apps/susidns/src/lib/jstl.jar
+     [exec] ln -sf /usr/share/java/taglibs-standard-impl.jar /java/i2p.i2p/apps/susidns/src/lib/standard.jar
+     [exec] ln -sf /usr/share/java/taglibs-standard-jstlel.jar /java/i2p.i2p/apps/susidns/src/lib/jstlel.jar
+     [exec] ln -sf /usr/share/java/libintl.jar /java/i2p.i2p/core/java/build/libintl.jar
+     [exec] ln -sf /usr/share/java/gnu-getopt.jar /java/i2p.i2p/core/java/build/gnu-getopt.jar
+     [exec] ln -sf /usr/share/java/json-simple.jar /java/i2p.i2p/core/java/build/json-simple.jar
+     [exec] find . -type f -name \*.java -exec grep -q 'import @JSON_SIMPLE@' {} \; \
+     [exec]   -exec sed -i.json-simple \
+     [exec] 	    -e 's,@JSON_SIMPLE@,org.json.simple,' \
+     [exec] 	    -e 's/@JSON_EXCEPTION@/DeserializationException/' \
+     [exec] 	    {} \; -print
+     [exec] ./apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Parser.java
+     [exec] ./apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Notification.java
+     [exec] ./apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Message.java
+     [exec] ./apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Request.java
+     [exec] ./apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Error.java
+     [exec] ./apps/i2pcontrol/java/com/thetransactioncompany/jsonrpc2/JSONRPC2Response.java
+     [exec] ./apps/i2pcontrol/java/net/i2p/i2pcontrol/SocketController.java
+     [exec] ./apps/routerconsole/java/src/com/vuze/plugins/mlab/MLabRunner.java
+     [exec] ./apps/routerconsole/java/src/edu/internet2/ndt/JSONUtils.java
+     [exec] Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+     [exec] TZ=UTC JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 ant preppkg-unix javadoc
+     [exec] Buildfile: /java/i2p.i2p/build.xml
+     [exec] 
+     [exec] checkForGit:
+     [exec] 
+     [exec] getGitRev:
+     [exec] 
+     [exec] getReleaseNumber:
+     [exec]      [echo] Release number: 1.7.0
+     [exec]      [echo] API version:    0.9.53
+     [exec] 
+     [exec] getBuildNumber:
+     [exec]      [echo] Build number is 11-1
+     [exec] 
+     [exec] setBuildTimestamp:
+     [exec] 
+     [exec] disableManifestClasspath:
+     [exec] 
+     [exec] buildProperties:
+     [exec]      [echo] JDK: Debian 11.0.14 (OpenJDK Runtime Environment 11.0.14+9-post-Debian-1)
+     [exec]      [echo] Building version 1.7.0-11-1 (revision b1852c127bc50c8a53c9ab9f9e63b68814b12d4f)
+     [exec] 
+     [exec] buildCore:
+     [exec] 
+     [exec] depend:
+     [exec] 
+     [exec] compile:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/core/java/build/obj
+     [exec]     [javac] Compiling 400 source files to /java/i2p.i2p/core/java/build/obj
+     [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
+     [exec]     [javac] /java/i2p.i2p/core/java/src/net/i2p/crypto/provider/I2PProvider.java:25: warning: [deprecation] Provider(String,double,String) in Provider has been deprecated
+     [exec]     [javac]         super(PROVIDER_NAME, 0.1, INFO);
+     [exec]     [javac]         ^
+     [exec]     [javac] 1 warning
+     [exec] 
+     [exec] bundle:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/core/java/build/messages-src
+     [exec]      [exec] Generating net.i2p.util.messages_ar ResourceBundle...
+     [exec]      [exec] 0 translated messages, 10 untranslated messages.Generating net.i2p.util.messages_az ResourceBundle...
+     [exec]      [exec] 1 translated message, 9 untranslated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.util.messages_cs ResourceBundle...
+     [exec]      [exec] 13 translated messages, 2 untranslated messages.Generating net.i2p.util.messages_da ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_de ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.util.messages_el ResourceBundle...14 translated messages, 1 untranslated message.
+     [exec]      [exec] Generating net.i2p.util.messages_es ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.util.messages_et ResourceBundle...
+     [exec]      [exec] 11 translated messages, 4 untranslated messages.
+     [exec]      [exec] 3 translated messages, 12 untranslated messages.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] Generating net.i2p.util.messages_fa ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_fi ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_fr ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_hu ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_in ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_it ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_ja ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.util.messages_ko ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_ku ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_nb ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_nl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_pl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_pt ResourceBundle...
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 0 translated messages, 15 untranslated messages.
+     [exec]      [exec] Generating net.i2p.util.messages_pt_BR ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_ro ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_ru ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_sl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_sv ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_tk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_tr ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_uk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_vi ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_zh ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_zh_TW ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 6 translated messages, 4 untranslated messages.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]     [javac] Compiling 32 source files to /java/i2p.i2p/core/java/build/obj
+     [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
+     [exec]     [javac] Note: Some input files use unchecked or unsafe operations.
+     [exec]     [javac] Note: Recompile with -Xlint:unchecked for details.
+     [exec] 
+     [exec] jarUpToDate:
+     [exec] 
+     [exec] listChangedFiles:
+     [exec] 
+     [exec] jar:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/core/java/build/obj/net/i2p/util/resources
+     [exec]      [copy] Copying 2 files to /java/i2p.i2p/core/java/build/obj/net/i2p/util/resources
+     [exec]       [jar] Building jar: /java/i2p.i2p/core/java/build/i2p.jar
+     [exec]      [copy] Copying 1 file to /java/i2p.i2p/build
+     [exec] 
+     [exec] buildrouter:
+     [exec] 
+     [exec] depend:
+     [exec] 
+     [exec] dependVersion:
+     [exec] 
+     [exec] compile:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/router/java/build
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/router/java/build/obj
+     [exec]     [javac] Compiling 529 source files to /java/i2p.i2p/router/java/build/obj
+     [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
+     [exec]     [javac] /java/i2p.i2p/router/java/src/org/cybergarage/upnp/ControlPoint.java:171: warning: [deprecation] finalize() in Object has been deprecated
+     [exec]     [javac] 	public void finalize()
+     [exec]     [javac] 	            ^
+     [exec]     [javac] /java/i2p.i2p/router/java/src/org/cybergarage/upnp/ssdp/HTTPMUSocket.java:72: warning: [deprecation] finalize() in Object has been deprecated
+     [exec]     [javac] 	protected void finalize()
+     [exec]     [javac] 	               ^
+     [exec]     [javac] /java/i2p.i2p/router/java/src/org/cybergarage/upnp/ssdp/HTTPUSocket.java:66: warning: [deprecation] finalize() in Object has been deprecated
+     [exec]     [javac] 	protected void finalize()
+     [exec]     [javac] 	               ^
+     [exec]     [javac] 3 warnings
+     [exec]     [javac] Creating empty /java/i2p.i2p/router/java/build/obj/com/southernstorm/noise/crypto/package-info.class
+     [exec]     [javac] Creating empty /java/i2p.i2p/router/java/build/obj/com/southernstorm/noise/protocol/package-info.class
+     [exec] 
+     [exec] bundle:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/router/java/build/messages-src
+     [exec]      [exec] Generating net.i2p.router.util.messages_ar ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_az ResourceBundle...19 translated messages, 3 fuzzy translations, 13 untranslated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 5 translated messages, 3 fuzzy translations, 27 untranslated messages.
+     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_cs ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] Generating net.i2p.router.util.messages_da ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] 20 translated messages, 2 fuzzy translations, 13 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.util.messages_de ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_el ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_es ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_et ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 20 translated messages, 1 fuzzy translation, 14 untranslated messages.Generating net.i2p.router.util.messages_fa ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.util.messages_fi ResourceBundle...3 translated messages, 3 fuzzy translations, 29 untranslated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 33 translated messages, 2 fuzzy translations.Generating net.i2p.router.util.messages_fr ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_hu ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.util.messages_in ResourceBundle...
+     [exec]      [exec] 33 translated messages, 2 untranslated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_it ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.util.messages_ja ResourceBundle...31 translated messages, 4 untranslated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 34 translated messages, 1 fuzzy translation.Generating net.i2p.router.util.messages_ko ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] Generating net.i2p.router.util.messages_ku ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.util.messages_nb ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_nl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_pl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_pt ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] Generating net.i2p.router.util.messages_pt_BR ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_ro ResourceBundle...35 translated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_ru ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.util.messages_sl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_sv ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_tk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_tr ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_uk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_vi ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_zh ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_zh_TW ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 18 translated messages, 2 fuzzy translations, 15 untranslated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]     [javac] Compiling 32 source files to /java/i2p.i2p/router/java/build/obj
+     [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
+     [exec]     [javac] Note: Some input files use unchecked or unsafe operations.
+     [exec]     [javac] Note: Recompile with -Xlint:unchecked for details.
+     [exec] 
+     [exec] jarUpToDate:
+     [exec] 
+     [exec] listChangedFiles:
+     [exec] 
+     [exec] jar:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/router/java/build/obj/net/i2p/router/util/resources
+     [exec]      [copy] Copying 1 file to /java/i2p.i2p/router/java/build/obj/net/i2p/router/util/resources
+     [exec]       [jar] Building jar: /java/i2p.i2p/router/java/build/router.jar
+     [exec]      [copy] Copying 1 file to /java/i2p.i2p/build
+     [exec] 
+     [exec] buildSystray:
+     [exec] 
+     [exec] depend:
+     [exec] 
+     [exec] compile:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/systray/java/build
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/systray/java/build/obj
+     [exec]     [javac] Compiling 2 source files to /java/i2p.i2p/apps/systray/java/build/obj
+     [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
+     [exec] 
+     [exec] jarUpToDate:
+     [exec] 
+     [exec] listChangedFiles:
+     [exec] 
+     [exec] jar:
+     [exec]       [jar] Building jar: /java/i2p.i2p/apps/systray/java/build/systray.jar
+     [exec]      [copy] Copying 1 file to /java/i2p.i2p/build
+     [exec] 
+     [exec] buildDesktopGui:
+     [exec] 
+     [exec] init:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/desktopgui/build
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/desktopgui/build/messages-src
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/desktopgui/dist
+     [exec] 
+     [exec] compile:
+     [exec]     [javac] Compiling 7 source files to /java/i2p.i2p/apps/desktopgui/build
+     [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
+     [exec] 
+     [exec] bundle:
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_ar ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_az ResourceBundle...
+     [exec]      [exec] 15 translated messages.Generating net.i2p.desktopgui.messages_bg ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 9 translated messages, 8 untranslated messages.
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_ca ResourceBundle...
+     [exec]      [exec] 7 translated messages, 8 untranslated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 10 translated messages, 5 untranslated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_cs ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_da ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_de ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_el ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_es ResourceBundle...
+     [exec]      [exec] 11 translated messages, 4 untranslated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_es_AR ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_fa ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_fi ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_fr ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_gl ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 17 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_hu ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_in ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 7 translated messages, 8 untranslated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_it ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_ja ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_ko ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_ku ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_mg ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_nb ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_nl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_pl ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_pt ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_pt_BR ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_ro ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_ru ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_sk ResourceBundle...
+     [exec]      [exec] 8 translated messages, 7 untranslated messages.
+     [exec]      [exec] 14 translated messages, 3 untranslated messages.
+     [exec]      [exec] 17 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_sl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_sq ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_sr ResourceBundle...15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_sv ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 17 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_tk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_tr ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_uk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_vi ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_zh ResourceBundle...
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_zh_TW ResourceBundle...
+     [exec]      [exec] 8 translated messages, 7 untranslated messages.
+     [exec]      [exec] 17 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]     [javac] Compiling 39 source files to /java/i2p.i2p/apps/desktopgui/build
+     [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
+     [exec]     [javac] Note: Some input files use unchecked or unsafe operations.
+     [exec]     [javac] Note: Recompile with -Xlint:unchecked for details.
+     [exec] 
+     [exec] jarUpToDate:
+     [exec] 
+     [exec] listChangedFiles:
+     [exec] 
+     [exec] jar:
+     [exec]      [copy] Copying 1 file to /java/i2p.i2p/apps/desktopgui/build/desktopgui/resources/images
+     [exec]      [copy] Copying 1 file to /java/i2p.i2p/apps/desktopgui/build/desktopgui/resources/images
+     [exec]      [copy] Copying 1 file to /java/i2p.i2p/apps/desktopgui/build/desktopgui/resources/images
+     [exec]       [jar] Building jar: /java/i2p.i2p/apps/desktopgui/dist/desktopgui.jar
+     [exec]      [copy] Copying 1 file to /java/i2p.i2p/build
+     [exec] 
+     [exec] buildJetty:
+     [exec] 
+     [exec] builddep:
+     [exec] 
+     [exec] ensureJettylib1:
+     [exec] 
+     [exec] mkJettylibdir:
+     [exec] 
+     [exec] fetchJettylib:
+     [exec] 
+     [exec] verifyJettylib:
+     [exec] 
+     [exec] extractJettylib:
+     [exec] 
+     [exec] compilePatches:
+     [exec] 
+     [exec] jarPatchesUpToDate:
+     [exec] 
+     [exec] jarPatches:
+     [exec] 
+     [exec] buildPatches:
+     [exec] 
+     [exec] copyJettylib1:
+     [exec] 
+     [exec] copyTomcatLib1:
+     [exec] 
+     [exec] copyJettylib2:
+     [exec] 
+     [exec] copyJettylib3:
+     [exec] 
+     [exec] copyTomcatLib2:
+     [exec] 
+     [exec] copyTomcatLib3:
+     [exec] 
+     [exec] copyTomcatLib:
+     [exec] 
+     [exec] copyJettylib:
+     [exec] 
+     [exec] ensureJettylib:
+     [exec] 
+     [exec] depend:
+     [exec] 
+     [exec] compile:
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/jetty/build
+     [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/jetty/build/obj
+     [exec]     [javac] Compiling 14 source files to /java/i2p.i2p/apps/jetty/build/obj
+     [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/jetty/I2PRequestLog.java:25: error: package javax.servlet.http does not exist
+     [exec]     [javac] import javax.servlet.http.Cookie;
+     [exec]     [javac]                          ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:8: error: package javax.servlet.http does not exist
+     [exec]     [javac] import javax.servlet.http.HttpServlet;
+     [exec]     [javac]                          ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:9: error: package javax.servlet.http does not exist
+     [exec]     [javac] import javax.servlet.http.HttpServletResponse;
+     [exec]     [javac]                          ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:10: error: package javax.servlet.http does not exist
+     [exec]     [javac] import javax.servlet.http.HttpServletRequest;
+     [exec]     [javac]                          ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:11: error: package javax.servlet does not exist
+     [exec]     [javac] import javax.servlet.ServletException;
+     [exec]     [javac]                     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:45: error: cannot find symbol
+     [exec]     [javac] public class ErrorServlet extends HttpServlet {
+     [exec]     [javac]                                   ^
+     [exec]     [javac]   symbol: class HttpServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:70: error: cannot find symbol
+     [exec]     [javac]     public void init() throws ServletException {
+     [exec]     [javac]                               ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:86: error: cannot find symbol
+     [exec]     [javac]     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+     [exec]     [javac]                          ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:86: error: cannot find symbol
+     [exec]     [javac]     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+     [exec]     [javac]                                                  ^
+     [exec]     [javac]   symbol:   class HttpServletResponse
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:86: error: cannot find symbol
+     [exec]     [javac]     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+     [exec]     [javac]                                                                                   ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:159: error: cannot find symbol
+     [exec]     [javac]     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+     [exec]     [javac]                           ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:159: error: cannot find symbol
+     [exec]     [javac]     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+     [exec]     [javac]                                                   ^
+     [exec]     [javac]   symbol:   class HttpServletResponse
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:159: error: cannot find symbol
+     [exec]     [javac]     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+     [exec]     [javac]                                                                                    ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:33: error: package javax.servlet does not exist
+     [exec]     [javac] import javax.servlet.ServletContext;
+     [exec]     [javac]                     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:34: error: package javax.servlet does not exist
+     [exec]     [javac] import javax.servlet.UnavailableException;
+     [exec]     [javac]                     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:55: error: cannot access HttpServlet
+     [exec]     [javac] public class I2PDefaultServlet extends DefaultServlet
+     [exec]     [javac]        ^
+     [exec]     [javac]   class file for javax.servlet.http.HttpServlet not found
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:71: error: cannot find symbol
+     [exec]     [javac]     throws UnavailableException
+     [exec]     [javac]            ^
+     [exec]     [javac]   symbol:   class UnavailableException
+     [exec]     [javac]   location: class I2PDefaultServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:112: error: cannot find symbol
+     [exec]     [javac]     protected ContextHandler initContextHandler(ServletContext servletContext)
+     [exec]     [javac]                                                 ^
+     [exec]     [javac]   symbol:   class ServletContext
+     [exec]     [javac]   location: class I2PDefaultServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:138: error: cannot find symbol
+     [exec]     [javac]     protected void sendDirectory(HttpServletRequest request,
+     [exec]     [javac]                                  ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class I2PDefaultServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:139: error: cannot find symbol
+     [exec]     [javac]             HttpServletResponse response,
+     [exec]     [javac]             ^
+     [exec]     [javac]   symbol:   class HttpServletResponse
+     [exec]     [javac]   location: class I2PDefaultServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:35: error: package javax.servlet.http does not exist
+     [exec]     [javac] import javax.servlet.http.HttpSession;
+     [exec]     [javac]                          ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:36: error: package javax.servlet.http does not exist
+     [exec]     [javac] import javax.servlet.http.Part;
+     [exec]     [javac]                          ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:67: error: cannot find symbol
+     [exec]     [javac] 	private final HttpServletRequest httpRequest;
+     [exec]     [javac] 	              ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:76: error: cannot find symbol
+     [exec]     [javac] 	public RequestWrapper(HttpServletRequest httpRequest) {
+     [exec]     [javac] 	                      ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:86: error: cannot find symbol
+     [exec]     [javac] 	public HttpSession getSession(boolean b) {
+     [exec]     [javac] 	       ^
+     [exec]     [javac]   symbol:   class HttpSession
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:98: error: cannot find symbol
+     [exec]     [javac] 	public HttpSession getSession() {
+     [exec]     [javac] 	       ^
+     [exec]     [javac]   symbol:   class HttpSession
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XI2PLocationFilter.java:138: error: cannot find symbol
+     [exec]     [javac]     private synchronized String headerContents(final HttpServletRequest httpRequest) {
+     [exec]     [javac]                                                      ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class XI2PLocationFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XI2PLocationFilter.java:167: error: cannot find symbol
+     [exec]     [javac]     public void handle(final String target, final Request request, final HttpServletRequest httpRequest, HttpServletResponse httpResponse)
+     [exec]     [javac]                                                                          ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class XI2PLocationFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XI2PLocationFilter.java:167: error: cannot find symbol
+     [exec]     [javac]     public void handle(final String target, final Request request, final HttpServletRequest httpRequest, HttpServletResponse httpResponse)
+     [exec]     [javac]                                                                                                          ^
+     [exec]     [javac]   symbol:   class HttpServletResponse
+     [exec]     [javac]   location: class XI2PLocationFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XI2PLocationFilter.java:168: error: cannot find symbol
+     [exec]     [javac]     throws IOException, ServletException {
+     [exec]     [javac]                         ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class XI2PLocationFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:5: error: package javax.servlet does not exist
+     [exec]     [javac] import javax.servlet.Filter;
+     [exec]     [javac]                     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:6: error: package javax.servlet does not exist
+     [exec]     [javac] import javax.servlet.FilterChain;
+     [exec]     [javac]                     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:7: error: package javax.servlet does not exist
+     [exec]     [javac] import javax.servlet.FilterConfig;
+     [exec]     [javac]                     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:9: error: package javax.servlet does not exist
+     [exec]     [javac] import javax.servlet.ServletRequest;
+     [exec]     [javac]                     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:10: error: package javax.servlet does not exist
+     [exec]     [javac] import javax.servlet.ServletResponse;
+     [exec]     [javac]                     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:17: error: cannot find symbol
+     [exec]     [javac] public class XSSFilter implements Filter {
+     [exec]     [javac]                                   ^
+     [exec]     [javac]   symbol: class Filter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:19: error: cannot find symbol
+     [exec]     [javac]     public void init(FilterConfig filterConfig) throws ServletException {
+     [exec]     [javac]                      ^
+     [exec]     [javac]   symbol:   class FilterConfig
+     [exec]     [javac]   location: class XSSFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:19: error: cannot find symbol
+     [exec]     [javac]     public void init(FilterConfig filterConfig) throws ServletException {
+     [exec]     [javac]                                                        ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class XSSFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:27: error: cannot find symbol
+     [exec]     [javac]     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
+     [exec]     [javac]                          ^
+     [exec]     [javac]   symbol:   class ServletRequest
+     [exec]     [javac]   location: class XSSFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:27: error: cannot find symbol
+     [exec]     [javac]     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
+     [exec]     [javac]                                                  ^
+     [exec]     [javac]   symbol:   class ServletResponse
+     [exec]     [javac]   location: class XSSFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:27: error: cannot find symbol
+     [exec]     [javac]     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
+     [exec]     [javac]                                                                            ^
+     [exec]     [javac]   symbol:   class FilterChain
+     [exec]     [javac]   location: class XSSFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:28: error: cannot find symbol
+     [exec]     [javac]         throws IOException, ServletException {
+     [exec]     [javac]                             ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class XSSFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:10: error: package javax.servlet.http does not exist
+     [exec]     [javac] import javax.servlet.http.HttpServletRequestWrapper;
+     [exec]     [javac]                          ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:21: error: cannot find symbol
+     [exec]     [javac] public class XSSRequestWrapper extends HttpServletRequestWrapper {
+     [exec]     [javac]                                        ^
+     [exec]     [javac]   symbol: class HttpServletRequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:30: error: cannot find symbol
+     [exec]     [javac]     public XSSRequestWrapper(HttpServletRequest servletRequest) {
+     [exec]     [javac]                              ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class XSSRequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/jetty/I2PRequestLog.java:83: warning: [deprecation] PathMap in org.eclipse.jetty.http has been deprecated
+     [exec]     [javac]     private transient PathMap<String> _ignorePathMap;
+     [exec]     [javac]                       ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/jetty/I2PRequestLog.java:403: error: cannot find symbol
+     [exec]     [javac]                         Cookie[] cookies = request.getCookies(); 
+     [exec]     [javac]                         ^
+     [exec]     [javac]   symbol:   class Cookie
+     [exec]     [javac]   location: class I2PRequestLog
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/jetty/I2PRequestLog.java:486: warning: [deprecation] PathMap in org.eclipse.jetty.http has been deprecated
+     [exec]     [javac]             _ignorePathMap = new PathMap<String>();
+     [exec]     [javac]                                  ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/jetty/JettyStart.java:144: warning: [deprecation] XmlConfiguration(URL) in XmlConfiguration has been deprecated
+     [exec]     [javac]                 XmlConfiguration configuration = new XmlConfiguration(configUrl);
+     [exec]     [javac]                                                  ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:69: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:71: error: cannot find symbol
+     [exec]     [javac]         super.init();
+     [exec]     [javac]         ^
+     [exec]     [javac]   symbol:   variable super
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:72: error: cannot find symbol
+     [exec]     [javac]         _cssPath = getInitParameter("CSSPath");
+     [exec]     [javac]                    ^
+     [exec]     [javac]   symbol:   method getInitParameter(String)
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:78: error: cannot find symbol
+     [exec]     [javac]         _webappName = getInitParameter("name");
+     [exec]     [javac]                       ^
+     [exec]     [javac]   symbol:   method getInitParameter(String)
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:81: error: cannot find symbol
+     [exec]     [javac]         _bundleName = getInitParameter("bundle");
+     [exec]     [javac]                       ^
+     [exec]     [javac]   symbol:   method getInitParameter(String)
+     [exec]     [javac]   location: class ErrorServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:85: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/ErrorServlet.java:158: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:70: error: cannot access UnavailableException
+     [exec]     [javac]     public void init()
+     [exec]     [javac]                 ^
+     [exec]     [javac]   class file for javax.servlet.UnavailableException not found
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:146: error: cannot find symbol
+     [exec]     [javac]             response.sendError(HttpServletResponse.SC_FORBIDDEN);
+     [exec]     [javac]                                ^
+     [exec]     [javac]   symbol:   variable HttpServletResponse
+     [exec]     [javac]   location: class I2PDefaultServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/I2PDefaultServlet.java:167: error: cannot find symbol
+     [exec]     [javac]             response.sendError(HttpServletResponse.SC_FORBIDDEN,
+     [exec]     [javac]                                ^
+     [exec]     [javac]   symbol:   variable HttpServletResponse
+     [exec]     [javac]   location: class I2PDefaultServlet
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:112: error: cannot find symbol
+     [exec]     [javac] 					for (Part p : httpRequest.getParts()) {
+     [exec]     [javac] 					     ^
+     [exec]     [javac]   symbol:   class Part
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:117: error: cannot find symbol
+     [exec]     [javac] 				} catch (ServletException se) {
+     [exec]     [javac] 				         ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:152: error: cannot find symbol
+     [exec]     [javac] 				Part p = httpRequest.getPart(partName);
+     [exec]     [javac] 				^
+     [exec]     [javac]   symbol:   class Part
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:157: error: cannot find symbol
+     [exec]     [javac] 			} catch (ServletException se) {
+     [exec]     [javac] 			         ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:184: error: cannot find symbol
+     [exec]     [javac] 					Part p = httpRequest.getPart(name);
+     [exec]     [javac] 					^
+     [exec]     [javac]   symbol:   class Part
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:200: error: cannot find symbol
+     [exec]     [javac] 				} catch (ServletException se) {
+     [exec]     [javac] 				         ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:225: error: cannot find symbol
+     [exec]     [javac] 				Part p = httpRequest.getPart(partName);
+     [exec]     [javac] 				^
+     [exec]     [javac]   symbol:   class Part
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:230: error: cannot find symbol
+     [exec]     [javac] 			} catch (ServletException se) {
+     [exec]     [javac] 			         ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:248: error: cannot find symbol
+     [exec]     [javac] 				Part p = httpRequest.getPart(partName);
+     [exec]     [javac] 				^
+     [exec]     [javac]   symbol:   class Part
+     [exec]     [javac]   location: class RequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/RequestWrapper.java:253: error: cannot find symbol
+     [exec]     [javac] 			} catch (ServletException se) {
+     [exec]     [javac] 			         ^
+     [exec]     [javac]   symbol:   class ServletException
+     [exec]     [javac]   location: class RequestWrapper
+     [exec] 
+     [exec] BUILD FAILED
+     [exec] /java/i2p.i2p/build.xml:393: The following error occurred while executing this line:
+     [exec] /java/i2p.i2p/apps/jetty/build.xml:405: Compile failed; see the compiler error output for details.
+     [exec] 
+     [exec] Total time: 19 seconds
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:18: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:22: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:26: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:30: error: cannot find symbol
+     [exec]     [javac]             chain.doFilter(new XSSRequestWrapper((HttpServletRequest) request), response);
+     [exec]     [javac]                                                   ^
+     [exec]     [javac]   symbol:   class HttpServletRequest
+     [exec]     [javac]   location: class XSSFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSFilter.java:37: error: cannot find symbol
+     [exec]     [javac]                 ((HttpServletResponse)response).sendError(413, ise.getMessage());
+     [exec]     [javac]                   ^
+     [exec]     [javac]   symbol:   class HttpServletResponse
+     [exec]     [javac]   location: class XSSFilter
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:37: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:39: error: cannot find symbol
+     [exec]     [javac]         String[] values = super.getParameterValues(parameter);
+     [exec]     [javac]                           ^
+     [exec]     [javac]   symbol:   variable super
+     [exec]     [javac]   location: class XSSRequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:57: error: cannot find symbol
+     [exec]     [javac]                 log.logAlways(Log.WARN, "URL \"" + getServletPath() + "\" Stripped param \"" + parameter + "\" : \"" + value + '"');
+     [exec]     [javac]                                                    ^
+     [exec]     [javac]   symbol:   method getServletPath()
+     [exec]     [javac]   location: class XSSRequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:74: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:76: error: cannot find symbol
+     [exec]     [javac]         String value = super.getParameter(parameter);
+     [exec]     [javac]                        ^
+     [exec]     [javac]   symbol:   variable super
+     [exec]     [javac]   location: class XSSRequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:82: error: cannot find symbol
+     [exec]     [javac]             log.logAlways(Log.WARN, "URL \"" + getServletPath() + "\" Stripped param \"" + parameter + "\" : \"" + value + '"');
+     [exec]     [javac]                                                ^
+     [exec]     [javac]   symbol:   method getServletPath()
+     [exec]     [javac]   location: class XSSRequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:90: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:93: error: cannot find symbol
+     [exec]     [javac]         for (Enumeration<String> keys = getParameterNames(); keys.hasMoreElements(); ) {
+     [exec]     [javac]                                         ^
+     [exec]     [javac]   symbol:   method getParameterNames()
+     [exec]     [javac]   location: class XSSRequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:102: error: method does not override or implement a method from a supertype
+     [exec]     [javac]     @Override
+     [exec]     [javac]     ^
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:104: error: cannot find symbol
+     [exec]     [javac]         String value = super.getHeader(name);
+     [exec]     [javac]                        ^
+     [exec]     [javac]   symbol:   variable super
+     [exec]     [javac]   location: class XSSRequestWrapper
+     [exec]     [javac] /java/i2p.i2p/apps/jetty/java/src/net/i2p/servlet/filters/XSSRequestWrapper.java:108: error: cannot find symbol
+     [exec]     [javac]             log.logAlways(Log.WARN, "URL \"" + getServletPath() + "\" Stripped header \"" + name + "\" : \"" + value + '"');
+     [exec]     [javac]                                                ^
+     [exec]     [javac]   symbol:   method getServletPath()
+     [exec]     [javac]   location: class XSSRequestWrapper
+     [exec]     [javac] 82 errors
+     [exec]     [javac] 3 warnings
+     [exec] make: *** [debian/rules:149: build-indep] Error 1
+
+BUILD FAILED
+/java/i2p.i2p/build.xml:2628: exec returned: 2
+
+Total time: 34 seconds
