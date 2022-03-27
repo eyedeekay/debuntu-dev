@@ -18,6 +18,7 @@ window.addEventListener("load", function() {
         xhr.onreadystatechange = function() {
             if (xhr.readyState == 4) {
                 // create a preformatted code section inside of the div
+                console.log("xhr got log:", xhr.responseText);
                 var pre = document.createElement("pre");
                 pre.textContent = xhr.responseText;
                 // add the preformatted code section to the div
