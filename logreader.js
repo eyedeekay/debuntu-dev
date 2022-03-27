@@ -45,7 +45,7 @@ window.addEventListener("load", function() {
                     // scroll to the div
                     window.scrollTo(0, this.offsetParent.offsetTop);
                 });
-            });
+            }).catch(function(err) { console.log(err) });
     }
 });
 
