@@ -21,7 +21,7 @@ window.addEventListener("load", function() {
                     pre.textContent = text;
                     div.appendChild(pre);
                     // append the div to the body
-                    li.body.appendChild(div);
+                    li.appendChild(div);
                 }).catch(function(err) { console.log(err) });
                 // hide the div
                 div.style.display = "none";
