@@ -5,34 +5,34 @@ USER=`id -u`
 #USERMODE=-u "$(USER):$(USER)"
 TIME=`date +%Y%m%d%H%M%S`
 
-all: docker-ubuntu-latest docker-ubuntu-rolling docker-ubuntu-devel docker-debian-oldstable docker-debian-stable docker-debian-testing docker-debian-unstable
+all: ubuntu-latest ubuntu-rolling ubuntu-devel debian-oldstable debian-stable debian-testing debian-unstable
 
 ubuntu-latest: docker-ubuntu-latest
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-latest":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-latest"
+	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-latest":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-latest" | tee docker-ubuntu-latest.log
 	make copy-ubuntu-latest
 
 ubuntu-rolling: docker-ubuntu-rolling
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-rolling":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-rolling"
+	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-rolling":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-rolling" | tee docker-ubuntu-rolling.log
 	make copy-ubuntu-rolling
 
 ubuntu-devel: docker-ubuntu-devel
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-devel":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-devel"
+	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-devel":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-devel" | tee docker-ubuntu-devel.log
 	make copy-ubuntu-devel
 
 debian-oldstable: docker-debian-oldstable
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-oldstable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-oldstable"
+	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-oldstable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-oldstable" | tee docker-debian-oldstable.log
 	make copy-debian-oldstable
 
 debian-stable: docker-debian-stable
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-stable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-stable"
+	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-stable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-stable" | tee docker-debian-stable.log
 	make copy-debian-stable
 
 debian-testing: docker-debian-testing
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-testing":/java/i2p.i2p:z "$(IMAGE_NAME):debian-testing"
+	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-testing":/java/i2p.i2p:z "$(IMAGE_NAME):debian-testing" |	tee docker-debian-testing.log
 	make copy-debian-testing
 
 debian-unstable: docker-debian-unstable
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-unstable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-unstable"
+	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-unstable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-unstable" | tee docker-debian-unstable.log
 	make copy-debian-unstable
 
 # Copy debs
@@ -109,6 +109,8 @@ copy-debian-unstable:
 
 # Image generators
 
+images: docker-ubuntu-latest docker-ubuntu-rolling docker-ubuntu-devel docker-debian-oldstable docker-debian-stable docker-debian-testing docker-debian-unstable
+
 docker-ubuntu-latest: Dockerfile-ubuntu-latest
 	docker build -f Dockerfile-ubuntu-latest -t "$(IMAGE_NAME)":ubuntu-latest .
 
@@ -131,6 +133,8 @@ docker-debian-unstable: Dockerfile-debian-unstable
 	docker build -f Dockerfile-debian-unstable -t "$(IMAGE_NAME)":debian-unstable .
 
 ## Dockerfile generators
+
+dockerfiles: Dockerfile-ubuntu-latest Dockerfile-ubuntu-rolling Dockerfile-ubuntu-devel Dockerfile-debian-oldstable Dockerfile-debian-stable Dockerfile-debian-testing Dockerfile-debian-unstable
 
 Dockerfile-ubuntu-latest:
 	echo "FROM ubuntu:latest" > Dockerfile-ubuntu-latest
@@ -162,6 +166,9 @@ Dockerfile-debian-unstable:
 
 # Cleanup targets
 
+clean: clean-Dockerfile-ubuntu-latest clean-Dockerfile-ubuntu-rolling clean-Dockerfile-ubuntu-devel clean-Dockerfile-debian-oldstable clean-Dockerfile-debian-stable clean-Dockerfile-debian-testing clean-Dockerfile-debian-unstable
+	rm -rf i2p.i2p-ubuntu-latest i2p.i2p-ubuntu-rolling i2p.i2p-ubuntu-devel i2p.i2p-debian-oldstable i2p.i2p-debian-stable i2p.i2p-debian-testing i2p.i2p-debian-unstable
+
 clean-Dockerfile-ubuntu-latest:
 	docker rmi "$(IMAGE_NAME):ubuntu-latest"; true
 	rm -f Dockerfile-ubuntu-latest
@@ -189,6 +196,3 @@ clean-Dockerfile-debian-testing:
 clean-Dockerfile-debian-unstable:
 	docker rmi "$(IMAGE_NAME):debian-unstable"; true
 	rm -f Dockerfile-debian-unstable
-
-clean: clean-Dockerfile-ubuntu-latest clean-Dockerfile-ubuntu-rolling clean-Dockerfile-ubuntu-devel clean-Dockerfile-debian-oldstable clean-Dockerfile-debian-stable clean-Dockerfile-debian-testing clean-Dockerfile-debian-unstable
-	rm -rf i2p.i2p-ubuntu-latest i2p.i2p-ubuntu-rolling i2p.i2p-ubuntu-devel i2p.i2p-debian-oldstable i2p.i2p-debian-stable i2p.i2p-debian-testing i2p.i2p-debian-unstable
