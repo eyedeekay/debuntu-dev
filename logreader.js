@@ -23,6 +23,8 @@ window.addEventListener("load", function() {
                     // append the div to the body
                     document.body.appendChild(div);
                 }).catch(function(err) { console.log(err) });
+                // hide the div
+                div.style.display = "none";
             });
 
         li.addEventListener("click", function() {
