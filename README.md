@@ -10,3 +10,10 @@ run
 
 Then wait. It will generate containers, update them, installl dependencies, and build
 I2P a total of 7 times.
+
+If you have API keys, `gothub` or `github-release` aliased to `gothub`, and figure
+Microsoft can afford it, run:
+
+`make github-mad`
+
+to upload your dev packages to github when you're done.
