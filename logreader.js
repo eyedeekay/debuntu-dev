@@ -23,8 +23,9 @@ window.addEventListener("load", function() {
             }
             // add the preformatted code section to the div
         div.appendChild(pre);
-        // add the div to the li
-        li.appendChild(div);
+        // add the div to the body
+        document.body.appendChild(div);
+        //li.appendChild(div);
         // add a click event to the li
         li.addEventListener("click", function() {
             // hide all divs
