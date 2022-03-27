@@ -219,7 +219,7 @@ daily-release:
 	sleep 2s
 
 upload-dailies:
-	find . -maxdepth 1 -name '*$(DATE)*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t $(DATE) -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name '*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t $(DATE) -n \$$deb -f \$$deb" \;
 	#gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t $(DATE) -n \$$deb -f \$$deb
 
 endpoints: endpoint-ubuntu-latest endpoint-ubuntu-rolling endpoint-ubuntu-devel endpoint-debian-oldstable endpoint-debian-stable endpoint-debian-testing endpoint-debian-unstable

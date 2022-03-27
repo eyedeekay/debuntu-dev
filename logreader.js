@@ -34,7 +34,7 @@ window.addEventListener("load", function() {
                 divs[i].style.display = "none";
             }
             // show the first div inside of the li
-            var div = li.getElementsByTagName("div");
+            var div = li.querySelectorAll("div");
             for (var i = 0; i < div.length; i++) {
                 div[i].style.display = "block";
             }
