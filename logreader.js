@@ -12,7 +12,7 @@ window.addEventListener("load", function() {
 
         // request the file contents by doing an xhr
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", li.textContent, false);
+        xhr.open("GET", li.textContent.replace("#", ""), false);
         xhr.send();
         // put the contents of the file into the preformatted code section when a response is recieved
         xhr.onreadystatechange = function() {
