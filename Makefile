@@ -239,7 +239,7 @@ clean-Dockerfile-debian-unstable:
 	docker rmi "$(IMAGE_NAME):debian-unstable"; true
 	rm -f Dockerfile-debian-unstable
 
-DESC="`cat README.md`"
+DESC?="`cat README.md`"
 
 desc:
 	echo $(DESC)
@@ -247,12 +247,12 @@ desc:
 branch-release-all: all branch-release upload-branch
 
 branch-release:
-	gothub release --pre-release -u eyedeekay -r debuntu-dev -t $(GIT_BRANCH) -n "I2P Dev Builds from branch: $(GIT_BRANCH)" -d "$(DESC)"; true
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t $(GIT_BRANCH) -n "I2P Dev Builds from branch: $(GIT_BRANCH)" -d $(DESC); true
 	sleep 5s
 
 upload-branch:
 	gothub upload -R -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -f docker-ubuntu-latest$(GIT_BRANCH).log -n docker-ubuntu-latest-$(TIME).log -l "Build log for ubuntu-latest: $(TIME)"
-	find . -maxdepth 1 -name "*$(GIT_BRANCH)*.deb" -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\ $(DATE)"  -t $(GIT_BRANCH) -n \$$deb -f \$$deb" \;
+	find . -maxdepth 1 -name "*$(GIT_BRANCH)*.deb" -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum $(DATE)\"  -t $(GIT_BRANCH) -n \$$deb -f \$$deb" \;
 
 daily-release:
 	gothub release --pre-release -u eyedeekay -r debuntu-dev -t $(DATE) -n "I2P Dev Builds from: $(DATE)" -d $(DESC); true
