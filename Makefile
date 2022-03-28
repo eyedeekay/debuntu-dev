@@ -5,41 +5,71 @@ USER=`id -u`
 #USERMODE=-u "$(USER):$(USER)"
 TIME=`date +%Y%m%d%H`
 DATE=`date +%Y%m%d`
+GIT_UPSTREAM?="https://i2pgit.org/i2p-hackers/i2p.i2p"
+GIT_BRANCH?="master"
 
 all: ubuntu-latest ubuntu-rolling ubuntu-devel debian-oldstable debian-stable debian-testing debian-unstable
 
 ubuntu-latest: docker-ubuntu-latest
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-latest":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-latest" | tee docker-ubuntu-latest.log
+	docker run -it --rm $(USERMODE) \
+		-v "$(PWD)/i2p.i2p-ubuntu-latest":/java/i2p.i2p:z \
+		-e "GIT_UPSTREAM"="$(GIT_UPSTREAM)" \
+		-e "GIT_BRANCH"="$(GIT_BRANCH)" \
+		"$(IMAGE_NAME):ubuntu-latest" | tee docker-ubuntu-latest$(GIT_BRANCH).log
 	-make copy-ubuntu-latest
 	touch ubuntu-latest
 
 ubuntu-rolling: docker-ubuntu-rolling
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-rolling":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-rolling" | tee docker-ubuntu-rolling.log
+	docker run -it --rm $(USERMODE) \
+		-v "$(PWD)/i2p.i2p-ubuntu-rolling":/java/i2p.i2p:z \
+		-e "GIT_UPSTREAM"="$(GIT_UPSTREAM)" \
+		-e "GIT_BRANCH"="$(GIT_BRANCH)" \
+		"$(IMAGE_NAME):ubuntu-rolling" | tee docker-ubuntu-rolling$(GIT_BRANCH).log
 	-make copy-ubuntu-rolling
 	touch ubuntu-rolling
 
 ubuntu-devel: docker-ubuntu-devel
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-ubuntu-devel":/java/i2p.i2p:z "$(IMAGE_NAME):ubuntu-devel" | tee docker-ubuntu-devel.log
+	docker run -it --rm $(USERMODE) \
+		-v "$(PWD)/i2p.i2p-ubuntu-devel":/java/i2p.i2p:z \
+		-e "GIT_UPSTREAM"="$(GIT_UPSTREAM)" \
+		-e "GIT_BRANCH"="$(GIT_BRANCH)" \
+		"$(IMAGE_NAME):ubuntu-devel" | tee docker-ubuntu-devel$(GIT_BRANCH).log
 	-make copy-ubuntu-devel
 	touch ubuntu-devel
 
 debian-oldstable: docker-debian-oldstable
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-oldstable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-oldstable" | tee docker-debian-oldstable.log
+	docker run -it --rm $(USERMODE) \
+		-v "$(PWD)/i2p.i2p-debian-oldstable":/java/i2p.i2p:z \
+		-e "GIT_UPSTREAM"="$(GIT_UPSTREAM)" \
+		-e "GIT_BRANCH"="$(GIT_BRANCH)" \
+		"$(IMAGE_NAME):debian-oldstable" | tee docker-debian-oldstable$(GIT_BRANCH).log
 	-make copy-debian-oldstable
 	touch debian-oldstable
 
 debian-stable: docker-debian-stable
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-stable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-stable" | tee docker-debian-stable.log
+	docker run -it --rm $(USERMODE) \
+		-v "$(PWD)/i2p.i2p-debian-stable":/java/i2p.i2p:z \
+		-e "GIT_UPSTREAM"="$(GIT_UPSTREAM)" \
+		-e "GIT_BRANCH"="$(GIT_BRANCH)" \
+		"$(IMAGE_NAME):debian-stable" | tee docker-debian-stable$(GIT_BRANCH).log
 	-make copy-debian-stable
 	touch debian-stable
 
 debian-testing: docker-debian-testing
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-testing":/java/i2p.i2p:z "$(IMAGE_NAME):debian-testing" |	tee docker-debian-testing.log
+	docker run -it --rm $(USERMODE) \
+		-v "$(PWD)/i2p.i2p-debian-testing":/java/i2p.i2p:z \
+		-e "GIT_UPSTREAM"="$(GIT_UPSTREAM)" \
+		-e "GIT_BRANCH"="$(GIT_BRANCH)" \
+		"$(IMAGE_NAME):debian-testing" |	tee docker-debian-testing$(GIT_BRANCH).log
 	-make copy-debian-testing
 	touch debian-testing
 
 debian-unstable: docker-debian-unstable
-	docker run -it --rm $(USERMODE) -v "$(PWD)/i2p.i2p-debian-unstable":/java/i2p.i2p:z "$(IMAGE_NAME):debian-unstable" | tee docker-debian-unstable.log
+	docker run -it --rm $(USERMODE) \
+		-v "$(PWD)/i2p.i2p-debian-unstable":/java/i2p.i2p:z \
+		-e "GIT_UPSTREAM"="$(GIT_UPSTREAM)" \
+		-e "GIT_BRANCH"="$(GIT_BRANCH)" \
+		"$(IMAGE_NAME):debian-unstable" | tee docker-debian-unstable$(GIT_BRANCH).log
 	-make copy-debian-unstable
 	touch debian-unstable
 
@@ -50,73 +80,73 @@ copies:
 
 copy-ubuntu-latest:
 	cp -v i2p.i2p-ubuntu-latest/i2p_*_all.deb \
-		i2p_1.7.0-11-ubuntu-latest-$(TIME)-1_all.deb
+		i2p_1.7.0-11-ubuntu-latest-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-latest/i2p-doc_*_all.deb \
-		i2p-doc_1.7.0-11-ubuntu-latest-$(TIME)-1_all.deb
+		i2p-doc_1.7.0-11-ubuntu-latest-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-latest/i2p-router_*_all.deb \
-		i2p-router_1.7.0-11-ubuntu-latest-$(TIME)-1_all.deb
+		i2p-router_1.7.0-11-ubuntu-latest-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-latest/libjbigi-jni_*_amd64.deb \
-		libjbigi-jni_1.7.0-11-ubuntu-latest-$(TIME)-1_amd64.deb
+		libjbigi-jni_1.7.0-11-ubuntu-latest-$(TIME)-$(GIT_BRANCH)-1_amd64.deb
 
 copy-ubuntu-rolling:
 	cp -v i2p.i2p-ubuntu-rolling/i2p_*_all.deb \
-		i2p_1.7.0-11-ubuntu-rolling-$(TIME)-1_all.deb
+		i2p_1.7.0-11-ubuntu-rolling-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-rolling/i2p-doc_*_all.deb \
-		i2p-doc_1.7.0-11-ubuntu-rolling-$(TIME)-1_all.deb
+		i2p-doc_1.7.0-11-ubuntu-rolling-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-rolling/i2p-router_*_all.deb \
-		i2p-router_1.7.0-11-ubuntu-rolling-$(TIME)-1_all.deb
+		i2p-router_1.7.0-11-ubuntu-rolling-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-rolling/libjbigi-jni_*_amd64.deb \
-		libjbigi-jni_1.7.0-11-ubuntu-rolling-$(TIME)-1_amd64.deb
+		libjbigi-jni_1.7.0-11-ubuntu-rolling-$(TIME)-$(GIT_BRANCH)-1_amd64.deb
 
 copy-ubuntu-devel:
 	cp -v i2p.i2p-ubuntu-devel/i2p_*_all.deb \
-		i2p_1.7.0-11-ubuntu-devel-$(TIME)-1_all.deb
+		i2p_1.7.0-11-ubuntu-devel-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-devel/i2p-doc_*_all.deb \
-		i2p-doc_1.7.0-11-ubuntu-devel-$(TIME)-1_all.deb
+		i2p-doc_1.7.0-11-ubuntu-devel-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-devel/i2p-router_*_all.deb \
-		i2p-router_1.7.0-11-ubuntu-devel-$(TIME)-1_all.deb
+		i2p-router_1.7.0-11-ubuntu-devel-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-ubuntu-devel/libjbigi-jni_*_amd64.deb \
-		libjbigi-jni_1.7.0-11-ubuntu-devel-$(TIME)-1_amd64.deb
+		libjbigi-jni_1.7.0-11-ubuntu-devel-$(TIME)-$(GIT_BRANCH)-1_amd64.deb
 
 copy-debian-oldstable:
 	cp -v i2p.i2p-debian-oldstable/i2p_*_all.deb \
-		i2p_1.7.0-11-debian-oldstable-$(TIME)-1_all.deb
+		i2p_1.7.0-11-debian-oldstable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-oldstable/i2p-doc_*_all.deb \
-		i2p-doc_1.7.0-11-debian-oldstable-$(TIME)-1_all.deb
+		i2p-doc_1.7.0-11-debian-oldstable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-oldstable/i2p-router_*_all.deb \
-		i2p-router_1.7.0-11-debian-oldstable-$(TIME)-1_all.deb
+		i2p-router_1.7.0-11-debian-oldstable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-oldstable/libjbigi-jni_*_amd64.deb \
-		libjbigi-jni_1.7.0-11-debian-oldstable-$(TIME)-1_amd64.deb
+		libjbigi-jni_1.7.0-11-debian-oldstable-$(TIME)-$(GIT_BRANCH)-1_amd64.deb
 
 copy-debian-stable:
 	cp -v i2p.i2p-debian-stable/i2p_*_all.deb \
-		i2p_1.7.0-11-debian-stable-$(TIME)-1_all.deb
+		i2p_1.7.0-11-debian-stable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-stable/i2p-doc_*_all.deb \
-		i2p-doc_1.7.0-11-debian-stable-$(TIME)-1_all.deb
+		i2p-doc_1.7.0-11-debian-stable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-stable/i2p-router_*_all.deb \
-		i2p-router_1.7.0-11-debian-stable-$(TIME)-1_all.deb
+		i2p-router_1.7.0-11-debian-stable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-stable/libjbigi-jni_*_amd64.deb \
-		libjbigi-jni_1.7.0-11-debian-stable-$(TIME)-1_amd64.deb
+		libjbigi-jni_1.7.0-11-debian-stable-$(TIME)-$(GIT_BRANCH)-1_amd64.deb
 
 copy-debian-testing:
 	cp -v i2p.i2p-debian-testing/i2p_*_all.deb \
-		i2p_1.7.0-11-debian-testing-$(TIME)-1_all.deb
+		i2p_1.7.0-11-debian-testing-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-testing/i2p-doc_*_all.deb \
-		i2p-doc_1.7.0-11-debian-testing-$(TIME)-1_all.deb
+		i2p-doc_1.7.0-11-debian-testing-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-testing/i2p-router_*_all.deb \
-		i2p-router_1.7.0-11-debian-testing-$(TIME)-1_all.deb
+		i2p-router_1.7.0-11-debian-testing-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-testing/libjbigi-jni_*_amd64.deb \
-		libjbigi-jni_1.7.0-11-debian-testing-$(TIME)-1_amd64.deb
+		libjbigi-jni_1.7.0-11-debian-testing-$(TIME)-$(GIT_BRANCH)-1_amd64.deb
 
 copy-debian-unstable:
 	cp -v i2p.i2p-debian-unstable/i2p_*_all.deb \
-		i2p_1.7.0-11-debian-unstable-$(TIME)-1_all.deb
+		i2p_1.7.0-11-debian-unstable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-unstable/i2p-doc_*_all.deb \
-		i2p-doc_1.7.0-11-debian-unstable-$(TIME)-1_all.deb
+		i2p-doc_1.7.0-11-debian-unstable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-unstable/i2p-router_*_all.deb \
-		i2p-router_1.7.0-11-debian-unstable-$(TIME)-1_all.deb
+		i2p-router_1.7.0-11-debian-unstable-$(TIME)-$(GIT_BRANCH)-1_all.deb
 	cp -v i2p.i2p-debian-unstable/libjbigi-jni_*_amd64.deb \
-		libjbigi-jni_1.7.0-11-debian-unstable-$(TIME)-1_amd64.deb
+		libjbigi-jni_1.7.0-11-debian-unstable-$(TIME)-$(GIT_BRANCH)-1_amd64.deb
 
 # Image generators
 
@@ -214,9 +244,19 @@ DESC="`cat README.md`"
 desc:
 	echo $(DESC)
 
+branch-release-all: all branch-release upload-branch
+
+branch-release:
+	gothub release --pre-release -u eyedeekay -r debuntu-dev -t $(GIT_BRANCH) -n "I2P Dev Builds from branch: $(GIT_BRANCH)" -d "$(DESC)"; true
+	sleep 5s
+
+upload-branch:
+	gothub upload -R -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -f docker-ubuntu-latest$(GIT_BRANCH).log -n docker-ubuntu-latest-$(TIME).log -l "Build log for ubuntu-latest: $(TIME)"
+	find . -maxdepth 1 -name "*$(GIT_BRANCH)*.deb" -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\ $(DATE)"  -t $(GIT_BRANCH) -n \$$deb -f \$$deb" \;
+
 daily-release:
 	gothub release --pre-release -u eyedeekay -r debuntu-dev -t $(DATE) -n "I2P Dev Builds from: $(DATE)" -d $(DESC); true
-	sleep 2s
+	sleep 5s
 
 upload-dailies:
 	find . -maxdepth 1 -name '*.deb' -exec bash -c "export deb={} && export debsum=\`sha256sum \$$deb\`; echo \$$debsum; gothub upload -R -u eyedeekay -r debuntu-dev -l \"\$$debsum\"  -t $(DATE) -n \$$deb -f \$$deb" \;
@@ -226,31 +266,31 @@ endpoints: endpoint-ubuntu-latest endpoint-ubuntu-rolling endpoint-ubuntu-devel 
 
 endpoint-ubuntu-latest:
 	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-latest" -d $(DESC); true
-	sleep 2s
+	sleep 5s
 
 endpoint-ubuntu-rolling:
 	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-rolling" -n "I2P Dev Builds for: ubuntu-rolling" -d $(DESC); true
-	sleep 2s
+	sleep 5s
 
 endpoint-ubuntu-devel:
 #	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "ubuntu-latest" -n "I2P Dev Builds for: ubuntu-devel" -d $(DESC); true
-	sleep 2s
+	sleep 5s
 
 endpoint-debian-oldstable:
 	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-oldstable" -n "I2P Dev Builds for: debian-oldstable" -d $(DESC); true
-	sleep 2s
+	sleep 5s
 
 endpoint-debian-stable:
 	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-stable" -n "I2P Dev Builds for: debian-stable" -d $(DESC); true
-	sleep 2s
+	sleep 5s
 
 endpoint-debian-testing:
 	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-testing" -n "I2P Dev Builds for: debian-testing" -d $(DESC); true
-	sleep 2s
+	sleep 5s
 
 endpoint-debian-unstable:
 	gothub release --pre-release -u eyedeekay -r debuntu-dev -t "debian-unstable" -n "I2P Dev Builds for: debian-unstable" -d $(DESC); true
-	sleep 2s
+	sleep 5s
 
 upload-all: upload-ubuntu-latest upload-ubuntu-rolling upload-ubuntu-devel upload-debian-oldstable upload-debian-stable upload-debian-testing upload-debian-unstable
 

@@ -1,12 +1,12 @@
 Cloning into 'i2p.i2p'...
-warning: redirecting to https://i2pgit.org/i2p-hackers/i2p.i2p.git/
-remote: Enumerating objects: 4870, done.[K
-remote: Counting objects:   0% (1/4870)[Kremote: Counting objects:   1% (49/4870)[Kremote: Counting objects:   2% (98/4870)[Kremote: Counting objects:   3% (147/4870)[Kremote: Counting objects:   4% (195/4870)[Kremote: Counting objects:   5% (244/4870)[Kremote: Counting objects:   6% (293/4870)[Kremote: Counting objects:   7% (341/4870)[Kremote: Counting objects:   8% (390/4870)[Kremote: Counting objects:   9% (439/4870)[Kremote: Counting objects:  10% (487/4870)[Kremote: Counting objects:  11% (536/4870)[Kremote: Counting objects:  12% (585/4870)[Kremote: Counting objects:  13% (634/4870)[Kremote: Counting objects:  14% (682/4870)[Kremote: Counting objects:  15% (731/4870)[Kremote: Counting objects:  16% (780/4870)[Kremote: Counting objects:  17% (828/4870)[Kremote: Counting objects:  18% (877/4870)[Kremote: Counting objects:  19% (926/4870)[Kremote: Counting objects:  20% (974/4870)[Kremote: Counting objects:  21% (1023/4870)[Kremote: Counting objects:  22% (1072/4870)[Kremote: Counting objects:  23% (1121/4870)[Kremote: Counting objects:  24% (1169/4870)[Kremote: Counting objects:  25% (1218/4870)[Kremote: Counting objects:  26% (1267/4870)[Kremote: Counting objects:  27% (1315/4870)[Kremote: Counting objects:  28% (1364/4870)[Kremote: Counting objects:  29% (1413/4870)[Kremote: Counting objects:  30% (1461/4870)[Kremote: Counting objects:  31% (1510/4870)[Kremote: Counting objects:  32% (1559/4870)[Kremote: Counting objects:  33% (1608/4870)[Kremote: Counting objects:  34% (1656/4870)[Kremote: Counting objects:  35% (1705/4870)[Kremote: Counting objects:  36% (1754/4870)[Kremote: Counting objects:  37% (1802/4870)[Kremote: Counting objects:  38% (1851/4870)[Kremote: Counting objects:  39% (1900/4870)[Kremote: Counting objects:  40% (1948/4870)[Kremote: Counting objects:  41% (1997/4870)[Kremote: Counting objects:  42% (2046/4870)[Kremote: Counting objects:  43% (2095/4870)[Kremote: Counting objects:  44% (2143/4870)[Kremote: Counting objects:  45% (2192/4870)[Kremote: Counting objects:  46% (2241/4870)[Kremote: Counting objects:  47% (2289/4870)[Kremote: Counting objects:  48% (2338/4870)[Kremote: Counting objects:  49% (2387/4870)[Kremote: Counting objects:  50% (2435/4870)[Kremote: Counting objects:  51% (2484/4870)[Kremote: Counting objects:  52% (2533/4870)[Kremote: Counting objects:  53% (2582/4870)[Kremote: Counting objects:  54% (2630/4870)[Kremote: Counting objects:  55% (2679/4870)[Kremote: Counting objects:  56% (2728/4870)[Kremote: Counting objects:  57% (2776/4870)[Kremote: Counting objects:  58% (2825/4870)[Kremote: Counting objects:  59% (2874/4870)[Kremote: Counting objects:  60% (2922/4870)[Kremote: Counting objects:  61% (2971/4870)[Kremote: Counting objects:  62% (3020/4870)[Kremote: Counting objects:  63% (3069/4870)[Kremote: Counting objects:  64% (3117/4870)[Kremote: Counting objects:  65% (3166/4870)[Kremote: Counting objects:  66% (3215/4870)[Kremote: Counting objects:  67% (3263/4870)[Kremote: Counting objects:  68% (3312/4870)[Kremote: Counting objects:  69% (3361/4870)[Kremote: Counting objects:  70% (3409/4870)[Kremote: Counting objects:  71% (3458/4870)[Kremote: Counting objects:  72% (3507/4870)[Kremote: Counting objects:  73% (3556/4870)[Kremote: Counting objects:  74% (3604/4870)[Kremote: Counting objects:  75% (3653/4870)[Kremote: Counting objects:  76% (3702/4870)[Kremote: Counting objects:  77% (3750/4870)[Kremote: Counting objects:  78% (3799/4870)[Kremote: Counting objects:  79% (3848/4870)[Kremote: Counting objects:  80% (3896/4870)[Kremote: Counting objects:  81% (3945/4870)[Kremote: Counting objects:  82% (3994/4870)[Kremote: Counting objects:  83% (4043/4870)[Kremote: Counting objects:  84% (4091/4870)[Kremote: Counting objects:  85% (4140/4870)[Kremote: Counting objects:  86% (4189/4870)[Kremote: Counting objects:  87% (4237/4870)[Kremote: Counting objects:  88% (4286/4870)[Kremote: Counting objects:  89% (4335/4870)[Kremote: Counting objects:  90% (4383/4870)[Kremote: Counting objects:  91% (4432/4870)[Kremote: Counting objects:  92% (4481/4870)[Kremote: Counting objects:  93% (4530/4870)[Kremote: Counting objects:  94% (4578/4870)[Kremote: Counting objects:  95% (4627/4870)[Kremote: Counting objects:  96% (4676/4870)[Kremote: Counting objects:  97% (4724/4870)[Kremote: Counting objects:  98% (4773/4870)[Kremote: Counting objects:  99% (4822/4870)[Kremote: Counting objects: 100% (4870/4870)[Kremote: Counting objects: 100% (4870/4870), done.[K
-remote: Compressing objects:   0% (1/3352)[Kremote: Compressing objects:   1% (34/3352)[Kremote: Compressing objects:   2% (68/3352)[Kremote: Compressing objects:   3% (101/3352)[Kremote: Compressing objects:   4% (135/3352)[Kremote: Compressing objects:   5% (168/3352)[Kremote: Compressing objects:   6% (202/3352)[Kremote: Compressing objects:   7% (235/3352)[Kremote: Compressing objects:   8% (269/3352)[Kremote: Compressing objects:   9% (302/3352)[Kremote: Compressing objects:  10% (336/3352)[Kremote: Compressing objects:  11% (369/3352)[Kremote: Compressing objects:  12% (403/3352)[Kremote: Compressing objects:  13% (436/3352)[Kremote: Compressing objects:  14% (470/3352)[Kremote: Compressing objects:  15% (503/3352)[Kremote: Compressing objects:  16% (537/3352)[Kremote: Compressing objects:  17% (570/3352)[Kremote: Compressing objects:  18% (604/3352)[Kremote: Compressing objects:  19% (637/3352)[Kremote: Compressing objects:  20% (671/3352)[Kremote: Compressing objects:  21% (704/3352)[Kremote: Compressing objects:  22% (738/3352)[Kremote: Compressing objects:  23% (771/3352)[Kremote: Compressing objects:  24% (805/3352)[Kremote: Compressing objects:  25% (838/3352)[Kremote: Compressing objects:  26% (872/3352)[Kremote: Compressing objects:  27% (906/3352)[Kremote: Compressing objects:  28% (939/3352)[Kremote: Compressing objects:  29% (973/3352)[Kremote: Compressing objects:  30% (1006/3352)[Kremote: Compressing objects:  31% (1040/3352)[Kremote: Compressing objects:  32% (1073/3352)[Kremote: Compressing objects:  33% (1107/3352)[Kremote: Compressing objects:  34% (1140/3352)[Kremote: Compressing objects:  35% (1174/3352)[Kremote: Compressing objects:  36% (1207/3352)[Kremote: Compressing objects:  37% (1241/3352)[Kremote: Compressing objects:  38% (1274/3352)[Kremote: Compressing objects:  39% (1308/3352)[Kremote: Compressing objects:  40% (1341/3352)[Kremote: Compressing objects:  41% (1375/3352)[Kremote: Compressing objects:  42% (1408/3352)[Kremote: Compressing objects:  43% (1442/3352)[Kremote: Compressing objects:  44% (1475/3352)[Kremote: Compressing objects:  45% (1509/3352)[Kremote: Compressing objects:  46% (1542/3352)[Kremote: Compressing objects:  47% (1576/3352)[Kremote: Compressing objects:  48% (1609/3352)[Kremote: Compressing objects:  49% (1643/3352)[Kremote: Compressing objects:  50% (1676/3352)[Kremote: Compressing objects:  51% (1710/3352)[Kremote: Compressing objects:  52% (1744/3352)[Kremote: Compressing objects:  53% (1777/3352)[Kremote: Compressing objects:  54% (1811/3352)[Kremote: Compressing objects:  55% (1844/3352)[Kremote: Compressing objects:  56% (1878/3352)[Kremote: Compressing objects:  57% (1911/3352)[Kremote: Compressing objects:  58% (1945/3352)[Kremote: Compressing objects:  59% (1978/3352)[Kremote: Compressing objects:  60% (2012/3352)[Kremote: Compressing objects:  61% (2045/3352)[Kremote: Compressing objects:  62% (2079/3352)[Kremote: Compressing objects:  63% (2112/3352)[Kremote: Compressing objects:  64% (2146/3352)[Kremote: Compressing objects:  65% (2179/3352)[Kremote: Compressing objects:  66% (2213/3352)[Kremote: Compressing objects:  67% (2246/3352)[Kremote: Compressing objects:  68% (2280/3352)[Kremote: Compressing objects:  69% (2313/3352)[Kremote: Compressing objects:  70% (2347/3352)[Kremote: Compressing objects:  71% (2380/3352)[Kremote: Compressing objects:  72% (2414/3352)[Kremote: Compressing objects:  73% (2447/3352)[Kremote: Compressing objects:  74% (2481/3352)[Kremote: Compressing objects:  75% (2514/3352)[Kremote: Compressing objects:  76% (2548/3352)[Kremote: Compressing objects:  77% (2582/3352)[Kremote: Compressing objects:  78% (2615/3352)[Kremote: Compressing objects:  79% (2649/3352)[Kremote: Compressing objects:  80% (2682/3352)[Kremote: Compressing objects:  81% (2716/3352)[Kremote: Compressing objects:  82% (2749/3352)[Kremote: Compressing objects:  83% (2783/3352)[Kremote: Compressing objects:  84% (2816/3352)[Kremote: Compressing objects:  85% (2850/3352)[Kremote: Compressing objects:  86% (2883/3352)[Kremote: Compressing objects:  87% (2917/3352)[Kremote: Compressing objects:  88% (2950/3352)[Kremote: Compressing objects:  89% (2984/3352)[Kremote: Compressing objects:  90% (3017/3352)[Kremote: Compressing objects:  91% (3051/3352)[Kremote: Compressing objects:  92% (3084/3352)[Kremote: Compressing objects:  93% (3118/3352)[Kremote: Compressing objects:  94% (3151/3352)[Kremote: Compressing objects:  95% (3185/3352)[Kremote: Compressing objects:  96% (3218/3352)[Kremote: Compressing objects:  97% (3252/3352)[Kremote: Compressing objects:  98% (3285/3352)[Kremote: Compressing objects:  99% (3319/3352)[Kremote: Compressing objects: 100% (3352/3352)[Kremote: Compressing objects: 100% (3352/3352), done.[K
-Receiving objects:   0% (1/4870)Receiving objects:   1% (49/4870)Receiving objects:   2% (98/4870)Receiving objects:   3% (147/4870)Receiving objects:   4% (195/4870)Receiving objects:   5% (244/4870)Receiving objects:   6% (293/4870)Receiving objects:   7% (341/4870)Receiving objects:   8% (390/4870)Receiving objects:   9% (439/4870)Receiving objects:  10% (487/4870)Receiving objects:  11% (536/4870)Receiving objects:  12% (585/4870)Receiving objects:  13% (634/4870)Receiving objects:  14% (682/4870)Receiving objects:  15% (731/4870)Receiving objects:  16% (780/4870), 1.21 MiB | 2.41 MiB/sReceiving objects:  17% (828/4870), 1.21 MiB | 2.41 MiB/sReceiving objects:  18% (877/4870), 1.21 MiB | 2.41 MiB/sReceiving objects:  19% (926/4870), 1.21 MiB | 2.41 MiB/sReceiving objects:  20% (974/4870), 1.21 MiB | 2.41 MiB/sReceiving objects:  20% (1022/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  21% (1023/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  22% (1072/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  23% (1121/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  24% (1169/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  25% (1218/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  26% (1267/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  27% (1315/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  28% (1364/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  29% (1413/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  30% (1461/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  31% (1510/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  32% (1559/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  33% (1608/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  34% (1656/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  35% (1705/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  36% (1754/4870), 3.33 MiB | 3.33 MiB/sReceiving objects:  37% (1802/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  38% (1851/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  39% (1900/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  40% (1948/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  41% (1997/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  42% (2046/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  43% (2095/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  44% (2143/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  45% (2192/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  46% (2241/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  47% (2289/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  48% (2338/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  49% (2387/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  50% (2435/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  51% (2484/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  52% (2533/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  53% (2582/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  54% (2630/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  55% (2679/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  56% (2728/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  57% (2776/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  58% (2825/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  59% (2874/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  60% (2922/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  61% (2971/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  62% (3020/4870), 6.29 MiB | 4.19 MiB/sReceiving objects:  62% (3044/4870), 9.76 MiB | 4.88 MiB/sReceiving objects:  63% (3069/4870), 9.76 MiB | 4.88 MiB/sReceiving objects:  64% (3117/4870), 9.76 MiB | 4.88 MiB/sReceiving objects:  65% (3166/4870), 9.76 MiB | 4.88 MiB/sReceiving objects:  66% (3215/4870), 9.76 MiB | 4.88 MiB/sReceiving objects:  67% (3263/4870), 9.76 MiB | 4.88 MiB/sReceiving objects:  68% (3312/4870), 9.76 MiB | 4.88 MiB/sReceiving objects:  69% (3361/4870), 13.87 MiB | 5.54 MiB/sReceiving objects:  70% (3409/4870), 13.87 MiB | 5.54 MiB/sReceiving objects:  70% (3424/4870), 19.25 MiB | 6.40 MiB/sReceiving objects:  71% (3458/4870), 19.25 MiB | 6.40 MiB/sReceiving objects:  72% (3507/4870), 19.25 MiB | 6.40 MiB/sReceiving objects:  73% (3556/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  74% (3604/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  75% (3653/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  76% (3702/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  77% (3750/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  78% (3799/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  79% (3848/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  80% (3896/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  81% (3945/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  81% (3948/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  82% (3994/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  83% (4043/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  84% (4091/4870), 25.08 MiB | 7.15 MiB/sReceiving objects:  85% (4140/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  86% (4189/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  87% (4237/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  88% (4286/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  89% (4335/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  90% (4383/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  91% (4432/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  92% (4481/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  93% (4530/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  94% (4578/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  95% (4627/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  96% (4676/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  97% (4724/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  98% (4773/4870), 30.87 MiB | 7.70 MiB/sReceiving objects:  99% (4822/4870), 30.87 MiB | 7.70 MiB/sremote: Total 4870 (delta 1545), reused 3268 (delta 1252), pack-reused 0[K
-Receiving objects: 100% (4870/4870), 30.87 MiB | 7.70 MiB/sReceiving objects: 100% (4870/4870), 32.36 MiB | 7.82 MiB/s, done.
-Resolving deltas:   0% (0/1545)Resolving deltas:   1% (17/1545)Resolving deltas:   2% (31/1545)Resolving deltas:   3% (47/1545)Resolving deltas:   4% (63/1545)Resolving deltas:   5% (78/1545)Resolving deltas:   6% (95/1545)Resolving deltas:   7% (112/1545)Resolving deltas:   8% (124/1545)Resolving deltas:   9% (140/1545)Resolving deltas:  10% (155/1545)Resolving deltas:  11% (170/1545)Resolving deltas:  12% (189/1545)Resolving deltas:  13% (205/1545)Resolving deltas:  14% (217/1545)Resolving deltas:  15% (234/1545)Resolving deltas:  16% (250/1545)Resolving deltas:  17% (274/1545)Resolving deltas:  18% (279/1545)Resolving deltas:  19% (295/1545)Resolving deltas:  20% (309/1545)Resolving deltas:  21% (325/1545)Resolving deltas:  22% (340/1545)Resolving deltas:  23% (356/1545)Resolving deltas:  24% (371/1545)Resolving deltas:  25% (388/1545)Resolving deltas:  26% (402/1545)Resolving deltas:  27% (418/1545)Resolving deltas:  28% (433/1545)Resolving deltas:  29% (454/1545)Resolving deltas:  31% (480/1545)Resolving deltas:  32% (496/1545)Resolving deltas:  33% (510/1545)Resolving deltas:  34% (526/1545)Resolving deltas:  35% (541/1545)Resolving deltas:  36% (559/1545)Resolving deltas:  37% (572/1545)Resolving deltas:  38% (592/1545)Resolving deltas:  39% (603/1545)Resolving deltas:  40% (618/1545)Resolving deltas:  41% (634/1545)Resolving deltas:  42% (651/1545)Resolving deltas:  43% (667/1545)Resolving deltas:  44% (682/1545)Resolving deltas:  45% (697/1545)Resolving deltas:  46% (716/1545)Resolving deltas:  47% (729/1545)Resolving deltas:  48% (744/1545)Resolving deltas:  49% (763/1545)Resolving deltas:  50% (774/1545)Resolving deltas:  51% (788/1545)Resolving deltas:  52% (804/1545)Resolving deltas:  53% (820/1545)Resolving deltas:  54% (840/1545)Resolving deltas:  55% (850/1545)Resolving deltas:  56% (866/1545)Resolving deltas:  57% (882/1545)Resolving deltas:  58% (909/1545)Resolving deltas:  59% (915/1545)Resolving deltas:  60% (933/1545)Resolving deltas:  61% (944/1545)Resolving deltas:  62% (962/1545)Resolving deltas:  63% (977/1545)Resolving deltas:  64% (990/1545)Resolving deltas:  65% (1005/1545)Resolving deltas:  67% (1037/1545)Resolving deltas:  68% (1054/1545)Resolving deltas:  69% (1068/1545)Resolving deltas:  70% (1082/1545)Resolving deltas:  71% (1099/1545)Resolving deltas:  72% (1114/1545)Resolving deltas:  73% (1129/1545)Resolving deltas:  74% (1144/1545)Resolving deltas:  75% (1167/1545)Resolving deltas:  76% (1178/1545)Resolving deltas:  77% (1195/1545)Resolving deltas:  78% (1206/1545)Resolving deltas:  79% (1227/1545)Resolving deltas:  80% (1238/1545)Resolving deltas:  81% (1258/1545)Resolving deltas:  82% (1275/1545)Resolving deltas:  83% (1285/1545)Resolving deltas:  84% (1305/1545)Resolving deltas:  85% (1320/1545)Resolving deltas:  86% (1329/1545)Resolving deltas:  87% (1345/1545)Resolving deltas:  88% (1361/1545)Resolving deltas:  89% (1376/1545)Resolving deltas:  90% (1393/1545)Resolving deltas:  91% (1406/1545)Resolving deltas:  92% (1422/1545)Resolving deltas:  93% (1437/1545)Resolving deltas:  94% (1453/1545)Resolving deltas:  95% (1469/1545)Resolving deltas:  96% (1487/1545)Resolving deltas:  97% (1499/1545)Resolving deltas:  98% (1515/1545)Resolving deltas:  99% (1530/1545)Resolving deltas: 100% (1545/1545)Resolving deltas: 100% (1545/1545), done.
-Updating files:  74% (3259/4353)Updating files:  75% (3265/4353)Updating files:  76% (3309/4353)Updating files:  77% (3352/4353)Updating files:  78% (3396/4353)Updating files:  79% (3439/4353)Updating files:  80% (3483/4353)Updating files:  81% (3526/4353)Updating files:  82% (3570/4353)Updating files:  83% (3613/4353)Updating files:  84% (3657/4353)Updating files:  85% (3701/4353)Updating files:  86% (3744/4353)Updating files:  87% (3788/4353)Updating files:  88% (3831/4353)Updating files:  89% (3875/4353)Updating files:  90% (3918/4353)Updating files:  91% (3962/4353)Updating files:  92% (4005/4353)Updating files:  93% (4049/4353)Updating files:  94% (4092/4353)Updating files:  95% (4136/4353)Updating files:  96% (4179/4353)Updating files:  97% (4223/4353)Updating files:  98% (4266/4353)Updating files:  99% (4310/4353)Updating files: 100% (4353/4353)Updating files: 100% (4353/4353), done.
+warning: redirecting to https://i2pgit.org/idk/i2p.i2p.git/
+remote: Enumerating objects: 4872, done.[K
+remote: Counting objects:   0% (1/4872)[Kremote: Counting objects:   1% (49/4872)[Kremote: Counting objects:   2% (98/4872)[Kremote: Counting objects:   3% (147/4872)[Kremote: Counting objects:   4% (195/4872)[Kremote: Counting objects:   5% (244/4872)[Kremote: Counting objects:   6% (293/4872)[Kremote: Counting objects:   7% (342/4872)[Kremote: Counting objects:   8% (390/4872)[Kremote: Counting objects:   9% (439/4872)[Kremote: Counting objects:  10% (488/4872)[Kremote: Counting objects:  11% (536/4872)[Kremote: Counting objects:  12% (585/4872)[Kremote: Counting objects:  13% (634/4872)[Kremote: Counting objects:  14% (683/4872)[Kremote: Counting objects:  15% (731/4872)[Kremote: Counting objects:  16% (780/4872)[Kremote: Counting objects:  17% (829/4872)[Kremote: Counting objects:  18% (877/4872)[Kremote: Counting objects:  19% (926/4872)[Kremote: Counting objects:  20% (975/4872)[Kremote: Counting objects:  21% (1024/4872)[Kremote: Counting objects:  22% (1072/4872)[Kremote: Counting objects:  23% (1121/4872)[Kremote: Counting objects:  24% (1170/4872)[Kremote: Counting objects:  25% (1218/4872)[Kremote: Counting objects:  26% (1267/4872)[Kremote: Counting objects:  27% (1316/4872)[Kremote: Counting objects:  28% (1365/4872)[Kremote: Counting objects:  29% (1413/4872)[Kremote: Counting objects:  30% (1462/4872)[Kremote: Counting objects:  31% (1511/4872)[Kremote: Counting objects:  32% (1560/4872)[Kremote: Counting objects:  33% (1608/4872)[Kremote: Counting objects:  34% (1657/4872)[Kremote: Counting objects:  35% (1706/4872)[Kremote: Counting objects:  36% (1754/4872)[Kremote: Counting objects:  37% (1803/4872)[Kremote: Counting objects:  38% (1852/4872)[Kremote: Counting objects:  39% (1901/4872)[Kremote: Counting objects:  40% (1949/4872)[Kremote: Counting objects:  41% (1998/4872)[Kremote: Counting objects:  42% (2047/4872)[Kremote: Counting objects:  43% (2095/4872)[Kremote: Counting objects:  44% (2144/4872)[Kremote: Counting objects:  45% (2193/4872)[Kremote: Counting objects:  46% (2242/4872)[Kremote: Counting objects:  47% (2290/4872)[Kremote: Counting objects:  48% (2339/4872)[Kremote: Counting objects:  49% (2388/4872)[Kremote: Counting objects:  50% (2436/4872)[Kremote: Counting objects:  51% (2485/4872)[Kremote: Counting objects:  52% (2534/4872)[Kremote: Counting objects:  53% (2583/4872)[Kremote: Counting objects:  54% (2631/4872)[Kremote: Counting objects:  55% (2680/4872)[Kremote: Counting objects:  56% (2729/4872)[Kremote: Counting objects:  57% (2778/4872)[Kremote: Counting objects:  58% (2826/4872)[Kremote: Counting objects:  59% (2875/4872)[Kremote: Counting objects:  60% (2924/4872)[Kremote: Counting objects:  61% (2972/4872)[Kremote: Counting objects:  62% (3021/4872)[Kremote: Counting objects:  63% (3070/4872)[Kremote: Counting objects:  64% (3119/4872)[Kremote: Counting objects:  65% (3167/4872)[Kremote: Counting objects:  66% (3216/4872)[Kremote: Counting objects:  67% (3265/4872)[Kremote: Counting objects:  68% (3313/4872)[Kremote: Counting objects:  69% (3362/4872)[Kremote: Counting objects:  70% (3411/4872)[Kremote: Counting objects:  71% (3460/4872)[Kremote: Counting objects:  72% (3508/4872)[Kremote: Counting objects:  73% (3557/4872)[Kremote: Counting objects:  74% (3606/4872)[Kremote: Counting objects:  75% (3654/4872)[Kremote: Counting objects:  76% (3703/4872)[Kremote: Counting objects:  77% (3752/4872)[Kremote: Counting objects:  78% (3801/4872)[Kremote: Counting objects:  79% (3849/4872)[Kremote: Counting objects:  80% (3898/4872)[Kremote: Counting objects:  81% (3947/4872)[Kremote: Counting objects:  82% (3996/4872)[Kremote: Counting objects:  83% (4044/4872)[Kremote: Counting objects:  84% (4093/4872)[Kremote: Counting objects:  85% (4142/4872)[Kremote: Counting objects:  86% (4190/4872)[Kremote: Counting objects:  87% (4239/4872)[Kremote: Counting objects:  88% (4288/4872)[Kremote: Counting objects:  89% (4337/4872)[Kremote: Counting objects:  90% (4385/4872)[Kremote: Counting objects:  91% (4434/4872)[Kremote: Counting objects:  92% (4483/4872)[Kremote: Counting objects:  93% (4531/4872)[Kremote: Counting objects:  94% (4580/4872)[Kremote: Counting objects:  95% (4629/4872)[Kremote: Counting objects:  96% (4678/4872)[Kremote: Counting objects:  97% (4726/4872)[Kremote: Counting objects:  98% (4775/4872)[Kremote: Counting objects:  99% (4824/4872)[Kremote: Counting objects: 100% (4872/4872)[Kremote: Counting objects: 100% (4872/4872), done.[K
+remote: Compressing objects:   0% (1/3357)[Kremote: Compressing objects:   1% (34/3357)[Kremote: Compressing objects:   2% (68/3357)[Kremote: Compressing objects:   3% (101/3357)[Kremote: Compressing objects:   4% (135/3357)[Kremote: Compressing objects:   5% (168/3357)[Kremote: Compressing objects:   6% (202/3357)[Kremote: Compressing objects:   7% (235/3357)[Kremote: Compressing objects:   8% (269/3357)[Kremote: Compressing objects:   9% (303/3357)[Kremote: Compressing objects:  10% (336/3357)[Kremote: Compressing objects:  11% (370/3357)[Kremote: Compressing objects:  12% (403/3357)[Kremote: Compressing objects:  13% (437/3357)[Kremote: Compressing objects:  14% (470/3357)[Kremote: Compressing objects:  15% (504/3357)[Kremote: Compressing objects:  16% (538/3357)[Kremote: Compressing objects:  17% (571/3357)[Kremote: Compressing objects:  18% (605/3357)[Kremote: Compressing objects:  19% (638/3357)[Kremote: Compressing objects:  20% (672/3357)[Kremote: Compressing objects:  21% (705/3357)[Kremote: Compressing objects:  22% (739/3357)[Kremote: Compressing objects:  23% (773/3357)[Kremote: Compressing objects:  24% (806/3357)[Kremote: Compressing objects:  25% (840/3357)[Kremote: Compressing objects:  26% (873/3357)[Kremote: Compressing objects:  27% (907/3357)[Kremote: Compressing objects:  28% (940/3357)[Kremote: Compressing objects:  29% (974/3357)[Kremote: Compressing objects:  30% (1008/3357)[Kremote: Compressing objects:  31% (1041/3357)[Kremote: Compressing objects:  32% (1075/3357)[Kremote: Compressing objects:  33% (1108/3357)[Kremote: Compressing objects:  34% (1142/3357)[Kremote: Compressing objects:  35% (1175/3357)[Kremote: Compressing objects:  36% (1209/3357)[Kremote: Compressing objects:  37% (1243/3357)[Kremote: Compressing objects:  38% (1276/3357)[Kremote: Compressing objects:  39% (1310/3357)[Kremote: Compressing objects:  40% (1343/3357)[Kremote: Compressing objects:  41% (1377/3357)[Kremote: Compressing objects:  42% (1410/3357)[Kremote: Compressing objects:  43% (1444/3357)[Kremote: Compressing objects:  44% (1478/3357)[Kremote: Compressing objects:  45% (1511/3357)[Kremote: Compressing objects:  46% (1545/3357)[Kremote: Compressing objects:  47% (1578/3357)[Kremote: Compressing objects:  48% (1612/3357)[Kremote: Compressing objects:  49% (1645/3357)[Kremote: Compressing objects:  50% (1679/3357)[Kremote: Compressing objects:  51% (1713/3357)[Kremote: Compressing objects:  52% (1746/3357)[Kremote: Compressing objects:  52% (1774/3357)[Kremote: Compressing objects:  53% (1780/3357)[Kremote: Compressing objects:  54% (1813/3357)[Kremote: Compressing objects:  55% (1847/3357)[Kremote: Compressing objects:  56% (1880/3357)[Kremote: Compressing objects:  57% (1914/3357)[Kremote: Compressing objects:  58% (1948/3357)[Kremote: Compressing objects:  59% (1981/3357)[Kremote: Compressing objects:  60% (2015/3357)[Kremote: Compressing objects:  61% (2048/3357)[Kremote: Compressing objects:  62% (2082/3357)[Kremote: Compressing objects:  63% (2115/3357)[Kremote: Compressing objects:  64% (2149/3357)[Kremote: Compressing objects:  65% (2183/3357)[Kremote: Compressing objects:  66% (2216/3357)[Kremote: Compressing objects:  67% (2250/3357)[Kremote: Compressing objects:  68% (2283/3357)[Kremote: Compressing objects:  69% (2317/3357)[Kremote: Compressing objects:  70% (2350/3357)[Kremote: Compressing objects:  71% (2384/3357)[Kremote: Compressing objects:  72% (2418/3357)[Kremote: Compressing objects:  73% (2451/3357)[Kremote: Compressing objects:  74% (2485/3357)[Kremote: Compressing objects:  75% (2518/3357)[Kremote: Compressing objects:  76% (2552/3357)[Kremote: Compressing objects:  77% (2585/3357)[Kremote: Compressing objects:  78% (2619/3357)[Kremote: Compressing objects:  79% (2653/3357)[Kremote: Compressing objects:  80% (2686/3357)[Kremote: Compressing objects:  81% (2720/3357)[Kremote: Compressing objects:  82% (2753/3357)[Kremote: Compressing objects:  83% (2787/3357)[Kremote: Compressing objects:  84% (2820/3357)[Kremote: Compressing objects:  85% (2854/3357)[Kremote: Compressing objects:  86% (2888/3357)[Kremote: Compressing objects:  87% (2921/3357)[Kremote: Compressing objects:  88% (2955/3357)[Kremote: Compressing objects:  89% (2988/3357)[Kremote: Compressing objects:  90% (3022/3357)[Kremote: Compressing objects:  91% (3055/3357)[Kremote: Compressing objects:  92% (3089/3357)[Kremote: Compressing objects:  93% (3123/3357)[Kremote: Compressing objects:  94% (3156/3357)[Kremote: Compressing objects:  95% (3190/3357)[Kremote: Compressing objects:  96% (3223/3357)[Kremote: Compressing objects:  97% (3257/3357)[Kremote: Compressing objects:  98% (3290/3357)[Kremote: Compressing objects:  99% (3324/3357)[Kremote: Compressing objects: 100% (3357/3357)[Kremote: Compressing objects: 100% (3357/3357), done.[K
+Receiving objects:   0% (1/4872)Receiving objects:   1% (49/4872)Receiving objects:   2% (98/4872)Receiving objects:   3% (147/4872)Receiving objects:   4% (195/4872)Receiving objects:   5% (244/4872)Receiving objects:   6% (293/4872)Receiving objects:   7% (342/4872)Receiving objects:   8% (390/4872)Receiving objects:   9% (439/4872)Receiving objects:  10% (488/4872)Receiving objects:  11% (536/4872)Receiving objects:  12% (585/4872)Receiving objects:  13% (634/4872)Receiving objects:  14% (683/4872)Receiving objects:  15% (731/4872)Receiving objects:  16% (780/4872)Receiving objects:  17% (829/4872)Receiving objects:  18% (877/4872)Receiving objects:  19% (926/4872)Receiving objects:  20% (975/4872)Receiving objects:  21% (1024/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  22% (1072/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  23% (1121/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  24% (1170/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  25% (1218/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  26% (1267/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  27% (1316/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  28% (1365/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  29% (1413/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  30% (1462/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  31% (1511/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  32% (1560/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  33% (1608/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  34% (1657/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  35% (1706/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  36% (1754/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  37% (1803/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  38% (1852/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  39% (1901/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  40% (1949/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  41% (1998/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  42% (2047/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  43% (2095/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  44% (2144/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  45% (2193/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  46% (2242/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  47% (2290/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  47% (2300/4872), 3.02 MiB | 6.03 MiB/sReceiving objects:  48% (2339/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  49% (2388/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  50% (2436/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  51% (2485/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  52% (2534/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  53% (2583/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  54% (2631/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  55% (2680/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  56% (2729/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  57% (2778/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  58% (2826/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  59% (2875/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  60% (2924/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  61% (2972/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  62% (3021/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  63% (3070/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  64% (3119/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  65% (3167/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  66% (3216/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  67% (3265/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  68% (3313/4872), 8.81 MiB | 8.80 MiB/sReceiving objects:  69% (3362/4872), 14.46 MiB | 9.63 MiB/sReceiving objects:  70% (3411/4872), 14.46 MiB | 9.63 MiB/sReceiving objects:  70% (3443/4872), 20.13 MiB | 10.06 MiB/sReceiving objects:  71% (3460/4872), 20.13 MiB | 10.06 MiB/sReceiving objects:  72% (3508/4872), 20.13 MiB | 10.06 MiB/sReceiving objects:  73% (3557/4872), 20.13 MiB | 10.06 MiB/sReceiving objects:  74% (3606/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  75% (3654/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  76% (3703/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  77% (3752/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  78% (3801/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  79% (3849/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  80% (3898/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  81% (3947/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  82% (3996/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  83% (4044/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  84% (4093/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  85% (4142/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  86% (4190/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  87% (4239/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  88% (4288/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  89% (4337/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  90% (4385/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  91% (4434/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  92% (4483/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  93% (4531/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  93% (4545/4872), 26.07 MiB | 10.42 MiB/sReceiving objects:  94% (4580/4872), 31.89 MiB | 10.63 MiB/sReceiving objects:  95% (4629/4872), 31.89 MiB | 10.63 MiB/sReceiving objects:  96% (4678/4872), 31.89 MiB | 10.63 MiB/sReceiving objects:  97% (4726/4872), 31.89 MiB | 10.63 MiB/sReceiving objects:  98% (4775/4872), 31.89 MiB | 10.63 MiB/sReceiving objects:  99% (4824/4872), 31.89 MiB | 10.63 MiB/sremote: Total 4872 (delta 1547), reused 3208 (delta 1249), pack-reused 0[K
+Receiving objects: 100% (4872/4872), 31.89 MiB | 10.63 MiB/sReceiving objects: 100% (4872/4872), 32.37 MiB | 10.64 MiB/s, done.
+Resolving deltas:   0% (0/1547)Resolving deltas:   1% (16/1547)Resolving deltas:   2% (35/1547)Resolving deltas:   3% (47/1547)Resolving deltas:   4% (63/1547)Resolving deltas:   5% (78/1547)Resolving deltas:   6% (93/1547)Resolving deltas:   7% (116/1547)Resolving deltas:   8% (127/1547)Resolving deltas:   9% (142/1547)Resolving deltas:  10% (157/1547)Resolving deltas:  11% (171/1547)Resolving deltas:  12% (186/1547)Resolving deltas:  13% (204/1547)Resolving deltas:  14% (217/1547)Resolving deltas:  15% (233/1547)Resolving deltas:  16% (249/1547)Resolving deltas:  17% (263/1547)Resolving deltas:  18% (283/1547)Resolving deltas:  19% (297/1547)Resolving deltas:  20% (310/1547)Resolving deltas:  21% (325/1547)Resolving deltas:  22% (341/1547)Resolving deltas:  23% (358/1547)Resolving deltas:  24% (376/1547)Resolving deltas:  25% (387/1547)Resolving deltas:  26% (403/1547)Resolving deltas:  27% (418/1547)Resolving deltas:  28% (434/1547)Resolving deltas:  29% (455/1547)Resolving deltas:  31% (480/1547)Resolving deltas:  32% (497/1547)Resolving deltas:  33% (513/1547)Resolving deltas:  34% (527/1547)Resolving deltas:  35% (542/1547)Resolving deltas:  36% (560/1547)Resolving deltas:  37% (577/1547)Resolving deltas:  38% (593/1547)Resolving deltas:  39% (604/1547)Resolving deltas:  40% (619/1547)Resolving deltas:  41% (635/1547)Resolving deltas:  42% (650/1547)Resolving deltas:  43% (666/1547)Resolving deltas:  44% (681/1547)Resolving deltas:  45% (697/1547)Resolving deltas:  46% (720/1547)Resolving deltas:  47% (730/1547)Resolving deltas:  48% (744/1547)Resolving deltas:  49% (765/1547)Resolving deltas:  50% (775/1547)Resolving deltas:  51% (789/1547)Resolving deltas:  52% (805/1547)Resolving deltas:  53% (820/1547)Resolving deltas:  54% (845/1547)Resolving deltas:  55% (851/1547)Resolving deltas:  56% (867/1547)Resolving deltas:  57% (884/1547)Resolving deltas:  58% (906/1547)Resolving deltas:  59% (913/1547)Resolving deltas:  60% (933/1547)Resolving deltas:  61% (945/1547)Resolving deltas:  62% (964/1547)Resolving deltas:  63% (975/1547)Resolving deltas:  64% (991/1547)Resolving deltas:  65% (1006/1547)Resolving deltas:  66% (1034/1547)Resolving deltas:  67% (1045/1547)Resolving deltas:  68% (1058/1547)Resolving deltas:  69% (1071/1547)Resolving deltas:  70% (1087/1547)Resolving deltas:  71% (1105/1547)Resolving deltas:  72% (1115/1547)Resolving deltas:  73% (1132/1547)Resolving deltas:  74% (1145/1547)Resolving deltas:  75% (1161/1547)Resolving deltas:  76% (1181/1547)Resolving deltas:  77% (1197/1547)Resolving deltas:  78% (1208/1547)Resolving deltas:  79% (1228/1547)Resolving deltas:  80% (1238/1547)Resolving deltas:  81% (1258/1547)Resolving deltas:  82% (1278/1547)Resolving deltas:  83% (1285/1547)Resolving deltas:  84% (1307/1547)Resolving deltas:  85% (1315/1547)Resolving deltas:  86% (1335/1547)Resolving deltas:  87% (1347/1547)Resolving deltas:  88% (1364/1547)Resolving deltas:  89% (1377/1547)Resolving deltas:  90% (1394/1547)Resolving deltas:  91% (1409/1547)Resolving deltas:  92% (1424/1547)Resolving deltas:  93% (1439/1547)Resolving deltas:  94% (1455/1547)Resolving deltas:  95% (1471/1547)Resolving deltas:  96% (1491/1547)Resolving deltas:  97% (1501/1547)Resolving deltas:  98% (1519/1547)Resolving deltas:  99% (1532/1547)Resolving deltas: 100% (1547/1547)Resolving deltas: 100% (1547/1547), done.
+Updating files:  90% (3939/4355)Updating files:  91% (3964/4355)Updating files:  92% (4007/4355)Updating files:  93% (4051/4355)Updating files:  94% (4094/4355)Updating files:  95% (4138/4355)Updating files:  96% (4181/4355)Updating files:  97% (4225/4355)Updating files:  98% (4268/4355)Updating files:  99% (4312/4355)Updating files: 100% (4355/4355)Updating files: 100% (4355/4355), done.
 Buildfile: /java/i2p.i2p/build.xml
 
 checkForGit:
@@ -26,10 +26,10 @@ disableManifestClasspath:
 
 buildProperties:
      [echo] JDK: Ubuntu 11.0.14 (OpenJDK Runtime Environment 11.0.14+9-Ubuntu-0ubuntu2.20.04)
-     [echo] Building version 1.7.0-11 (revision b1852c127bc50c8a53c9ab9f9e63b68814b12d4f)
+     [echo] Building version 1.7.0-11 (revision 1c369d54cd465749490ea120f3e4037f84f4977b)
 
 trimRev:
-     [echo] Short version is: b1852c12
+     [echo] Short version is: 1c369d54
 
 getExtendedVersion:
 
@@ -46,16 +46,18 @@ checkForVCS:
 failIfNoVCS:
 
 checkoutFromGit:
-     [echo] Checking out fresh copy into ../i2p-1.7.0-11-b1852c12
-     [exec] Cloning into '../i2p-1.7.0-11-b1852c12'...
+     [echo] Checking out fresh copy into ../i2p-1.7.0-11-1c369d54
+     [exec] Cloning into '../i2p-1.7.0-11-1c369d54'...
      [exec] warning: source repository is shallow, ignoring --local
      [exec] warning: --local is ignored
+     [exec] Updating files:  80% (3519/4355)
+     [exec] Updating files:  81% (3528/4355)Updating files:  82% (3572/4355)Updating files:  83% (3615/4355)Updating files:  84% (3659/4355)Updating files:  85% (3702/4355)Updating files:  86% (3746/4355)Updating files:  87% (3789/4355)Updating files:  88% (3833/4355)Updating files:  89% (3876/4355)Updating files:  90% (3920/4355)Updating files:  91% (3964/4355)Updating files:  92% (4007/4355)Updating files:  93% (4051/4355)Updating files:  94% (4094/4355)Updating files:  95% (4138/4355)Updating files:  96% (4181/4355)Updating files:  97% (4225/4355)Updating files:  98% (4268/4355)Updating files:  99% (4312/4355)Updating files: 100% (4355/4355)Updating files: 100% (4355/4355), done.
 
 checkoutFromVCS:
-      [tar] Building tar: /java/i2p_1.7.0-11-b1852c12.orig.tar.bz2
+      [tar] Building tar: /java/i2p_1.7.0-11-1c369d54.orig.tar.bz2
 
 BUILD SUCCESSFUL
-Total time: 18 seconds
+Total time: 19 seconds
 Buildfile: /java/i2p.i2p/build.xml
 
 checkForGit:
@@ -75,10 +77,10 @@ disableManifestClasspath:
 
 buildProperties:
      [echo] JDK: Ubuntu 11.0.14 (OpenJDK Runtime Environment 11.0.14+9-Ubuntu-0ubuntu2.20.04)
-     [echo] Building version 1.7.0-11 (revision b1852c127bc50c8a53c9ab9f9e63b68814b12d4f)
+     [echo] Building version 1.7.0-11 (revision 1c369d54cd465749490ea120f3e4037f84f4977b)
 
 trimRev:
-     [echo] Short version is: b1852c12
+     [echo] Short version is: 1c369d54
 
 getExtendedVersion:
 
@@ -210,12 +212,12 @@ debian-clean:
      [exec] find . -type f -name \*.java.json-simple \
      [exec]   -exec sh -c 'file={} && mv $file ${file%.json-simple}' \; -print
      [exec] make[1]: Leaving directory '/java/i2p.i2p'
-     [exec] No patch removed
      [exec]    dh_quilt_unpatch
+     [exec] No patch removed
      [exec]    dh_clean
 
 debchange:
-     [echo] Debian version is 1.7.0-11-b1852c12-1
+     [echo] Debian version is 1.7.0-11-1c369d54-1
 
 debian-binary:
      [exec] dh patch --with systemd,bash-completion,quilt
@@ -308,12 +310,12 @@ debian-binary:
      [exec]    dh_auto_install -a
      [exec]    debian/rules override_dh_install
      [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] dh_install --list-missing
      [exec] dh_install: warning: Please use dh_missing --list-missing/--fail-missing instead
      [exec] dh_install: warning: This feature will be removed in compat 12.
-     [exec] dh_install --list-missing
+     [exec] dh_apparmor: warning: All requested packages have been excluded (e.g. via a Build-Profile or due to architecture restrictions).
      [exec] dh_apparmor --profile-name=system_i2p -pi2p
      [exec] dh_apparmor --profile-name=usr.bin.i2prouter -pi2p
-     [exec] dh_apparmor: warning: All requested packages have been excluded (e.g. via a Build-Profile or due to architecture restrictions).
      [exec] dh_apparmor: warning: All requested packages have been excluded (e.g. via a Build-Profile or due to architecture restrictions).
      [exec] make[1]: Leaving directory '/java/i2p.i2p'
      [exec]    debian/rules override_dh_installdocs
@@ -353,9 +355,9 @@ debian-binary:
      [exec]    dh_gencontrol -a
      [exec]    dh_md5sums -a
      [exec]    dh_builddeb -a
-     [exec] dpkg-deb: building package 'libjbigi-jni' in '../libjbigi-jni_1.7.0-11-b1852c12-1_amd64.deb'.
-     [exec] dpkg-deb: building package 'libjbigi-jni-dbgsym' in 'debian/.debhelper/scratch-space/build-libjbigi-jni/libjbigi-jni-dbgsym_1.7.0-11-b1852c12-1_amd64.deb'.
-     [exec] 	Renaming libjbigi-jni-dbgsym_1.7.0-11-b1852c12-1_amd64.deb to libjbigi-jni-dbgsym_1.7.0-11-b1852c12-1_amd64.ddeb
+     [exec] dpkg-deb: building package 'libjbigi-jni' in '../libjbigi-jni_1.7.0-11-1c369d54-1_amd64.deb'.
+     [exec] dpkg-deb: building package 'libjbigi-jni-dbgsym' in 'debian/.debhelper/scratch-space/build-libjbigi-jni/libjbigi-jni-dbgsym_1.7.0-11-1c369d54-1_amd64.deb'.
+     [exec] 	Renaming libjbigi-jni-dbgsym_1.7.0-11-1c369d54-1_amd64.deb to libjbigi-jni-dbgsym_1.7.0-11-1c369d54-1_amd64.ddeb
      [exec] dh_prep
      [exec] mkdir -p /java/i2p.i2p/installer/lib/wrapper/all
      [exec] ln -sf /usr/share/java/wrapper.jar /java/i2p.i2p/installer/lib/wrapper/all/wrapper.jar
@@ -410,8 +412,8 @@ debian-binary:
      [exec] ./apps/i2pcontrol/java/net/i2p/i2pcontrol/SocketController.java
      [exec] ./apps/routerconsole/java/src/com/vuze/plugins/mlab/MLabRunner.java
      [exec] ./apps/routerconsole/java/src/edu/internet2/ndt/JSONUtils.java
-     [exec] TZ=UTC JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 ant preppkg-unix javadoc
      [exec] Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+     [exec] TZ=UTC JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 ant preppkg-unix javadoc
      [exec] Buildfile: /java/i2p.i2p/build.xml
      [exec] 
      [exec] checkForGit:
@@ -431,7 +433,7 @@ debian-binary:
      [exec] 
      [exec] buildProperties:
      [exec]      [echo] JDK: Ubuntu 11.0.14 (OpenJDK Runtime Environment 11.0.14+9-Ubuntu-0ubuntu2.20.04)
-     [exec]      [echo] Building version 1.7.0-11-1 (revision b1852c127bc50c8a53c9ab9f9e63b68814b12d4f)
+     [exec]      [echo] Building version 1.7.0-11-1 (revision 1c369d54cd465749490ea120f3e4037f84f4977b)
      [exec] 
      [exec] buildCore:
      [exec] 
@@ -448,67 +450,67 @@ debian-binary:
      [exec] 
      [exec] bundle:
      [exec]     [mkdir] Created dir: /java/i2p.i2p/core/java/build/messages-src
-     [exec]      [exec] Generating net.i2p.util.messages_ar ResourceBundle...0 translated messages, 10 untranslated messages.
+     [exec]      [exec] Generating net.i2p.util.messages_ar ResourceBundle...
+     [exec]      [exec] 0 translated messages, 10 untranslated messages.Generating net.i2p.util.messages_az ResourceBundle...
+     [exec]      [exec] 
      [exec]      [exec] 1 translated message, 9 untranslated messages.
+     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_cs ResourceBundle...
      [exec]      [exec] 
-     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_az ResourceBundle...
-     [exec]      [exec] 
-     [exec]      [exec] Generating net.i2p.util.messages_cs ResourceBundle...
      [exec]      [exec] 13 translated messages, 2 untranslated messages.Generating net.i2p.util.messages_da ResourceBundle...
      [exec]      [exec] 
      [exec]      [exec] 14 translated messages, 1 untranslated message.
-     [exec]      [exec] Generating net.i2p.util.messages_de ResourceBundle...15 translated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.util.messages_de ResourceBundle...
      [exec]      [exec] Generating net.i2p.util.messages_el ResourceBundle...
-     [exec]      [exec] Generating net.i2p.util.messages_es ResourceBundle...
-     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.Generating net.i2p.util.messages_es ResourceBundle...
+     [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.util.messages_et ResourceBundle...11 translated messages, 4 untranslated messages.
      [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.util.messages_fa ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_fi ResourceBundle...
      [exec]      [exec] 3 translated messages, 12 untranslated messages.
-     [exec]      [exec] 14 translated messages, 1 untranslated message.Generating net.i2p.util.messages_fi ResourceBundle...
-     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] Generating net.i2p.util.messages_fr ResourceBundle...14 translated messages, 1 untranslated message.
      [exec]      [exec] 
-     [exec]      [exec] Generating net.i2p.util.messages_fr ResourceBundle...
-     [exec]      [exec] 15 translated messages.
      [exec]      [exec] Generating net.i2p.util.messages_hu ResourceBundle...
-     [exec]      [exec] Generating net.i2p.util.messages_in ResourceBundle...
-     [exec]      [exec] 14 translated messages, 1 untranslated message.
-     [exec]      [exec] Generating net.i2p.util.messages_it ResourceBundle...15 translated messages.
-     [exec]      [exec] 
-     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_ja ResourceBundle...
+     [exec]      [exec] 14 translated messages, 1 untranslated message.Generating net.i2p.util.messages_in ResourceBundle...
      [exec]      [exec] 
      [exec]      [exec] 15 translated messages.
-     [exec]      [exec] Generating net.i2p.util.messages_ko ResourceBundle...
-     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_ku ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_it ResourceBundle...14 translated messages, 1 untranslated message.
      [exec]      [exec] 
-     [exec]      [exec] 14 translated messages, 1 untranslated message.
-     [exec]      [exec] Generating net.i2p.util.messages_nb ResourceBundle...
-     [exec]      [exec] Generating net.i2p.util.messages_nl ResourceBundle...
-     [exec]      [exec] 14 translated messages, 1 untranslated message.
-     [exec]      [exec] Generating net.i2p.util.messages_pl ResourceBundle...15 translated messages.
-     [exec]      [exec] 
-     [exec]      [exec] Generating net.i2p.util.messages_pt ResourceBundle...14 translated messages, 1 untranslated message.
-     [exec]      [exec] 
-     [exec]      [exec] Generating net.i2p.util.messages_pt_BR ResourceBundle...
-     [exec]      [exec] Generating net.i2p.util.messages_ro ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_ja ResourceBundle...
      [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_ru ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_ko ResourceBundle...15 translated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] Generating net.i2p.util.messages_ku ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_nb ResourceBundle...14 translated messages, 1 untranslated message.
+     [exec]      [exec] 
+     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_nl ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.util.messages_pl ResourceBundle...14 translated messages, 1 untranslated message.
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.util.messages_pt ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_pt_BR ResourceBundle...
      [exec]      [exec] 15 translated messages.
      [exec]      [exec] 
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.util.messages_ro ResourceBundle...15 translated messages.
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.util.messages_ru ResourceBundle...
      [exec]      [exec] Generating net.i2p.util.messages_sl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_sv ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_tk ResourceBundle...
+     [exec]      [exec] 0 translated messages, 15 untranslated messages.
      [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.Generating net.i2p.util.messages_sv ResourceBundle...
-     [exec]      [exec] 
-     [exec]      [exec] 0 translated messages, 15 untranslated messages.Generating net.i2p.util.messages_tk ResourceBundle...
      [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 
-     [exec]      [exec] Generating net.i2p.util.messages_tr ResourceBundle...15 translated messages.
-     [exec]      [exec] Generating net.i2p.util.messages_uk ResourceBundle...
      [exec]      [exec] 6 translated messages, 4 untranslated messages.
-     [exec]      [exec] 
-     [exec]      [exec] 14 translated messages, 1 untranslated message.Generating net.i2p.util.messages_vi ResourceBundle...
-     [exec]      [exec] 
+     [exec]      [exec] 14 translated messages, 1 untranslated message.
+     [exec]      [exec] Generating net.i2p.util.messages_tr ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_uk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.util.messages_vi ResourceBundle...
      [exec]      [exec] Generating net.i2p.util.messages_zh ResourceBundle...
      [exec]      [exec] Generating net.i2p.util.messages_zh_TW ResourceBundle...
      [exec]      [exec] 14 translated messages, 1 untranslated message.
@@ -554,54 +556,53 @@ debian-binary:
      [exec] bundle:
      [exec]     [mkdir] Created dir: /java/i2p.i2p/router/java/build/messages-src
      [exec]      [exec] Generating net.i2p.router.util.messages_ar ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.util.messages_az ResourceBundle...19 translated messages, 3 fuzzy translations, 13 untranslated messages.
-     [exec]      [exec] 
-     [exec]      [exec] Generating net.i2p.router.util.messages_cs ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.util.messages_da ResourceBundle...5 translated messages, 3 fuzzy translations, 27 untranslated messages.
-     [exec]      [exec] 
-     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_de ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_az ResourceBundle...
+     [exec]      [exec] 19 translated messages, 3 fuzzy translations, 13 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.util.messages_cs ResourceBundle...5 translated messages, 3 fuzzy translations, 27 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.util.messages_da ResourceBundle...
      [exec]      [exec] 35 translated messages.
-     [exec]      [exec] Generating net.i2p.router.util.messages_el ResourceBundle...
+     [exec]      [exec] 35 translated messages.
      [exec]      [exec] 35 translated messages.
      [exec]      [exec] 
-     [exec]      [exec] Generating net.i2p.router.util.messages_es ResourceBundle...
      [exec]      [exec] 20 translated messages, 2 fuzzy translations, 13 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.util.messages_de ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_el ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_es ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_et ResourceBundle...
-     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_fa ResourceBundle...
+     [exec]      [exec] 35 translated messages.
      [exec]      [exec] 20 translated messages, 1 fuzzy translation, 14 untranslated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.util.messages_fa ResourceBundle...
      [exec]      [exec] 3 translated messages, 3 fuzzy translations, 29 untranslated messages.
-     [exec]      [exec] Generating net.i2p.router.util.messages_fi ResourceBundle...33 translated messages, 2 fuzzy translations.
-     [exec]      [exec] 
-     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_fr ResourceBundle...
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.util.messages_fi ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_fr ResourceBundle...
+     [exec]      [exec] 33 translated messages, 2 fuzzy translations.
      [exec]      [exec] 35 translated messages.
      [exec]      [exec] Generating net.i2p.router.util.messages_hu ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_in ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_it ResourceBundle...
      [exec]      [exec] 35 translated messages.
-     [exec]      [exec] 33 translated messages, 2 untranslated messages.Generating net.i2p.router.util.messages_it ResourceBundle...
      [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 33 translated messages, 2 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.util.messages_ja ResourceBundle...
-     [exec]      [exec] 35 translated messages.
-     [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.router.util.messages_ko ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.util.messages_ku ResourceBundle...31 translated messages, 4 untranslated messages.
-     [exec]      [exec] 
-     [exec]      [exec] 34 translated messages, 1 fuzzy translation.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] Generating net.i2p.router.util.messages_ku ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_nb ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_nl ResourceBundle...
      [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 31 translated messages, 4 untranslated messages.
+     [exec]      [exec] 34 translated messages, 1 fuzzy translation.
      [exec]      [exec] 35 translated messages.
-     [exec]      [exec] 35 translated messages.
-     [exec]      [exec] 35 translated messages.
-     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_pl ResourceBundle...
-     [exec]      [exec] 
-     [exec]      [exec] 35 translated messages.Generating net.i2p.router.util.messages_pt ResourceBundle...
-     [exec]      [exec] 35 translated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.util.messages_pl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.util.messages_pt ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_pt_BR ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_ro ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_ru ResourceBundle...
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
+     [exec]      [exec] 35 translated messages.
      [exec]      [exec] Generating net.i2p.router.util.messages_sl ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_sv ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_tk ResourceBundle...
@@ -614,6 +615,7 @@ debian-binary:
      [exec]      [exec] Generating net.i2p.router.util.messages_vi ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_zh ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.util.messages_zh_TW ResourceBundle...
+     [exec]      [exec] 35 translated messages.
      [exec]      [exec] 18 translated messages, 2 fuzzy translations, 15 untranslated messages.
      [exec]      [exec] 35 translated messages.
      [exec]      [exec] 35 translated messages.
@@ -664,79 +666,79 @@ debian-binary:
      [exec] bundle:
      [exec]      [exec] Generating net.i2p.desktopgui.messages_ar ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_az ResourceBundle...
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 9 translated messages, 8 untranslated messages.Generating net.i2p.desktopgui.messages_bg ResourceBundle...
+     [exec]      [exec] 15 translated messages.Generating net.i2p.desktopgui.messages_bg ResourceBundle...
      [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.desktopgui.messages_ca ResourceBundle...
-     [exec]      [exec] Generating net.i2p.desktopgui.messages_cs ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 9 translated messages, 8 untranslated messages.Generating net.i2p.desktopgui.messages_cs ResourceBundle...
+     [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.desktopgui.messages_da ResourceBundle...
      [exec]      [exec] 7 translated messages, 8 untranslated messages.
      [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 10 translated messages, 5 untranslated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_de ResourceBundle...
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_el ResourceBundle...
+     [exec]      [exec] 10 translated messages, 5 untranslated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_es ResourceBundle...
-     [exec]      [exec] 11 translated messages, 4 untranslated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_es_AR ResourceBundle...
-     [exec]      [exec] Generating net.i2p.desktopgui.messages_fa ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 11 translated messages, 4 untranslated messages.Generating net.i2p.desktopgui.messages_fa ResourceBundle...
+     [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.desktopgui.messages_fi ResourceBundle...
-     [exec]      [exec] Generating net.i2p.desktopgui.messages_fr ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.Generating net.i2p.desktopgui.messages_fr ResourceBundle...
+     [exec]      [exec] 15 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_gl ResourceBundle...
+     [exec]      [exec] 
      [exec]      [exec] 15 translated messages.
      [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 17 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_hu ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_in ResourceBundle...
      [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 17 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_it ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_ja ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_ko ResourceBundle...
-     [exec]      [exec] Generating net.i2p.desktopgui.messages_ku ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 7 translated messages, 8 untranslated messages.Generating net.i2p.desktopgui.messages_ku ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.desktopgui.messages_mg ResourceBundle...
-     [exec]      [exec] 7 translated messages, 8 untranslated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
      [exec]      [exec] 15 translated messages.
      [exec]      [exec] 15 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_nb ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_nl ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_pl ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_pt ResourceBundle...
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_pt_BR ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_ro ResourceBundle...
-     [exec]      [exec] Generating net.i2p.desktopgui.messages_ru ResourceBundle...
-     [exec]      [exec] 15 translated messages.
      [exec]      [exec] 8 translated messages, 7 untranslated messages.
      [exec]      [exec] 14 translated messages, 3 untranslated messages.
-     [exec]      [exec] 17 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
-     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_ru ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_sk ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_sl ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_sq ResourceBundle...
-     [exec]      [exec] Generating net.i2p.desktopgui.messages_sr ResourceBundle...
+     [exec]      [exec] 17 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] 15 translated messages.
+     [exec]      [exec] Generating net.i2p.desktopgui.messages_sr ResourceBundle...15 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_sv ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] 17 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_tk ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_tr ResourceBundle...
+     [exec]      [exec] 15 translated messages.
      [exec]      [exec] Generating net.i2p.desktopgui.messages_uk ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_vi ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_zh ResourceBundle...
      [exec]      [exec] Generating net.i2p.desktopgui.messages_zh_TW ResourceBundle...
-     [exec]      [exec] 17 translated messages.
-     [exec]      [exec] 15 translated messages.
      [exec]      [exec] 8 translated messages, 7 untranslated messages.
      [exec]      [exec] 17 translated messages.
      [exec]      [exec] 15 translated messages.
@@ -881,16 +883,16 @@ debian-binary:
      [exec] 
      [exec] bundle-news:
      [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/routerconsole/java/build/messages-news-src
-     [exec]      [exec] Generating net.i2p.router.news.messages_ar ResourceBundle...10 translated messages.
-     [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 11 translated messages.
-     [exec]      [exec] 11 translated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.news.messages_ar ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_az ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.news.messages_cs ResourceBundle...
-     [exec]      [exec] 8 translated messages, 2 untranslated messages.Generating net.i2p.router.news.messages_de ResourceBundle...
      [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 
+     [exec]      [exec] 10 translated messages.
+     [exec]      [exec] 11 translated messages.
+     [exec]      [exec] 11 translated messages.
+     [exec]      [exec] Generating net.i2p.router.news.messages_cs ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.news.messages_de ResourceBundle...
+     [exec]      [exec] 8 translated messages, 2 untranslated messages.
+     [exec]      [exec] 10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_el ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_es ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_fa ResourceBundle...
@@ -899,56 +901,56 @@ debian-binary:
      [exec]      [exec] 11 translated messages.
      [exec]      [exec] 10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_fi ResourceBundle...
-     [exec]      [exec] 11 translated messages.Generating net.i2p.router.news.messages_fr ResourceBundle...
-     [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 11 translated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.news.messages_fr ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_gl ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_hu ResourceBundle...
+     [exec]      [exec] 11 translated messages.
+     [exec]      [exec] 10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_in ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_it ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_iw ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.news.messages_ja ResourceBundle...
+     [exec]      [exec] 11 translated messages.
      [exec]      [exec] 3 translated messages, 7 untranslated messages.
      [exec]      [exec] 11 translated messages.
-     [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 9 translated messages, 2 untranslated messages.
-     [exec]      [exec] Generating net.i2p.router.news.messages_ja ResourceBundle...10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_ko ResourceBundle...
-     [exec]      [exec] 
-     [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_ku ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_mg ResourceBundle...
+     [exec]      [exec] 10 translated messages.
+     [exec]      [exec] 9 translated messages, 2 untranslated messages.
+     [exec]      [exec] 10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_nb ResourceBundle...
+     [exec]      [exec] 10 translated messages.
+     [exec]      [exec] 10 translated messages.
+     [exec]      [exec] 11 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_nl ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_pl ResourceBundle...
-     [exec]      [exec] 11 translated messages.
-     [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 11 translated messages.
-     [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 11 translated messages.
-     [exec]      [exec] 10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_pt ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.news.messages_pt_BR ResourceBundle...
-     [exec]      [exec] 11 translated messages.
+     [exec]      [exec] 10 translated messages.
+     [exec]      [exec] 11 translated messages.Generating net.i2p.router.news.messages_pt_BR ResourceBundle...
+     [exec]      [exec] 10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_ro ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] 11 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_ru ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.news.messages_sk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.news.messages_sk ResourceBundle...10 translated messages.
      [exec]      [exec] Generating net.i2p.router.news.messages_sl ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] 11 translated messages.Generating net.i2p.router.news.messages_sq ResourceBundle...
      [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 11 translated messages.
-     [exec]      [exec] 10 translated messages.
-     [exec]      [exec] 11 translated messages.
-     [exec]      [exec] Generating net.i2p.router.news.messages_sq ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_sr ResourceBundle...
      [exec]      [exec] 10 translated messages.
+     [exec]      [exec] 11 translated messages.
+     [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.router.news.messages_sv ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_tk ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_tr ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_uk ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_zh ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.news.messages_zh_TW ResourceBundle...
+     [exec]      [exec] 10 translated messages.
+     [exec]      [exec] 11 translated messages.
+     [exec]      [exec] 10 translated messages.
      [exec]      [exec] 11 translated messages.
      [exec]      [exec] 10 translated messages.
      [exec]     [javac] Compiling 35 source files to /java/i2p.i2p/apps/routerconsole/java/build/obj
@@ -961,84 +963,84 @@ debian-binary:
      [exec]      [exec] Generating net.i2p.router.countries.messages_ar ResourceBundle...
      [exec]      [exec] 252 translated messages.
      [exec]      [exec] 253 translated messages.
-     [exec]      [exec] 186 translated messages, 66 untranslated messages.
-     [exec]      [exec] Generating net.i2p.router.countries.messages_az ResourceBundle...
+     [exec]      [exec] 186 translated messages, 66 untranslated messages.Generating net.i2p.router.countries.messages_az ResourceBundle...
+     [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.router.countries.messages_bg ResourceBundle...
      [exec]      [exec] 246 translated messages, 7 untranslated messages.
-     [exec]      [exec] 216 translated messages, 37 untranslated messages.Generating net.i2p.router.countries.messages_ca ResourceBundle...
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.countries.messages_ca ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_cs ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.countries.messages_da ResourceBundle...
-     [exec]      [exec] 245 translated messages, 8 untranslated messages.
-     [exec]      [exec] Generating net.i2p.router.countries.messages_de ResourceBundle...253 translated messages.
+     [exec]      [exec] 216 translated messages, 37 untranslated messages.
+     [exec]      [exec] 245 translated messages, 8 untranslated messages.Generating net.i2p.router.countries.messages_da ResourceBundle...
+     [exec]      [exec] 253 translated messages.
      [exec]      [exec] 
-     [exec]      [exec] 252 translated messages.
-     [exec]      [exec] 252 translated messages.
+     [exec]      [exec] Generating net.i2p.router.countries.messages_de ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_el ResourceBundle...
+     [exec]      [exec] 252 translated messages.
+     [exec]      [exec] 252 translated messages.
      [exec]      [exec] Generating net.i2p.router.countries.messages_es ResourceBundle...
-     [exec]      [exec] 236 translated messages, 16 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.countries.messages_et ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.countries.messages_fa ResourceBundle...
+     [exec]      [exec] 236 translated messages, 16 untranslated messages.
      [exec]      [exec] 252 translated messages.
      [exec]      [exec] 252 translated messages.
      [exec]      [exec] 253 translated messages.
+     [exec]      [exec] Generating net.i2p.router.countries.messages_fa ResourceBundle...
      [exec]      [exec] 252 translated messages.
      [exec]      [exec] Generating net.i2p.router.countries.messages_fi ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_fr ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_gl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.countries.messages_hi ResourceBundle...
      [exec]      [exec] 183 translated messages, 69 untranslated messages.
      [exec]      [exec] 252 translated messages.
-     [exec]      [exec] Generating net.i2p.router.countries.messages_hi ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.countries.messages_hr ResourceBundle...
-     [exec]      [exec] 253 translated messages.
+     [exec]      [exec] 253 translated messages.Generating net.i2p.router.countries.messages_hr ResourceBundle...
      [exec]      [exec] 252 translated messages.
+     [exec]      [exec] 
      [exec]      [exec] 253 translated messages.
-     [exec]      [exec] 252 translated messages, 1 untranslated message.
      [exec]      [exec] Generating net.i2p.router.countries.messages_hu ResourceBundle...
-     [exec]      [exec] 253 translated messages.
      [exec]      [exec] Generating net.i2p.router.countries.messages_in ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_it ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_iw ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.countries.messages_ja ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.countries.messages_ko ResourceBundle...
-     [exec]      [exec] 253 translated messages.
      [exec]      [exec] 252 translated messages, 1 untranslated message.
-     [exec]      [exec] 236 translated messages, 16 untranslated messages.
-     [exec]      [exec] Generating net.i2p.router.countries.messages_ku ResourceBundle...
-     [exec]      [exec] 252 translated messages.
-     [exec]      [exec] Generating net.i2p.router.countries.messages_mg ResourceBundle...252 translated messages.
-     [exec]      [exec] Generating net.i2p.router.countries.messages_nb ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.countries.messages_ja ResourceBundle...253 translated messages.
      [exec]      [exec] 
+     [exec]      [exec] 253 translated messages.
+     [exec]      [exec] Generating net.i2p.router.countries.messages_ko ResourceBundle...
+     [exec]      [exec] 252 translated messages, 1 untranslated message.Generating net.i2p.router.countries.messages_ku ResourceBundle...
+     [exec]      [exec] 236 translated messages, 16 untranslated messages.
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.countries.messages_mg ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.countries.messages_nb ResourceBundle...
+     [exec]      [exec] 252 translated messages.
+     [exec]      [exec] 252 translated messages.
+     [exec]      [exec] 253 translated messages.
+     [exec]      [exec] 252 translated messages.
      [exec]      [exec] Generating net.i2p.router.countries.messages_nl ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_pl ResourceBundle...
-     [exec]      [exec] 253 translated messages.
-     [exec]      [exec] 252 translated messages.
-     [exec]      [exec] 253 translated messages.
-     [exec]      [exec] 252 translated messages.
-     [exec]      [exec] 253 translated messages.
      [exec]      [exec] Generating net.i2p.router.countries.messages_pt ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_pt_BR ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.countries.messages_ro ResourceBundle...
+     [exec]      [exec] 253 translated messages.
      [exec]      [exec] 252 translated messages.
+     [exec]      [exec] Generating net.i2p.router.countries.messages_ro ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_ru ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.countries.messages_sk ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.countries.messages_sl ResourceBundle...
+     [exec]      [exec] 253 translated messages.
+     [exec]      [exec] 252 translated messages.
      [exec]      [exec] 88 translated messages, 165 untranslated messages.
      [exec]      [exec] 253 translated messages.
-     [exec]      [exec] Generating net.i2p.router.countries.messages_sq ResourceBundle...184 translated messages, 68 untranslated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.router.countries.messages_sk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.countries.messages_sl ResourceBundle...
+     [exec]      [exec] Generating net.i2p.router.countries.messages_sq ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_sr ResourceBundle...
+     [exec]      [exec] 184 translated messages, 68 untranslated messages.
+     [exec]      [exec] 253 translated messages.
+     [exec]      [exec] 253 translated messages.
+     [exec]      [exec] 253 translated messages.
      [exec]      [exec] Generating net.i2p.router.countries.messages_sv ResourceBundle...
+     [exec]      [exec] 252 translated messages, 1 untranslated message.
      [exec]      [exec] Generating net.i2p.router.countries.messages_tk ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_tr ResourceBundle...
-     [exec]      [exec] 253 translated messages.
-     [exec]      [exec] 253 translated messages.
-     [exec]      [exec] 253 translated messages.
      [exec]      [exec] Generating net.i2p.router.countries.messages_uk ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_vi ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_zh ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.countries.messages_zh_TW ResourceBundle...
-     [exec]      [exec] 252 translated messages, 1 untranslated message.
      [exec]      [exec] 236 translated messages, 16 untranslated messages.
      [exec]      [exec] 253 translated messages.
      [exec]      [exec] 234 translated messages, 19 untranslated messages.
@@ -1070,132 +1072,132 @@ debian-binary:
      [exec]      [java] Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
      [exec]      [java] Found JspC version: 9.0.31, supports threads? true
      [exec]      [java] JspC arguments for reproducible build: [-d, ../jsp/WEB-INF/classes, -v, -p, net.i2p.router.web.jsp, -webinc, ../jsp/web-fragment.xml, -uriroot, ../jsp/, -threadCount, 1, certs.jsp, config.jsp, configadvanced.jsp, configclients.jsp, configfamily.jsp, confighome.jsp, configi2cp.jsp, configkeyring.jsp, configlogging.jsp, confignet.jsp, configpeer.jsp, configplugins.jsp, configreseed.jsp, configservice.jsp, configsidebar.jsp, configstats.jsp, configtunnels.jsp, configui.jsp, configupdate.jsp, configwebapps.jsp, console.jsp, createreseed.jsp, debug.jsp, dns.jsp, dumpprofile.jsp, error.jsp, error500.jsp, events.jsp, exportfamily.jsp, flags.jsp, graph.jsp, graphs.jsp, help.jsp, home.jsp, i2ptunnelmgr.jsp, index.jsp, jars.jsp, jobs.jsp, logs.jsp, netdb.jsp, news.jsp, nowebapp.jsp, oldconsole.jsp, peers.jsp, profiles.jsp, search.jsp, stats.jsp, summaryframe.jsp, torrents.jsp, tunnels.jsp, viewhistory.jsp, viewlicense.jsp, viewprofile.jsp, viewrouterlog.jsp, viewstat.jsp, viewtheme.jsp, viewwrapperlog.jsp, webmail.jsp, welcome.jsp, welcomexhr1.jsp, xhr1.jsp]
-     [exec]      [java] Mar 27, 2022 8:19:29 PM org.apache.jasper.servlet.TldScanner scanJars
+     [exec]      [java] Mar 28, 2022 9:13:55 PM org.apache.jasper.servlet.TldScanner scanJars
      [exec]      [java] INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
-     [exec]      [java] Mar 27, 2022 8:19:29 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:55 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /certs.jsp
-     [exec]      [java] Mar 27, 2022 8:19:29 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:55 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /config.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:55 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configadvanced.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:55 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configclients.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:55 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configfamily.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:55 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /confighome.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:55 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configi2cp.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configkeyring.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configlogging.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /confignet.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configpeer.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configplugins.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configreseed.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configservice.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configsidebar.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configstats.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configtunnels.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configui.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configupdate.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configwebapps.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /console.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /createreseed.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /debug.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /dns.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /dumpprofile.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /error.jsp
-     [exec]      [java] Mar 27, 2022 8:19:30 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /error500.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /events.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /exportfamily.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /flags.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /graph.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /graphs.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /help.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /home.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /i2ptunnelmgr.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /index.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /jars.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /jobs.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /logs.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /netdb.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /news.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /nowebapp.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /oldconsole.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /peers.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /profiles.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:56 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /search.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /stats.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /summaryframe.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /torrents.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /tunnels.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewhistory.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewlicense.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewprofile.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewrouterlog.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewstat.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewtheme.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewwrapperlog.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /webmail.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /welcome.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /welcomexhr1.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /xhr1.jsp
-     [exec]      [java] Mar 27, 2022 8:19:31 PM org.apache.jasper.JspC execute
-     [exec]      [java] INFO: Generation completed with [0] errors in [2123] milliseconds
+     [exec]      [java] Mar 28, 2022 9:13:57 PM org.apache.jasper.JspC execute
+     [exec]      [java] INFO: Generation completed with [0] errors in [1952] milliseconds
      [exec]     [javac] Compiling 61 source files to /java/i2p.i2p/apps/routerconsole/jsp/WEB-INF/classes
      [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
      [exec]      [copy] Copying 1 file to /java/i2p.i2p/apps/routerconsole/jsp
@@ -1217,49 +1219,49 @@ debian-binary:
      [exec]      [exec] Generating net.i2p.router.web.messages_az ResourceBundle...
      [exec]      [exec] 635 translated messages, 964 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_cs ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.web.messages_da ResourceBundle...
      [exec]      [exec] 136 translated messages, 1463 untranslated messages.
      [exec]      [exec] 258 translated messages, 1338 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.web.messages_da ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.web.messages_de ResourceBundle...
      [exec]      [exec] 1111 translated messages, 488 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_el ResourceBundle...
-     [exec]      [exec] 1595 translated messages, 1 untranslated message.
      [exec]      [exec] Generating net.i2p.router.web.messages_es ResourceBundle...
+     [exec]      [exec] 1595 translated messages, 1 untranslated message.
      [exec]      [exec] 757 translated messages, 842 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_et ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.web.messages_fa ResourceBundle...
      [exec]      [exec] 1333 translated messages, 266 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.web.messages_fa ResourceBundle...
      [exec]      [exec] 842 translated messages, 757 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_fi ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.web.messages_fr ResourceBundle...
      [exec]      [exec] 297 translated messages, 1299 untranslated messages.
      [exec]      [exec] 609 translated messages, 987 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.web.messages_fr ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.web.messages_hu ResourceBundle...
      [exec]      [exec] 1594 translated messages, 5 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_in ResourceBundle...
      [exec]      [exec] 1594 translated messages, 5 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_it ResourceBundle...
-     [exec]      [exec] Generating net.i2p.router.web.messages_ja ResourceBundle...1338 translated messages, 261 untranslated messages.
-     [exec]      [exec] 
+     [exec]      [exec] 1338 translated messages, 261 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.web.messages_ja ResourceBundle...
      [exec]      [exec] 1144 translated messages, 455 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_ko ResourceBundle...
      [exec]      [exec] 1596 translated messages.
      [exec]      [exec] 1173 translated messages, 423 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_nb ResourceBundle...
-     [exec]      [exec] 1102 translated messages, 494 untranslated messages.Generating net.i2p.router.web.messages_nl ResourceBundle...
-     [exec]      [exec] 
-     [exec]      [exec] 1217 translated messages, 382 untranslated messages.
+     [exec]      [exec] Generating net.i2p.router.web.messages_nl ResourceBundle...
+     [exec]      [exec] 1102 translated messages, 494 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_pl ResourceBundle...
-     [exec]      [exec] 1599 translated messages.
+     [exec]      [exec] 1217 translated messages, 382 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_pt ResourceBundle...
-     [exec]      [exec] 1126 translated messages, 473 untranslated messages.
-     [exec]      [exec] 659 translated messages, 940 untranslated messages.
+     [exec]      [exec] 1599 translated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_pt_BR ResourceBundle...
      [exec]      [exec] Generating net.i2p.router.web.messages_ro ResourceBundle...
-     [exec]      [exec] 1509 translated messages, 90 untranslated messages.
+     [exec]      [exec] 1126 translated messages, 473 untranslated messages.
+     [exec]      [exec] 659 translated messages, 940 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_ru ResourceBundle...
-     [exec]      [exec] 1599 translated messages.
+     [exec]      [exec] 1509 translated messages, 90 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_sv ResourceBundle...
+     [exec]      [exec] 1599 translated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_tr ResourceBundle...
      [exec]      [exec] 1355 translated messages, 241 untranslated messages.
      [exec]      [exec] Generating net.i2p.router.web.messages_uk ResourceBundle...
@@ -1297,52 +1299,52 @@ debian-binary:
      [exec]      [exec] 15 translated messages, 3 untranslated messages.
      [exec]      [exec] 18 translated messages.
      [exec]      [exec] Generating net.i2p.client.streaming.messages_az ResourceBundle...
-     [exec]      [exec] 18 translated messages.
-     [exec]      [exec] 18 translated messages.
      [exec]      [exec] Generating net.i2p.client.streaming.messages_ca ResourceBundle...
+     [exec]      [exec] 18 translated messages.
      [exec]      [exec] Generating net.i2p.client.streaming.messages_cs ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_de ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_es ResourceBundle...
-     [exec]      [exec] Generating net.i2p.client.streaming.messages_fa ResourceBundle...
+     [exec]      [exec] 18 translated messages.
      [exec]      [exec] 9 translated messages, 9 untranslated messages.
      [exec]      [exec] 5 translated messages, 13 untranslated messages.
+     [exec]      [exec] Generating net.i2p.client.streaming.messages_fa ResourceBundle...
      [exec]      [exec] 18 translated messages.
      [exec]      [exec] 18 translated messages.
      [exec]      [exec] 18 translated messages.
      [exec]      [exec] 18 translated messages.
-     [exec]      [exec] 14 translated messages, 4 untranslated messages.
      [exec]      [exec] Generating net.i2p.client.streaming.messages_fi ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_fr ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_gl ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_hu ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_in ResourceBundle...
-     [exec]      [exec] Generating net.i2p.client.streaming.messages_it ResourceBundle...
+     [exec]      [exec] 14 translated messages, 4 untranslated messages.
      [exec]      [exec] 18 translated messages.
      [exec]      [exec] 18 translated messages.
      [exec]      [exec] 18 translated messages.
      [exec]      [exec] 18 translated messages.
-     [exec]      [exec] Generating net.i2p.client.streaming.messages_ko ResourceBundle...
      [exec]      [exec] 15 translated messages, 3 untranslated messages.
-     [exec]      [exec] 17 translated messages, 1 untranslated message.
+     [exec]      [exec] Generating net.i2p.client.streaming.messages_it ResourceBundle...
+     [exec]      [exec] Generating net.i2p.client.streaming.messages_ko ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_nb ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_nl ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_pl ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_pt ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_pt_BR ResourceBundle...
+     [exec]      [exec] 17 translated messages, 1 untranslated message.
+     [exec]      [exec] 18 translated messages.
+     [exec]      [exec] 18 translated messages.
+     [exec]      [exec] 18 translated messages.
+     [exec]      [exec] 18 translated messages.
+     [exec]      [exec] 18 translated messages.
      [exec]      [exec] Generating net.i2p.client.streaming.messages_ro ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_ru ResourceBundle...
-     [exec]      [exec] 18 translated messages.
-     [exec]      [exec] 18 translated messages.
-     [exec]      [exec] 18 translated messages.
-     [exec]      [exec] 18 translated messages.
-     [exec]      [exec] 18 translated messages.
      [exec]      [exec] Generating net.i2p.client.streaming.messages_sl ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_sv ResourceBundle...
-     [exec]      [exec] 18 translated messages.
      [exec]      [exec] Generating net.i2p.client.streaming.messages_tk ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_tr ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_uk ResourceBundle...
      [exec]      [exec] Generating net.i2p.client.streaming.messages_zh ResourceBundle...
+     [exec]      [exec] 18 translated messages.
      [exec]      [exec] 11 translated messages, 7 untranslated messages.
      [exec]      [exec] 18 translated messages.
      [exec]     [javac] Compiling 27 source files to /java/i2p.i2p/apps/ministreaming/java/build/obj
@@ -1451,7 +1453,7 @@ debian-binary:
      [exec] compile:
      [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/i2ptunnel/java/build
      [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/i2ptunnel/java/build/obj
-     [exec]     [javac] Compiling 77 source files to /java/i2p.i2p/apps/i2ptunnel/java/build/obj
+     [exec]     [javac] Compiling 79 source files to /java/i2p.i2p/apps/i2ptunnel/java/build/obj
      [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
      [exec] 
      [exec] bundle-proxy:
@@ -1471,43 +1473,43 @@ debian-binary:
      [exec]      [exec] 129 translated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_fa ResourceBundle...
      [exec]      [exec] 129 translated messages.
-     [exec]      [exec] 101 translated messages, 28 untranslated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_fi ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_fr ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_hu ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_in ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_it ResourceBundle...
+     [exec]      [exec] 101 translated messages, 28 untranslated messages.
      [exec]      [exec] 57 translated messages, 72 untranslated messages.
      [exec]      [exec] 129 translated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_it ResourceBundle...
      [exec]      [exec] 95 translated messages, 34 untranslated messages.
-     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_ja ResourceBundle...
-     [exec]      [exec] 25 translated messages, 104 untranslated messages.
-     [exec]      [exec] 101 translated messages, 28 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_ja ResourceBundle...25 translated messages, 104 untranslated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_ko ResourceBundle...
+     [exec]      [exec] 
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_nb ResourceBundle...
-     [exec]      [exec] 14 translated messages, 115 untranslated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_nl ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_nn ResourceBundle...
+     [exec]      [exec] 101 translated messages, 28 untranslated messages.
+     [exec]      [exec] 14 translated messages, 115 untranslated messages.
      [exec]      [exec] 129 translated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_nn ResourceBundle...
      [exec]      [exec] 67 translated messages, 62 untranslated messages.
      [exec]      [exec] 80 translated messages, 49 untranslated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_pl ResourceBundle...
-     [exec]      [exec] 123 translated messages, 6 untranslated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_pt ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_pt_BR ResourceBundle...
-     [exec]      [exec] 129 translated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_ro ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_ru ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_sk ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_sv ResourceBundle...
-     [exec]      [exec] 38 translated messages, 91 untranslated messages.
-     [exec]      [exec] 100 translated messages, 29 untranslated messages.
+     [exec]      [exec] 123 translated messages, 6 untranslated messages.
      [exec]      [exec] 129 translated messages.
+     [exec]      [exec] 38 translated messages, 91 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_ru ResourceBundle...
+     [exec]      [exec] 100 translated messages, 29 untranslated messages.
+     [exec]      [exec] 129 translated messages.Generating net.i2p.i2ptunnel.proxy.messages_sk ResourceBundle...
+     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_sv ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_tr ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_uk ResourceBundle...
-     [exec]      [exec] 37 translated messages, 92 untranslated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_vi ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.proxy.messages_zh ResourceBundle...
+     [exec]      [exec] 37 translated messages, 92 untranslated messages.
      [exec]      [exec] 14 translated messages, 115 untranslated messages.
      [exec]      [exec] 129 translated messages.
      [exec]     [javac] Compiling 27 source files to /java/i2p.i2p/apps/i2ptunnel/java/build/obj
@@ -1541,20 +1543,20 @@ debian-binary:
      [exec]      [java] Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
      [exec]      [java] Found JspC version: 9.0.31, supports threads? true
      [exec]      [java] JspC arguments for reproducible build: [-d, ../jsp/WEB-INF/classes, -v, -p, net.i2p.i2ptunnel.jsp, -webinc, ../jsp/web-fragment.xml, -uriroot, ../jsp/, -threadCount, 1, edit.jsp, index.jsp, register.jsp, ssl.jsp, wizard.jsp]
-     [exec]      [java] Mar 27, 2022 8:19:41 PM org.apache.jasper.servlet.TldScanner scanJars
+     [exec]      [java] Mar 28, 2022 9:14:08 PM org.apache.jasper.servlet.TldScanner scanJars
      [exec]      [java] INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
-     [exec]      [java] Mar 27, 2022 8:19:42 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:08 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /edit.jsp
-     [exec]      [java] Mar 27, 2022 8:19:42 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:08 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /index.jsp
-     [exec]      [java] Mar 27, 2022 8:19:42 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:08 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /register.jsp
-     [exec]      [java] Mar 27, 2022 8:19:42 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:08 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /ssl.jsp
-     [exec]      [java] Mar 27, 2022 8:19:42 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:08 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /wizard.jsp
-     [exec]      [java] Mar 27, 2022 8:19:42 PM org.apache.jasper.JspC execute
-     [exec]      [java] INFO: Generation completed with [0] errors in [390] milliseconds
+     [exec]      [java] Mar 28, 2022 9:14:08 PM org.apache.jasper.JspC execute
+     [exec]      [java] INFO: Generation completed with [0] errors in [418] milliseconds
      [exec]     [javac] Compiling 5 source files to /java/i2p.i2p/apps/i2ptunnel/jsp/WEB-INF/classes
      [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
      [exec]      [copy] Copying 1 file to /java/i2p.i2p/apps/i2ptunnel/jsp
@@ -1563,29 +1565,29 @@ debian-binary:
      [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/i2ptunnel/java/build/messages-src
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_ar ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_cs ResourceBundle...
-     [exec]      [exec] 102 translated messages, 362 untranslated messages.Generating net.i2p.i2ptunnel.web.messages_da ResourceBundle...
+     [exec]      [exec] 102 translated messages, 362 untranslated messages.
      [exec]      [exec] 91 translated messages, 373 untranslated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_da ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_de ResourceBundle...
      [exec]      [exec] 75 translated messages, 389 untranslated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_es ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_fa ResourceBundle...
      [exec]      [exec] 462 translated messages, 2 untranslated messages.
-     [exec]      [exec] 363 translated messages, 101 untranslated messages.
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_fi ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_fr ResourceBundle...
-     [exec]      [exec] 173 translated messages, 291 untranslated messages.
-     [exec]      [exec] 117 translated messages, 347 untranslated messages.
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_hu ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_in ResourceBundle...
-     [exec]      [exec] 462 translated messages, 2 untranslated messages.Generating net.i2p.i2ptunnel.web.messages_it ResourceBundle...
-     [exec]      [exec] 461 translated messages, 3 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_fi ResourceBundle...363 translated messages, 101 untranslated messages.
      [exec]      [exec] 
-     [exec]      [exec] 378 translated messages, 86 untranslated messages.
+     [exec]      [exec] 173 translated messages, 291 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_fr ResourceBundle...
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_hu ResourceBundle...
+     [exec]      [exec] 117 translated messages, 347 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_in ResourceBundle...462 translated messages, 2 untranslated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 461 translated messages, 3 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_it ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_ja ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_ko ResourceBundle...
+     [exec]      [exec] 378 translated messages, 86 untranslated messages.
      [exec]      [exec] 241 translated messages, 223 untranslated messages.
      [exec]      [exec] 463 translated messages, 1 untranslated message.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_ko ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_nb ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_nl ResourceBundle...
      [exec]      [exec] 231 translated messages, 233 untranslated messages.
@@ -1602,23 +1604,23 @@ debian-binary:
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_ru ResourceBundle...
      [exec]      [exec] 170 translated messages, 294 untranslated messages.
      [exec]      [exec] 408 translated messages, 56 untranslated messages.
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_sk ResourceBundle...464 translated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_sk ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_sq ResourceBundle...
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_sv ResourceBundle...
+     [exec]      [exec] 464 translated messages.
      [exec]      [exec] 174 translated messages, 290 untranslated messages.
      [exec]      [exec] 82 translated messages, 382 untranslated messages.
      [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_tr ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_uk ResourceBundle...
      [exec]      [exec] 296 translated messages, 168 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_uk ResourceBundle...
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_vi ResourceBundle...
      [exec]      [exec] 464 translated messages.
      [exec]      [exec] 223 translated messages, 241 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_zh ResourceBundle...
      [exec]      [exec] 112 translated messages, 352 untranslated messages.
+     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_zh_TW ResourceBundle...
      [exec]      [exec] 414 translated messages, 50 untranslated messages.
      [exec]      [exec] 82 translated messages, 382 untranslated messages.
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_vi ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_zh ResourceBundle...
-     [exec]      [exec] Generating net.i2p.i2ptunnel.web.messages_zh_TW ResourceBundle...
      [exec]     [javac] Compiling 29 source files to /java/i2p.i2p/apps/i2ptunnel/jsp/WEB-INF/classes
      [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
      [exec]     [javac] Note: Some input files use unchecked or unsafe operations.
@@ -1696,9 +1698,9 @@ debian-binary:
      [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/susimail/build/messages-src
      [exec]      [exec] Generating i2p.susi.webmail.messages_ar ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_az ResourceBundle...
-     [exec]      [exec] 120 translated messages, 1 untranslated message.Generating i2p.susi.webmail.messages_bg ResourceBundle...
+     [exec]      [exec] 120 translated messages, 1 untranslated message.
      [exec]      [exec] 117 translated messages, 4 untranslated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating i2p.susi.webmail.messages_bg ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_ca ResourceBundle...
      [exec]      [exec] 26 translated messages, 95 untranslated messages.
      [exec]      [exec] 34 translated messages, 87 untranslated messages.
@@ -1706,67 +1708,67 @@ debian-binary:
      [exec]      [exec] Generating i2p.susi.webmail.messages_cs ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_da ResourceBundle...
      [exec]      [exec] 43 translated messages, 78 untranslated messages.
-     [exec]      [exec] 121 translated messages.
-     [exec]      [exec] 48 translated messages, 73 untranslated messages.
-     [exec]      [exec] Generating i2p.susi.webmail.messages_de ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.webmail.messages_de ResourceBundle...121 translated messages.
      [exec]      [exec] Generating i2p.susi.webmail.messages_el ResourceBundle...
-     [exec]      [exec] 112 translated messages, 9 untranslated messages.
-     [exec]      [exec] Generating i2p.susi.webmail.messages_es ResourceBundle...101 translated messages, 20 untranslated messages.
-     [exec]      [exec] Generating i2p.susi.webmail.messages_fa ResourceBundle...
      [exec]      [exec] 
+     [exec]      [exec] 48 translated messages, 73 untranslated messages.
+     [exec]      [exec] Generating i2p.susi.webmail.messages_es ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.webmail.messages_fa ResourceBundle...
+     [exec]      [exec] 112 translated messages, 9 untranslated messages.
+     [exec]      [exec] 101 translated messages, 20 untranslated messages.
      [exec]      [exec] Generating i2p.susi.webmail.messages_fi ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.webmail.messages_fr ResourceBundle...
      [exec]      [exec] 102 translated messages, 19 untranslated messages.
      [exec]      [exec] 121 translated messages.
-     [exec]      [exec] Generating i2p.susi.webmail.messages_gl ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.webmail.messages_hr ResourceBundle...
      [exec]      [exec] 41 translated messages, 80 untranslated messages.
      [exec]      [exec] 32 translated messages, 89 untranslated messages.
-     [exec]      [exec] 121 translated messages.
+     [exec]      [exec] Generating i2p.susi.webmail.messages_fr ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.webmail.messages_gl ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.webmail.messages_hr ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_hu ResourceBundle...
-     [exec]      [exec] 120 translated messages, 1 untranslated message.Generating i2p.susi.webmail.messages_in ResourceBundle...
+     [exec]      [exec] 121 translated messages.
+     [exec]      [exec] 120 translated messages, 1 untranslated message.
      [exec]      [exec] 104 translated messages, 17 untranslated messages.
-     [exec]      [exec] 
-     [exec]      [exec] 35 translated messages, 86 untranslated messages.
+     [exec]      [exec] Generating i2p.susi.webmail.messages_in ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_it ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_iw ResourceBundle...
+     [exec]      [exec] 35 translated messages, 86 untranslated messages.
      [exec]      [exec] 121 translated messages.
      [exec]      [exec] 103 translated messages, 18 untranslated messages.
-     [exec]      [exec] 68 translated messages, 53 untranslated messages.
      [exec]      [exec] Generating i2p.susi.webmail.messages_ja ResourceBundle...
-     [exec]      [exec] 32 translated messages, 89 untranslated messages.Generating i2p.susi.webmail.messages_ko ResourceBundle...
-     [exec]      [exec] 107 translated messages, 14 untranslated messages.
-     [exec]      [exec] 121 translated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating i2p.susi.webmail.messages_ko ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_mg ResourceBundle...
+     [exec]      [exec] 68 translated messages, 53 untranslated messages.
+     [exec]      [exec] 32 translated messages, 89 untranslated messages.
+     [exec]      [exec] 107 translated messages, 14 untranslated messages.
      [exec]      [exec] Generating i2p.susi.webmail.messages_nb ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_nl ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_pl ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.webmail.messages_pt ResourceBundle...
+     [exec]      [exec] 121 translated messages.
      [exec]      [exec] 83 translated messages, 38 untranslated messages.
      [exec]      [exec] 119 translated messages, 2 untranslated messages.
+     [exec]      [exec] 120 translated messages, 1 untranslated message.
+     [exec]      [exec] Generating i2p.susi.webmail.messages_pt ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_pt_BR ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_ro ResourceBundle...
-     [exec]      [exec] 120 translated messages, 1 untranslated message.
-     [exec]      [exec] Generating i2p.susi.webmail.messages_ru ResourceBundle...121 translated messages.
-     [exec]      [exec] Generating i2p.susi.webmail.messages_sk ResourceBundle...
-     [exec]      [exec] 
+     [exec]      [exec] Generating i2p.susi.webmail.messages_ru ResourceBundle...
+     [exec]      [exec] 121 translated messages.
      [exec]      [exec] 33 translated messages, 88 untranslated messages.
      [exec]      [exec] 109 translated messages, 12 untranslated messages.
-     [exec]      [exec] Generating i2p.susi.webmail.messages_sq ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.webmail.messages_sr ResourceBundle...
      [exec]      [exec] 23 translated messages, 98 untranslated messages.
      [exec]      [exec] 121 translated messages.
-     [exec]      [exec] 121 translated messages.
+     [exec]      [exec] Generating i2p.susi.webmail.messages_sk ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.webmail.messages_sq ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.webmail.messages_sr ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_sv ResourceBundle...
-     [exec]      [exec] 105 translated messages, 16 untranslated messages.Generating i2p.susi.webmail.messages_tr ResourceBundle...
-     [exec]      [exec] 77 translated messages, 44 untranslated messages.
-     [exec]      [exec] 104 translated messages, 17 untranslated messages.
-     [exec]      [exec] 
+     [exec]      [exec] Generating i2p.susi.webmail.messages_tr ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_uk ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_vi ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_zh ResourceBundle...
      [exec]      [exec] Generating i2p.susi.webmail.messages_zh_TW ResourceBundle...
+     [exec]      [exec] 121 translated messages.
+     [exec]      [exec] 105 translated messages, 16 untranslated messages.
+     [exec]      [exec] 77 translated messages, 44 untranslated messages.
+     [exec]      [exec] 104 translated messages, 17 untranslated messages.
      [exec]      [exec] 36 translated messages, 85 untranslated messages.
      [exec]     [javac] Compiling 37 source files to /java/i2p.i2p/apps/susimail/src/WEB-INF/classes
      [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
@@ -1797,80 +1799,80 @@ debian-binary:
      [exec]      [java] Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
      [exec]      [java] Found JspC version: 9.0.31, supports threads? true
      [exec]      [java] JspC arguments for reproducible build: [-d, ./tmp, -v, -p, i2p.susi.dns.jsp, -webinc, WEB-INF/web-fragment.xml, -uriroot, ./jsp, -threadCount, 1, addressbook.jsp, config.jsp, details.jsp, export.jsp, index.jsp, subscriptions.jsp]
-     [exec]      [java] Mar 27, 2022 8:19:46 PM org.apache.jasper.servlet.TldScanner scanJars
+     [exec]      [java] Mar 28, 2022 9:14:14 PM org.apache.jasper.servlet.TldScanner scanJars
      [exec]      [java] INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
-     [exec]      [java] Mar 27, 2022 8:19:47 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /addressbook.jsp
-     [exec]      [java] Mar 27, 2022 8:19:47 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /config.jsp
-     [exec]      [java] Mar 27, 2022 8:19:47 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /details.jsp
-     [exec]      [java] Mar 27, 2022 8:19:47 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /export.jsp
-     [exec]      [java] Mar 27, 2022 8:19:47 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /index.jsp
-     [exec]      [java] Mar 27, 2022 8:19:47 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:14:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /subscriptions.jsp
-     [exec]      [java] Mar 27, 2022 8:19:47 PM org.apache.jasper.JspC execute
-     [exec]      [java] INFO: Generation completed with [0] errors in [373] milliseconds
+     [exec]      [java] Mar 28, 2022 9:14:14 PM org.apache.jasper.JspC execute
+     [exec]      [java] INFO: Generation completed with [0] errors in [380] milliseconds
      [exec]     [javac] Compiling 6 source files to /java/i2p.i2p/apps/susidns/src/WEB-INF/classes
      [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
      [exec]      [copy] Copying 1 file to /java/i2p.i2p/apps/susidns/src/WEB-INF
      [exec] 
      [exec] bundle:
      [exec]     [mkdir] Created dir: /java/i2p.i2p/apps/susidns/src/build/messages-src
+     [exec]      [exec] 91 translated messages, 99 untranslated messages.
+     [exec]      [exec] 58 translated messages, 132 untranslated messages.
      [exec]      [exec] Generating i2p.susi.dns.messages_ar ResourceBundle...
      [exec]      [exec] Generating i2p.susi.dns.messages_cs ResourceBundle...
-     [exec]      [exec] 91 translated messages, 99 untranslated messages.Generating i2p.susi.dns.messages_da ResourceBundle...
-     [exec]      [exec] 58 translated messages, 132 untranslated messages.
-     [exec]      [exec] 
-     [exec]      [exec] Generating i2p.susi.dns.messages_de ResourceBundle...
      [exec]      [exec] 49 translated messages, 141 untranslated messages.
      [exec]      [exec] 190 translated messages.
      [exec]      [exec] 58 translated messages, 132 untranslated messages.
+     [exec]      [exec] Generating i2p.susi.dns.messages_da ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.dns.messages_de ResourceBundle...
      [exec]      [exec] Generating i2p.susi.dns.messages_el ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.dns.messages_es ResourceBundle...
      [exec]      [exec] 139 translated messages, 51 untranslated messages.
      [exec]      [exec] 61 translated messages, 129 untranslated messages.
+     [exec]      [exec] Generating i2p.susi.dns.messages_es ResourceBundle...
      [exec]      [exec] Generating i2p.susi.dns.messages_fa ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.dns.messages_fi ResourceBundle...
      [exec]      [exec] 40 translated messages, 150 untranslated messages.
      [exec]      [exec] 183 translated messages, 7 untranslated messages.
+     [exec]      [exec] Generating i2p.susi.dns.messages_fi ResourceBundle...
      [exec]      [exec] Generating i2p.susi.dns.messages_fr ResourceBundle...
      [exec]      [exec] Generating i2p.susi.dns.messages_gl ResourceBundle...
      [exec]      [exec] 42 translated messages, 148 untranslated messages.
      [exec]      [exec] 183 translated messages, 7 untranslated messages.
      [exec]      [exec] Generating i2p.susi.dns.messages_hu ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.dns.messages_in ResourceBundle...
-     [exec]      [exec] 140 translated messages, 50 untranslated messages.
-     [exec]      [exec] Generating i2p.susi.dns.messages_it ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.dns.messages_ja ResourceBundle...
+     [exec]      [exec] 140 translated messages, 50 untranslated messages.Generating i2p.susi.dns.messages_in ResourceBundle...
      [exec]      [exec] 120 translated messages, 70 untranslated messages.
      [exec]      [exec] 190 translated messages.
+     [exec]      [exec] 
+     [exec]      [exec] Generating i2p.susi.dns.messages_it ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.dns.messages_ja ResourceBundle...
      [exec]      [exec] Generating i2p.susi.dns.messages_ko ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.dns.messages_nl ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.dns.messages_pl ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.dns.messages_pt ResourceBundle...
      [exec]      [exec] 112 translated messages, 78 untranslated messages.
      [exec]      [exec] 121 translated messages, 69 untranslated messages.
      [exec]      [exec] 190 translated messages.
-     [exec]      [exec] Generating i2p.susi.dns.messages_nl ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.dns.messages_pl ResourceBundle...
-     [exec]      [exec] 107 translated messages, 83 untranslated messages.
-     [exec]      [exec] Generating i2p.susi.dns.messages_pt ResourceBundle...155 translated messages, 35 untranslated messages.
      [exec]      [exec] Generating i2p.susi.dns.messages_pt_BR ResourceBundle...
-     [exec]      [exec] 
      [exec]      [exec] Generating i2p.susi.dns.messages_ro ResourceBundle...
      [exec]      [exec] Generating i2p.susi.dns.messages_ru ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.dns.messages_sv ResourceBundle...
+     [exec]      [exec] 107 translated messages, 83 untranslated messages.
+     [exec]      [exec] 155 translated messages, 35 untranslated messages.
      [exec]      [exec] 147 translated messages, 43 untranslated messages.
-     [exec]      [exec] Generating i2p.susi.dns.messages_tr ResourceBundle...190 translated messages.
+     [exec]      [exec] Generating i2p.susi.dns.messages_sv ResourceBundle...
+     [exec]      [exec] Generating i2p.susi.dns.messages_tr ResourceBundle...
+     [exec]      [exec] 190 translated messages.
+     [exec]      [exec] 190 translated messages.
+     [exec]      [exec] 190 translated messages.
      [exec]      [exec] Generating i2p.susi.dns.messages_uk ResourceBundle...
-     [exec]      [exec] 
-     [exec]      [exec] 190 translated messages.
-     [exec]      [exec] 190 translated messages.
      [exec]      [exec] Generating i2p.susi.dns.messages_vi ResourceBundle...
-     [exec]      [exec] 130 translated messages, 60 untranslated messages.
      [exec]      [exec] Generating i2p.susi.dns.messages_zh ResourceBundle...
-     [exec]      [exec] Generating i2p.susi.dns.messages_zh_TW ResourceBundle...
+     [exec]      [exec] 130 translated messages, 60 untranslated messages.
      [exec]      [exec] 34 translated messages, 156 untranslated messages.
+     [exec]      [exec] Generating i2p.susi.dns.messages_zh_TW ResourceBundle...
      [exec]      [exec] 165 translated messages, 25 untranslated messages.
      [exec]      [exec] 54 translated messages, 136 untranslated messages.
      [exec]     [javac] Compiling 27 source files to /java/i2p.i2p/apps/susidns/src/WEB-INF/classes
@@ -1918,13 +1920,13 @@ debian-binary:
      [exec]      [exec] Generating org.klomp.snark.web.messages_de ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_el ResourceBundle...
      [exec]      [exec] 364 translated messages, 6 untranslated messages.
-     [exec]      [exec] 68 translated messages, 302 untranslated messages.
      [exec]      [exec] Generating org.klomp.snark.web.messages_es ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_fa ResourceBundle...
+     [exec]      [exec] 68 translated messages, 302 untranslated messages.
      [exec]      [exec] 349 translated messages, 21 untranslated messages.
-     [exec]      [exec] 198 translated messages, 172 untranslated messages.
      [exec]      [exec] Generating org.klomp.snark.web.messages_fi ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_fr ResourceBundle...
+     [exec]      [exec] 198 translated messages, 172 untranslated messages.
      [exec]      [exec] 220 translated messages, 150 untranslated messages.
      [exec]      [exec] Generating org.klomp.snark.web.messages_hu ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_in ResourceBundle...
@@ -1936,28 +1938,28 @@ debian-binary:
      [exec]      [exec] Generating org.klomp.snark.web.messages_ko ResourceBundle...
      [exec]      [exec] 290 translated messages, 80 untranslated messages.
      [exec]      [exec] 370 translated messages.
-     [exec]      [exec] 284 translated messages, 86 untranslated messages.
-     [exec]      [exec] 239 translated messages, 131 untranslated messages.
-     [exec]      [exec] 289 translated messages, 81 untranslated messages.
-     [exec]      [exec] Generating org.klomp.snark.web.messages_nb ResourceBundle...
+     [exec]      [exec] Generating org.klomp.snark.web.messages_nb ResourceBundle...284 translated messages, 86 untranslated messages.
+     [exec]      [exec] 
      [exec]      [exec] Generating org.klomp.snark.web.messages_nl ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_pl ResourceBundle...
-     [exec]      [exec] 349 translated messages, 21 untranslated messages.
-     [exec]      [exec] 249 translated messages, 121 untranslated messages.
-     [exec]      [exec] 162 translated messages, 208 untranslated messages.
+     [exec]      [exec] 239 translated messages, 131 untranslated messages.
+     [exec]      [exec] 289 translated messages, 81 untranslated messages.
      [exec]      [exec] Generating org.klomp.snark.web.messages_pt ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_pt_BR ResourceBundle...
-     [exec]      [exec] 360 translated messages, 10 untranslated messages.
-     [exec]      [exec] 363 translated messages, 7 untranslated messages.
+     [exec]      [exec] 349 translated messages, 21 untranslated messages.
+     [exec]      [exec] 249 translated messages, 121 untranslated messages.
      [exec]      [exec] Generating org.klomp.snark.web.messages_ro ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_ru ResourceBundle...
+     [exec]      [exec] 162 translated messages, 208 untranslated messages.
+     [exec]      [exec] 360 translated messages, 10 untranslated messages.
      [exec]      [exec] Generating org.klomp.snark.web.messages_sk ResourceBundle...
+     [exec]      [exec] 363 translated messages, 7 untranslated messages.
      [exec]      [exec] 252 translated messages, 118 untranslated messages.
+     [exec]      [exec] Generating org.klomp.snark.web.messages_sq ResourceBundle...
+     [exec]      [exec] Generating org.klomp.snark.web.messages_sv ResourceBundle...
      [exec]      [exec] 53 translated messages, 317 untranslated messages.
      [exec]      [exec] 347 translated messages, 23 untranslated messages.
      [exec]      [exec] 370 translated messages.
-     [exec]      [exec] Generating org.klomp.snark.web.messages_sq ResourceBundle...
-     [exec]      [exec] Generating org.klomp.snark.web.messages_sv ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_tr ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_uk ResourceBundle...
      [exec]      [exec] Generating org.klomp.snark.web.messages_vi ResourceBundle...
@@ -2131,11 +2133,6 @@ debian-binary:
      [exec]      [exec] Generating az ResourceBundle...
      [exec]      [exec] Generating ca ResourceBundle...
      [exec]      [exec] Generating de ResourceBundle...
-     [exec]      [exec] 37 translated messages.
-     [exec]      [exec] 37 translated messages.
-     [exec]      [exec] 37 translated messages.
-     [exec]      [exec] 37 translated messages.
-     [exec]      [exec] 37 translated messages.
      [exec]      [exec] Generating es ResourceBundle...
      [exec]      [exec] Generating fi ResourceBundle...
      [exec]      [exec] Generating fr ResourceBundle...
@@ -2150,12 +2147,15 @@ debian-binary:
      [exec]      [exec] Generating ko ResourceBundle...
      [exec]      [exec] Generating nb ResourceBundle...
      [exec]      [exec] 37 translated messages.
-     [exec]      [exec] 8 translated messages, 29 untranslated messages.
+     [exec]      [exec] 37 translated messages.
+     [exec]      [exec] 37 translated messages.
      [exec]      [exec] 37 translated messages.
      [exec]      [exec] Generating nl ResourceBundle...37 translated messages.
+     [exec]      [exec] 
+     [exec]      [exec] 37 translated messages.
+     [exec]      [exec] 8 translated messages, 29 untranslated messages.
      [exec]      [exec] Generating pl ResourceBundle...
      [exec]      [exec] Generating pt ResourceBundle...
-     [exec]      [exec] 
      [exec]      [exec] Generating pt_BR ResourceBundle...
      [exec]      [exec] Generating ro ResourceBundle...
      [exec]      [exec] Generating ru ResourceBundle...
@@ -2164,6 +2164,8 @@ debian-binary:
      [exec]      [exec] Generating tr ResourceBundle...
      [exec]      [exec] Generating uk ResourceBundle...
      [exec]      [exec] Generating zh ResourceBundle...
+     [exec]      [exec] 37 translated messages.
+     [exec]      [exec] 37 translated messages.
      [exec]      [exec] 37 translated messages.
      [exec]      [exec] 37 translated messages.
      [exec]      [exec] 37 translated messages.
@@ -2409,7 +2411,7 @@ debian-binary:
      [exec]   [javadoc] 1 warning
      [exec] 
      [exec] BUILD SUCCESSFUL
-     [exec] Total time: 1 minute 14 seconds
+     [exec] Total time: 1 minute 16 seconds
      [exec] echo router.updateDisabled=true > /java/i2p.i2p/pkg-temp/router.config
      [exec] mv /java/i2p.i2p/pkg-temp/runplain.sh /java/i2p.i2p/pkg-temp/i2prouter-nowrapper
      [exec] dh binary-indep --with systemd,bash-completion,quilt
@@ -2481,7 +2483,7 @@ debian-binary:
      [exec] 
      [exec] buildProperties:
      [exec]      [echo] JDK: Ubuntu 11.0.14 (OpenJDK Runtime Environment 11.0.14+9-Ubuntu-0ubuntu2.20.04)
-     [exec]      [echo] Building version 1.7.0-11-1 (revision b1852c127bc50c8a53c9ab9f9e63b68814b12d4f)
+     [exec]      [echo] Building version 1.7.0-11-1 (revision 1c369d54cd465749490ea120f3e4037f84f4977b)
      [exec] 
      [exec] buildCore:
      [exec] 
@@ -2505,7 +2507,7 @@ debian-binary:
      [exec] buildrouter:
      [exec] 
      [exec] depend:
-     [exec]    [depend] Deleted 151 out of date files in 1 seconds
+     [exec]    [depend] Deleted 151 out of date files in 2 seconds
      [exec] 
      [exec] dependVersion:
      [exec] 
@@ -2665,132 +2667,132 @@ debian-binary:
      [exec]      [java] Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
      [exec]      [java] Found JspC version: 9.0.31, supports threads? true
      [exec]      [java] JspC arguments for reproducible build: [-d, ../jsp/WEB-INF/classes, -v, -p, net.i2p.router.web.jsp, -webinc, ../jsp/web-fragment.xml, -uriroot, ../jsp/, -threadCount, 1, certs.jsp, config.jsp, configadvanced.jsp, configclients.jsp, configfamily.jsp, confighome.jsp, configi2cp.jsp, configkeyring.jsp, configlogging.jsp, confignet.jsp, configpeer.jsp, configplugins.jsp, configreseed.jsp, configservice.jsp, configsidebar.jsp, configstats.jsp, configtunnels.jsp, configui.jsp, configupdate.jsp, configwebapps.jsp, console.jsp, createreseed.jsp, debug.jsp, dns.jsp, dumpprofile.jsp, error.jsp, error500.jsp, events.jsp, exportfamily.jsp, flags.jsp, graph.jsp, graphs.jsp, help.jsp, home.jsp, i2ptunnelmgr.jsp, index.jsp, jars.jsp, jobs.jsp, logs.jsp, netdb.jsp, news.jsp, nowebapp.jsp, oldconsole.jsp, peers.jsp, profiles.jsp, search.jsp, stats.jsp, summaryframe.jsp, torrents.jsp, tunnels.jsp, viewhistory.jsp, viewlicense.jsp, viewprofile.jsp, viewrouterlog.jsp, viewstat.jsp, viewtheme.jsp, viewwrapperlog.jsp, webmail.jsp, welcome.jsp, welcomexhr1.jsp, xhr1.jsp]
-     [exec]      [java] Mar 27, 2022 8:20:44 PM org.apache.jasper.servlet.TldScanner scanJars
+     [exec]      [java] Mar 28, 2022 9:15:13 PM org.apache.jasper.servlet.TldScanner scanJars
      [exec]      [java] INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
-     [exec]      [java] Mar 27, 2022 8:20:44 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /certs.jsp
-     [exec]      [java] Mar 27, 2022 8:20:44 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /config.jsp
-     [exec]      [java] Mar 27, 2022 8:20:44 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configadvanced.jsp
-     [exec]      [java] Mar 27, 2022 8:20:44 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configclients.jsp
-     [exec]      [java] Mar 27, 2022 8:20:44 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configfamily.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /confighome.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configi2cp.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configkeyring.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configlogging.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /confignet.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configpeer.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configplugins.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configreseed.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configservice.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configsidebar.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configstats.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configtunnels.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configui.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:14 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configupdate.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /configwebapps.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /console.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /createreseed.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /debug.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /dns.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /dumpprofile.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /error.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /error500.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /events.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /exportfamily.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /flags.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /graph.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /graphs.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /help.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /home.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /i2ptunnelmgr.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /index.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /jars.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /jobs.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /logs.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /netdb.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /news.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /nowebapp.jsp
-     [exec]      [java] Mar 27, 2022 8:20:45 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /oldconsole.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /peers.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /profiles.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /search.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /stats.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /summaryframe.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /torrents.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /tunnels.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewhistory.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewlicense.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewprofile.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewrouterlog.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewstat.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewtheme.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:15 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /viewwrapperlog.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:16 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /webmail.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:16 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /welcome.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:16 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /welcomexhr1.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC processFile
+     [exec]      [java] Mar 28, 2022 9:15:16 PM org.apache.jasper.JspC processFile
      [exec]      [java] INFO: Built File: /xhr1.jsp
-     [exec]      [java] Mar 27, 2022 8:20:46 PM org.apache.jasper.JspC execute
-     [exec]      [java] INFO: Generation completed with [0] errors in [1679] milliseconds
+     [exec]      [java] Mar 28, 2022 9:15:16 PM org.apache.jasper.JspC execute
+     [exec]      [java] INFO: Generation completed with [0] errors in [2202] milliseconds
      [exec]     [javac] Compiling 61 source files to /java/i2p.i2p/apps/routerconsole/jsp/WEB-INF/classes
      [exec]     [javac] Ignoring source, target and bootclasspath as release has been set
      [exec]      [copy] Copying 1 file to /java/i2p.i2p/apps/routerconsole/jsp
@@ -3357,7 +3359,7 @@ debian-binary:
      [exec]   [javadoc] 1 warning
      [exec] 
      [exec] BUILD SUCCESSFUL
-     [exec] Total time: 1 minute 1 second
+     [exec] Total time: 1 minute 7 seconds
      [exec] echo router.updateDisabled=true > /java/i2p.i2p/pkg-temp/router.config
      [exec] mv /java/i2p.i2p/pkg-temp/runplain.sh /java/i2p.i2p/pkg-temp/i2prouter-nowrapper
      [exec] make[1]: Leaving directory '/java/i2p.i2p'
@@ -3367,9 +3369,9 @@ debian-binary:
      [exec]    dh_auto_install -i
      [exec]    debian/rules override_dh_install
      [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] dh_install --list-missing
      [exec] dh_install: warning: Please use dh_missing --list-missing/--fail-missing instead
      [exec] dh_install: warning: This feature will be removed in compat 12.
-     [exec] dh_install --list-missing
      [exec] dh_apparmor --profile-name=system_i2p -pi2p
      [exec] dh_apparmor --profile-name=usr.bin.i2prouter -pi2p
      [exec] make[1]: Leaving directory '/java/i2p.i2p'
@@ -3433,12 +3435,12 @@ debian-binary:
      [exec] dpkg-gencontrol: warning: Depends field of package i2p-router: substitution variable ${java:Depends} used, but is not defined
      [exec] dpkg-gencontrol: warning: Depends field of package i2p-router: substitution variable ${shlibs:Depends} used, but is not defined
      [exec]    dh_md5sums -i
+     [exec]    dh_builddeb -i
      [exec] dpkg-deb: warning: conffile name '/etc/i2p/wrapper.config' is duplicated
      [exec] dpkg-deb: warning: ignoring 1 warning about the control file(s)
-     [exec]    dh_builddeb -i
-     [exec] dpkg-deb: building package 'i2p' in '../i2p_1.7.0-11-b1852c12-1_all.deb'.
-     [exec] dpkg-deb: building package 'i2p-doc' in '../i2p-doc_1.7.0-11-b1852c12-1_all.deb'.
-     [exec] dpkg-deb: building package 'i2p-router' in '../i2p-router_1.7.0-11-b1852c12-1_all.deb'.
+     [exec] dpkg-deb: building package 'i2p' in '../i2p_1.7.0-11-1c369d54-1_all.deb'.
+     [exec] dpkg-deb: building package 'i2p-doc' in '../i2p-doc_1.7.0-11-1c369d54-1_all.deb'.
+     [exec] dpkg-deb: building package 'i2p-router' in '../i2p-router_1.7.0-11-1c369d54-1_all.deb'.
      [exec] dh binary --with systemd,bash-completion,quilt
      [exec]    debian/rules build
      [exec] make[1]: Entering directory '/java/i2p.i2p'
@@ -3450,9 +3452,9 @@ debian-binary:
      [exec]    dh_auto_install
      [exec]    debian/rules override_dh_install
      [exec] make[1]: Entering directory '/java/i2p.i2p'
+     [exec] dh_install --list-missing
      [exec] dh_install: warning: Please use dh_missing --list-missing/--fail-missing instead
      [exec] dh_install: warning: This feature will be removed in compat 12.
-     [exec] dh_install --list-missing
      [exec] dh_apparmor --profile-name=system_i2p -pi2p
      [exec] dh_apparmor --profile-name=usr.bin.i2prouter -pi2p
      [exec] make[1]: Leaving directory '/java/i2p.i2p'
@@ -3523,14 +3525,14 @@ debian-binary:
      [exec] dpkg-gencontrol: warning: Depends field of package i2p-router: substitution variable ${shlibs:Depends} used, but is not defined
      [exec]    dh_md5sums
      [exec]    dh_builddeb
+     [exec] dpkg-deb: building package 'i2p' in '../i2p_1.7.0-11-1c369d54-1_all.deb'.
      [exec] dpkg-deb: warning: conffile name '/etc/i2p/wrapper.config' is duplicated
      [exec] dpkg-deb: warning: ignoring 1 warning about the control file(s)
-     [exec] dpkg-deb: building package 'i2p' in '../i2p_1.7.0-11-b1852c12-1_all.deb'.
-     [exec] dpkg-deb: building package 'libjbigi-jni' in '../libjbigi-jni_1.7.0-11-b1852c12-1_amd64.deb'.
-     [exec] dpkg-deb: building package 'libjbigi-jni-dbgsym' in 'debian/.debhelper/scratch-space/build-libjbigi-jni/libjbigi-jni-dbgsym_1.7.0-11-b1852c12-1_amd64.deb'.
-     [exec] 	Renaming libjbigi-jni-dbgsym_1.7.0-11-b1852c12-1_amd64.deb to libjbigi-jni-dbgsym_1.7.0-11-b1852c12-1_amd64.ddeb
-     [exec] dpkg-deb: building package 'i2p-doc' in '../i2p-doc_1.7.0-11-b1852c12-1_all.deb'.
-     [exec] dpkg-deb: building package 'i2p-router' in '../i2p-router_1.7.0-11-b1852c12-1_all.deb'.
+     [exec] dpkg-deb: building package 'libjbigi-jni' in '../libjbigi-jni_1.7.0-11-1c369d54-1_amd64.deb'.
+     [exec] dpkg-deb: building package 'libjbigi-jni-dbgsym' in 'debian/.debhelper/scratch-space/build-libjbigi-jni/libjbigi-jni-dbgsym_1.7.0-11-1c369d54-1_amd64.deb'.
+     [exec] 	Renaming libjbigi-jni-dbgsym_1.7.0-11-1c369d54-1_amd64.deb to libjbigi-jni-dbgsym_1.7.0-11-1c369d54-1_amd64.ddeb
+     [exec] dpkg-deb: building package 'i2p-doc' in '../i2p-doc_1.7.0-11-1c369d54-1_all.deb'.
+     [exec] dpkg-deb: building package 'i2p-router' in '../i2p-router_1.7.0-11-1c369d54-1_all.deb'.
      [exec]  *** Creating debian/copyright*** 
      [exec] dh clean --with systemd,bash-completion,quilt
      [exec]    debian/rules override_dh_auto_clean
@@ -3682,7 +3684,7 @@ debian-binary:
      [exec] distclean:
      [exec] 
      [exec] BUILD SUCCESSFUL
-     [exec] Total time: 2 seconds
+     [exec] Total time: 1 second
      [exec] find /java/i2p.i2p/core \( -name '*\.so' -o -name '*\.o' \) -exec rm -f {} \;
      [exec] rm -rf /java/i2p.i2p/core/c/jcpuid/lib/
      [exec] rm -f /java/i2p.i2p/installer/lib/wrapper/all/wrapper.jar
@@ -3754,4 +3756,4 @@ debian-binary:
 debian:
 
 BUILD SUCCESSFUL
-Total time: 3 minutes 43 seconds
+Total time: 3 minutes 56 seconds
